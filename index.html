@@ -116,7 +116,7 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">Horses for Courses: Classical Ciphers as a Testbed for Architectural Inductive Bias Evaluation</h1>
+            <h1 class="title is-1 publication-title">Horses for Courses: Classical Ciphers as a Testbed for Architectural Inductive Bias Evaluation using Natural and Synthetic Languages.</h1>
             
             <div class="is-size-5 publication-authors">
               <span class="author-block">
@@ -238,7 +238,7 @@
               We construct a multilingual corpus of 26,000 encrypted articles spanning natural languages (English, Hindi, Greek) and synthetic constructed languages. Articles sourced from Wikipedia undergo systematic encryption across 8 cipher types, creating a comprehensive testbed for evaluating architectural inductive biases in neural cryptanalysis.
             </p>
             <p>
-              Natural language corpora test script-invariant learning across Latin (26 chars), Devanagari (46+ chars), and Greek (24 chars) alphabets. Constructed languages systematically isolate morphological (5 complexity levels), syntactic (6 word orders), and phonological (10-50 alphabet sizes) variables to identify fundamental architectural limits.
+              Natural language corpora test script invariant learning across Latin (38 chars), Devanagari (46+ chars), and Greek (24 chars) alphabets. Constructed languages systematically isolate morphological (5 complexity levels), syntactic (5 word orders), and phonological (10-50 alphabet sizes) variables to identify fundamental architectural limits.
             </p>
             
             <h3 class="title is-5 has-text-centered">Language Distribution</h3>
@@ -247,7 +247,6 @@
                 <thead>
                   <tr>
                     <th>Language</th>
-                    <th>Script</th>
                     <th>Alphabet Size</th>
                     <th>Articles</th>
                     <th>Characters</th>
@@ -257,22 +256,19 @@
                 <tbody>
                   <tr>
                     <td>English</td>
-                    <td>Latin</td>
-                    <td>26</td>
+                    <td>38</td>
                     <td class="col-tweets">1,000</td>
                     <td class="col-tweets">2,542,530</td>
                     <td>Wikipedia API</td>
                   </tr>
                   <tr>
                     <td>Hindi</td>
-                    <td>Devanagari (Romanized)</td>
                     <td>46+</td>
                     <td class="col-tweets">1,000</td>
                     <td class="col-tweets">1,903,287</td>
                     <td>Wikipedia API</td>
                   </tr>
                   <tr>
-                    <td>Greek</td>
                     <td>Greek</td>
                     <td>24</td>
                     <td class="col-tweets">1,000</td>
@@ -281,7 +277,6 @@
                   </tr>
                   <tr>
                     <td>Constructed (Morphology)</td>
-                    <td>Latin</td>
                     <td>26</td>
                     <td class="col-tweets">250×5 levels</td>
                     <td>Variable</td>
@@ -289,7 +284,6 @@
                   </tr>
                   <tr>
                     <td>Constructed (Syntax)</td>
-                    <td>Latin</td>
                     <td>26</td>
                     <td class="col-tweets">250×6 orders</td>
                     <td>Variable</td>
@@ -297,7 +291,6 @@
                   </tr>
                   <tr>
                     <td>Constructed (Phonology)</td>
-                    <td>Custom</td>
                     <td>10-50</td>
                     <td class="col-tweets">250×8 levels</td>
                     <td>Variable</td>
