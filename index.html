@@ -6,10 +6,10 @@
   
   <!-- Basic Meta Tags -->
   <meta name="title" content="Arch Inductive Bias">
-  <meta name="description" content="Evaluating LLM Translation Against Multilingual Transformers on Twitter Data">
+  <meta name="description" content="Horses for Courses: Classical Ciphers as a Testbed for Architectural Inductive Bias Evaluation">
   <meta name="author" content="Durga Sharma">
   
-  <title>Codemixed Tweet Translation</title>
+  <title>Arch Inductive Bias</title>
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="./favicon.png"
@@ -116,7 +116,7 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">Code-Mixed Sentiment Analysis: Evaluating LLM Translation Against Multilingual Transformers on Twitter Data</h1>
+            <h1 class="title is-1 publication-title">Horses for Courses: Classical Ciphers as a Testbed for Architectural Inductive Bias Evaluation</h1>
             
             <div class="is-size-5 publication-authors">
               <span class="author-block">
@@ -133,21 +133,11 @@
 
             <div class="column has-text-centered">
               <div class="publication-links">
-                
-                <!-- Paper PDF -->
-                <span class="link-block">
-                  <a href="static/transoftweets_poster.pdf" target="_blank"
-                  class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                    <i class="fas fa-file-pdf"></i>
-                  </span>
-                  <span>Poster@CODS-COMAD'24</span>
-                  </a>
-                </span>
+              
 
                 <!-- GitHub -->
                 <span class="link-block">
-                  <a href="https://github.com/durgarsharma/codemixed-tweet-translation" target="_blank"
+                  <a href="https://github.com/durgarsharma/architectural-inductive-bias" target="_blank"
                   class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                     <i class="fab fa-github"></i>
@@ -172,7 +162,7 @@
           <h2 class="title is-3">Abstract</h2>
           <div class="content has-text-justified">
             <p>
-              Hindi and English (Hi–En) code mixing is widespread across Indian social media and remains a major challenge for sentiment analysis and cyberbullying detection. Current multilingual models struggle with this type of data, often giving inconsistent predictions and showing lower confidence. In this work, 27,314 tweets directed at six Indian athletes across three sports (2013–2023) to understand how code mixing affects automated sentiment classification. It was found that 12% of tweets contain Hi–En code mixing, with significant differences across athletes, and that 48.4% of all tweets are negative, with Wrestling athletes receiving the highest levels of negativity. Compared the state of the art multilingual models (XLM-RoBERTa, mBERT) with an LLM based translation pipeline and found that these models show only fair agreement on code mixed tweets, highlighting the difficulty of the task. Human evaluation on 498 tweets provides gold standard labels and shows that both multilingual models reach only moderate performance. Overall, the results show the limitations of current multilingual systems for processing code mixed text and demonstrate that translation based workflows offer a strong alternative for sentiment analysis in linguistically diverse social media settings.
+              This study systematically explores the potential of machine learning models to decrypt text without prior knowledge of the cipher key or explicit rules. Focusing on the feasibility of Zero-Shot generalization, the research compares four dominant neural network architectures: MLP, Character CNN, LSTM, and Transformer. The project is executed across four phases, commencing with a 1,000 article English corpus and extending to Hindi, Greek, and constructed languages (testing systematic variations in morphology, syntax, and phonology). The MLP was trained on five ciphers and evaluated on a held-out sixth cipher in Phase 1, establishing the architectural baseline. Experimental results from the MLP show low to moderate accuracy (50%–65%) with negative generalization gaps, conclusively proving that position independent networks lack the representational capacity for robust decryption. In contrast, the subsequent phases demonstrate that LSTMs, with their explicit sequential memory, achieve near-perfect decryption on position-dependent ciphers like Vigenère, while the Transformer surprisingly fails due to over generalization. The research culminates by challenging the best-performing models with modern block ciphers (AES/DES), serving as a negative control. The expected universal failure validates that neural network success on classical ciphers relies solely on exploitable statistical patternsnot true cryptographic deduction. These findings provide a definitive architectural hierarchy and establish the fundamental boundaries of pattern-based learning across diverse linguistic structures.
             </p>
           </div>
         </div>
@@ -188,12 +178,21 @@
         
         <!-- Result 1 -->
         <div class="result-item">
-          <img src="static/images/fig1_distribution_comparison.png" alt="Result 1: Multilingual Models Disagree"/>
+          <div class="columns is-centered">
+            <div class="column is-4">
+              <img src="static/images/lstm_english.png" alt="English LSTM Performance"/>
+            </div>
+            <div class="column is-4">
+              <img src="static/images/lstm_hindi.png" alt="Hindi LSTM Performance"/>
+            </div>
+            <div class="column is-4">
+              <img src="static/images/all_lstm_greek_ccomparison.png" alt="Greek LSTM Performance"/>
+            </div>
+          </div>
           <h2 class="subtitle has-text-centered">
-            State of the art multilingual models show extreme divergence: XLM-RoBERTa classifies 42.9% as neutral while mBERT classifies only 3.8%, revealing fundamental disagreement on code-mixed sentiment.
+            LSTM achieves 99%+ word accuracy on Vigenère across English, Hindi, and Greek respectively, with standard deviation ≤0.13%
           </h2>
         </div>
-        
         <!-- Result 2 -->
         <div class="result-item">
           <img src="static/images/fig_confusion_matrices_human.png" alt="Result 2: Human Evaluation Validates Difficulty"/>
