@@ -177,41 +177,57 @@
         <h2 class="title is-3 has-text-centered">Key Results</h2>
         
         <!-- Result 1 -->
+        <h3 class="title is-4 has-text-centered">Result 1: Recurrent Memory Solves Sequential Ciphers Universally</h3>
         <div class="result-item">
-          <div class="columns is-centered">
-            <div class="column is-4">
-              <img src="static/images/lstm_english.png" alt="English LSTM Performance"/>
-            </div>
-            <div class="column is-4">
-              <img src="static/images/lstm_hindi.png" alt="Hindi LSTM Performance"/>
-            </div>
-            <div class="column is-4">
-              <img src="static/images/all_lstm_greek_ccomparison.png" alt="Greek LSTM Performance"/>
-            </div>
-          </div>
+          <img src="static/images/fig_lstm_script_invariant" alt="Result 2"/>
           <h2 class="subtitle has-text-centered">
-            LSTM achieves 99%+ word accuracy on Vigenère across English, Hindi, and Greek respectively, with standard deviation ≤0.13%
+            LSTM achieves 99%+ word accuracy on Vigenère across English, Hindi, and Greek with standard deviation ≤0.13%
           </h2>
         </div>
+        
         <!-- Result 2 -->
+        <h3 class="title is-4 has-text-centered">Result 2: Transformers Catastrophically Fail on Simple Sequences</h3>
         <div class="result-item">
-          <img src="static/images/fig_confusion_matrices_human.png" alt="Result 2: Human Evaluation Validates Difficulty"/>
+          <img src="static/images/fig_vigenere_architecture_comparison.png" alt="Result 2"/>
           <h2 class="subtitle has-text-centered">
-            Against human gold standard labels, both XLM-RoBERTa and mBERT achieve only moderate performance (F1 ≈ 0.59) with catastrophic failure on neutral sentiment classification.
+            Vigenère performance comparison: LSTM 99.91%, CNN 93.06%, Transformer 9.88%, showing catastrophic attention failure
           </h2>
         </div>
         
         <!-- Result 3 -->
+        <h3 class="title is-4 has-text-centered">Result 3: Linguistic Complexity Exposes Fundamental Limits</h3>
         <div class="result-item">
-          <img src="static/images/fig_translation_quality.png" alt="Result 3: Translation Works Well"/>
+          <div class="columns is-centered">
+            <div class="column is-3">
+              <img src="static/images/fig_morphology_collapse.png" alt="Morphology"/>
+            </div>
+            <div class="column is-3">
+              <img src="static/images/fig_phonology_inversion.png" alt="Phonology"/>
+            </div>
           <h2 class="subtitle has-text-centered">
-            LLM based translation achieves 76.4% sentiment preservation with systematic improvements: 11.5% neutral → negative corrections enhance cyberbullying detection while maintaining minimal distortion.
+            Universal architectural collapse: all models achieve 0-5% word accuracy on morphologically complex Vigenère despite 91% character accuracy, showing long words (10-20 chars) exponentially amplify errors.
           </h2>
         </div>
         
-      </div>
-    </div>
-  </section>
+        <!-- Result 4 -->
+        <h3 class="title is-4 has-text-centered">Result 4: Negative Controls Prove Pattern Dependency</h3>
+        <div class="result-item">
+          <div class="columns is-centered">
+            <div class="column is-6">
+              <img src="static/images/AES_all_models.png" alt="AES Negative Control"/>
+            </div>
+            <div class="column is-6">
+              <img src="static/images/DES_all_models.png" alt="DES Negative Control"/>
+            </div>
+          </div>
+          <h2 class="subtitle has-text-centered">
+            All architectures achieve 0.00% word accuracy on AES and DES encryption, confirming neural cryptanalysis depends entirely on exploitable statistical patterns absent in modern secure ciphers.
+          </h2>
+        </div>
+                
+              </div>
+            </div>
+          </section>
 
   <!-- Dataset Section -->
   <section class="section hero is-light">
