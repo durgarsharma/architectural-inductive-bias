@@ -235,58 +235,141 @@
           <h2 class="title is-3">Dataset</h2>
           <div class="content has-text-justified">
             <p>
-              We collected 27,314 tweets directed at six Indian athletes (2013-2023), with 12.01% exhibiting Hindi-English code-mixing. Code-mixing intensity varied from 0.5% to 48.1% across athletes, with balanced language integration (mean Hindi ratio = 0.58) indicating genuine bilingual expression rather than superficial switching.
+              We construct a multilingual corpus of 26,000 encrypted articles spanning natural languages (English, Hindi, Greek) and synthetic constructed languages. Articles sourced from Wikipedia undergo systematic encryption across 8 cipher types, creating a comprehensive testbed for evaluating architectural inductive biases in neural cryptanalysis.
             </p>
             <p>
-              Three independent annotators labeled 498 stratified-sampled tweets (83 per athlete), achieving moderate agreement (Cohen's κ = 0.586). Gold-standard labels derived via majority voting reveal 48.4% negative sentiment, establishing reliable benchmarks for evaluating automated systems on code-mixed content.
+              Natural language corpora test script-invariant learning across Latin (26 chars), Devanagari (46+ chars), and Greek (24 chars) alphabets. Constructed languages systematically isolate morphological (5 complexity levels), syntactic (6 word orders), and phonological (10-50 alphabet sizes) variables to identify fundamental architectural limits.
+            </p>
+            
+            <h3 class="title is-5 has-text-centered">Language Distribution</h3>
+            <div class="custom-table-container">
+              <table class="pretty-table">
+                <thead>
+                  <tr>
+                    <th>Language</th>
+                    <th>Script</th>
+                    <th>Alphabet Size</th>
+                    <th>Articles</th>
+                    <th>Characters</th>
+                    <th>Source</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>English</td>
+                    <td>Latin</td>
+                    <td>26</td>
+                    <td class="col-tweets">1,000</td>
+                    <td class="col-tweets">2,542,530</td>
+                    <td>Wikipedia API</td>
+                  </tr>
+                  <tr>
+                    <td>Hindi</td>
+                    <td>Devanagari (Romanized)</td>
+                    <td>46+</td>
+                    <td class="col-tweets">1,000</td>
+                    <td class="col-tweets">1,903,287</td>
+                    <td>Wikipedia API</td>
+                  </tr>
+                  <tr>
+                    <td>Greek</td>
+                    <td>Greek</td>
+                    <td>24</td>
+                    <td class="col-tweets">1,000</td>
+                    <td class="col-tweets">2,520,499</td>
+                    <td>Wikipedia API</td>
+                  </tr>
+                  <tr>
+                    <td>Constructed (Morphology)</td>
+                    <td>Latin</td>
+                    <td>26</td>
+                    <td class="col-tweets">250×5 levels</td>
+                    <td>Variable</td>
+                    <td>English base, rewritten</td>
+                  </tr>
+                  <tr>
+                    <td>Constructed (Syntax)</td>
+                    <td>Latin</td>
+                    <td>26</td>
+                    <td class="col-tweets">250×6 orders</td>
+                    <td>Variable</td>
+                    <td>English base, reordered</td>
+                  </tr>
+                  <tr>
+                    <td>Constructed (Phonology)</td>
+                    <td>Custom</td>
+                    <td>10-50</td>
+                    <td class="col-tweets">250×8 levels</td>
+                    <td>Variable</td>
+                    <td>English base, remapped</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+  
+            <h3 class="title is-5 has-text-centered" style="margin-top: 2rem;">Cipher Types</h3>
+            <p>
+              We evaluate six classical ciphers providing exploitable statistical patterns and two modern encryption standards (AES, DES) as negative controls eliminating all structure. Each cipher creates a unique 1,000-article dataset with 70-15-15 train/validation/test split enforcing zero-shot generalization.
             </p>
             
             <div class="custom-table-container">
               <table class="pretty-table">
                 <thead>
                   <tr>
-                    <th>Athlete</th>
-                    <th>Sport</th>
-                    <th>Period</th>
-                    <th>Tweets</th>
+                    <th>Cipher</th>
+                    <th>Type</th>
+                    <th>Key Structure</th>
+                    <th>Decryption Challenge</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Virat Kohli</td>
-                    <td>Cricket</td>
-                    <td>May-Oct 2017</td>
-                    <td class="col-tweets">4,892</td>
+                    <td>Caesar</td>
+                    <td>Monoalphabetic</td>
+                    <td>Single shift offset</td>
+                    <td>Identify fixed integer offset across corpus</td>
                   </tr>
                   <tr>
-                    <td>Harmanpreet Kaur</td>
-                    <td>Cricket</td>
-                    <td>May-Oct 2017</td>
-                    <td class="col-tweets">4,156</td>
+                    <td>Atbash</td>
+                    <td>Monoalphabetic</td>
+                    <td>Alphabet reversal (A↔Z)</td>
+                    <td>Learn mirrored 1:1 mapping rule</td>
                   </tr>
                   <tr>
-                    <td>Vijender Singh</td>
-                    <td>Boxing</td>
-                    <td>Feb-Jul 2013</td>
-                    <td class="col-tweets">4,234</td>
+                    <td>Affine</td>
+                    <td>Monoalphabetic</td>
+                    <td>Two-key: E(x)=(ax+b) mod 26</td>
+                    <td>Identify multiplication factor <i>a</i> and shift <i>b</i></td>
                   </tr>
                   <tr>
-                    <td>Sarita Devi</td>
-                    <td>Boxing</td>
-                    <td>Sep 2014-Feb 2015</td>
-                    <td class="col-tweets">4,421</td>
+                    <td>Vigenère</td>
+                    <td>Polyalphabetic</td>
+                    <td>Repeating keyword (e.g., "CIPHER")</td>
+                    <td>Track periodic key pattern requiring sequential memory</td>
                   </tr>
                   <tr>
-                    <td>Sushil Kumar</td>
-                    <td>Wrestling</td>
-                    <td>May-Oct 2021</td>
-                    <td class="col-tweets">4,567</td>
+                    <td>Substitution Fixed</td>
+                    <td>Monoalphabetic</td>
+                    <td>Custom 26-character map</td>
+                    <td>Learn complete arbitrary substitution table</td>
                   </tr>
                   <tr>
-                    <td>Sakshi Malik</td>
-                    <td>Wrestling</td>
-                    <td>Jan-Jun 2023</td>
-                    <td class="col-tweets">5,044</td>
+                    <td>Substitution Random</td>
+                    <td>Monoalphabetic</td>
+                    <td>Different random key per article</td>
+                    <td>Generalize across 1,000 unique random mappings</td>
+                  </tr>
+                  <tr>
+                    <td>AES</td>
+                    <td>Block cipher</td>
+                    <td>128/256-bit key, pseudorandom</td>
+                    <td>Negative control: no exploitable patterns</td>
+                  </tr>
+                  <tr>
+                    <td>DES</td>
+                    <td>Block cipher</td>
+                    <td>64-bit blocks, 16-round Feistel</td>
+                    <td>Negative control: statistical randomness</td>
                   </tr>
                 </tbody>
               </table>
