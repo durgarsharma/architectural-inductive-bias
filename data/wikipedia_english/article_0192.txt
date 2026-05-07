@@ -1,0 +1,1388 @@
+Title: Poynting's theorem
+
+In electrodynamics, Poynting's theorem is a statement of conservation of energy for electromagnetic fields that was developed by British physicist John Henry Poynting. It states that in a given volume, the stored energy changes at a rate given by the work done on the charges within the volume, minus the rate at which energy leaves the volume. It is only strictly true in media that is not dispersive, but can be extended for the dispersive case.
+The theorem is analogous to the work-energy theorem in classical mechanics, and mathematically similar to the continuity equation.
+
+
+Definition
+Poynting's theorem states that the rate of energy transfer per unit volume from a region of space equals the rate of work done on the charge distribution in the region, plus the energy flux leaving that region.
+Mathematically:
+
+where:
+
+  
+    
+      
+        −
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle -{\frac {\partial u}{\partial t}}}
+  
+ is the rate of change of the energy density in the volume.
+∇ ⋅ S is the energy flow out of the volume, given by the divergence of the Poynting vector S.
+J ⋅ E is the power density of the field doing work on charges (J is the current density corresponding to the motion of charge, E is the electric field, and ⋅ is the dot product).
+
+
+Integral form
+Using the divergence theorem, Poynting's theorem can also be written in integral form:
+
+where
+
+S is the energy flow, given by the Poynting Vector
+u is the energy density
+
+  
+    
+      
+        ∂
+        V
+        
+      
+    
+    {\displaystyle \partial V\!}
+  
+ is the boundary of the volume. The shape of the volume is arbitrary but fixed.
+
+
+Continuity equation analog
+In an electrical engineering context the theorem is sometimes written with the energy density term u expanded as shown. This form resembles the continuity equation:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          S
+        
+        +
+        
+          ϵ
+          
+            0
+          
+        
+        
+          E
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                E
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          
+            
+              B
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          J
+        
+        ⋅
+        
+          E
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {S} +\epsilon _{0}\mathbf {E} \cdot {\frac {\partial \mathbf {E} }{\partial t}}+{\frac {\mathbf {B} }{\mu _{0}}}\cdot {\frac {\partial \mathbf {B} }{\partial t}}+\mathbf {J} \cdot \mathbf {E} =0,}
+  
+
+where
+
+ε0 is the vacuum permittivity and μ0 is the vacuum permeability.
+
+  
+    
+      
+        
+          ϵ
+          
+            0
+          
+        
+        
+          E
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                E
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \epsilon _{0}\mathbf {E} \cdot {\frac {\partial \mathbf {E} }{\partial t}}}
+  
+ is the density of reactive power driving the build-up of electric field,
+
+  
+    
+      
+        
+          
+            
+              B
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathbf {B} }{\mu _{0}}}\cdot {\frac {\partial \mathbf {B} }{\partial t}}}
+  
+ is the density of reactive power driving the build-up of magnetic field, and
+
+  
+    
+      
+        
+          J
+        
+        ⋅
+        
+          E
+        
+      
+    
+    {\displaystyle \mathbf {J} \cdot \mathbf {E} }
+  
+ is the density of electric power dissipated by the Lorentz force acting on charge carriers.
+
+
+Derivation
+The rate of work done by the electromagnetic field on the infinitesimal charge
+
+  
+    
+      
+        d
+        q
+        =
+        ρ
+        
+          d
+          
+            3
+          
+        
+        x
+      
+    
+    {\displaystyle dq=\rho d^{3}x}
+  
+
+is given by the Lorentz Force Law as:
+
+  
+    
+      
+        d
+        P
+        =
+        d
+        
+          F
+        
+        ⋅
+        
+          v
+        
+        =
+        (
+        
+          E
+        
+        +
+        
+          v
+        
+        ×
+        
+          B
+        
+        )
+        d
+        q
+        ⋅
+        
+          v
+        
+        =
+        
+          E
+        
+        ⋅
+        ρ
+        
+          v
+        
+        
+          d
+          
+            3
+          
+        
+        x
+        +
+        0
+        =
+        
+          E
+        
+        ⋅
+        
+          J
+        
+        
+          d
+          
+            3
+          
+        
+        x
+      
+    
+    {\displaystyle dP=d\mathbf {F} \cdot \mathbf {v} =(\mathbf {E} +\mathbf {v} \times \mathbf {B} )dq\cdot \mathbf {v} =\mathbf {E} \cdot \rho \mathbf {v} d^{3}x+0=\mathbf {E} \cdot \mathbf {J} d^{3}x}
+  
+ (the dot product 
+  
+    
+      
+        (
+        
+          v
+        
+        ×
+        
+          B
+        
+        )
+        ⋅
+        
+          v
+        
+        =
+        0
+      
+    
+    {\displaystyle (\mathbf {v} \times \mathbf {B} )\cdot \mathbf {v} =0}
+  
+ because from the definition of cross product the cross product of v and B is perpendicular to v).
+Where ρ is the volume charge density and J = ρv is the current density at the point and time where v is the velocity of the charge dq.
+The rate of work done on the whole charges in the volume V will be the volume integral
+
+  
+    
+      
+        P
+        =
+        
+          ∫
+          
+            V
+          
+        
+        d
+        P
+        =
+        
+          ∫
+          
+            V
+          
+        
+        
+          J
+        
+        ⋅
+        
+          E
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+      
+    
+    {\displaystyle P=\int _{V}dP=\int _{V}\mathbf {J} \cdot \mathbf {E} ~\mathrm {d} ^{3}x}
+  
+
+By Ampère's circuital law:
+
+  
+    
+      
+        
+          J
+        
+        =
+        ∇
+        ×
+        
+          H
+        
+        −
+        
+          
+            
+              ∂
+              
+                D
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {J} =\nabla \times \mathbf {H} -{\frac {\partial \mathbf {D} }{\partial t}}}
+  
+
+(Note that the H and D forms of the magnetic and electric fields are used here.  The B and E forms could also be used in an equivalent derivation.)
+Substituting this into the expression for rate of work gives:
+
+  
+    
+      
+        
+          ∫
+          
+            V
+          
+        
+        
+          J
+        
+        ⋅
+        
+          E
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+        =
+        
+          ∫
+          
+            V
+          
+        
+        
+          [
+          
+            
+              E
+            
+            ⋅
+            (
+            ∇
+            ×
+            
+              H
+            
+            )
+            −
+            
+              E
+            
+            ⋅
+            
+              
+                
+                  ∂
+                  
+                    D
+                  
+                
+                
+                  ∂
+                  t
+                
+              
+            
+          
+          ]
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+      
+    
+    {\displaystyle \int _{V}\mathbf {J} \cdot \mathbf {E} ~\mathrm {d} ^{3}x=\int _{V}\left[\mathbf {E} \cdot (\nabla \times \mathbf {H} )-\mathbf {E} \cdot {\frac {\partial \mathbf {D} }{\partial t}}\right]~\mathrm {d} ^{3}x}
+  
+
+Using the vector identity 
+  
+    
+      
+        ∇
+        ⋅
+        (
+        
+          E
+        
+        ×
+        
+          H
+        
+        )
+        =
+         
+        (
+        ∇
+        
+          ×
+        
+        
+          E
+        
+        )
+        ⋅
+        
+          H
+        
+        
+        −
+        
+        
+          E
+        
+        ⋅
+        (
+        ∇
+        
+          ×
+        
+        
+          H
+        
+        )
+      
+    
+    {\displaystyle \nabla \cdot (\mathbf {E} \times \mathbf {H} )=\ (\nabla {\times }\mathbf {E} )\cdot \mathbf {H} \,-\,\mathbf {E} \cdot (\nabla {\times }\mathbf {H} )}
+  
+:
+
+  
+    
+      
+        
+          ∫
+          
+            V
+          
+        
+        
+          J
+        
+        ⋅
+        
+          E
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+        =
+        −
+        
+          ∫
+          
+            V
+          
+        
+        
+          [
+          
+            ∇
+            ⋅
+            (
+            
+              E
+            
+            ×
+            
+              H
+            
+            )
+            −
+            
+              H
+            
+            ⋅
+            (
+            ∇
+            ×
+            
+              E
+            
+            )
+            +
+            
+              E
+            
+            ⋅
+            
+              
+                
+                  ∂
+                  
+                    D
+                  
+                
+                
+                  ∂
+                  t
+                
+              
+            
+          
+          ]
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+      
+    
+    {\displaystyle \int _{V}\mathbf {J} \cdot \mathbf {E} ~\mathrm {d} ^{3}x=-\int _{V}\left[\nabla \cdot (\mathbf {E} \times \mathbf {H} )-\mathbf {H} \cdot (\nabla \times \mathbf {E} )+\mathbf {E} \cdot {\frac {\partial \mathbf {D} }{\partial t}}\right]~\mathrm {d} ^{3}x}
+  
+
+By Faraday's Law:
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        −
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}}
+  
+
+giving:
+
+  
+    
+      
+        
+          ∫
+          
+            V
+          
+        
+        
+          J
+        
+        ⋅
+        
+          E
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+        =
+        −
+        
+          ∫
+          
+            V
+          
+        
+        
+          [
+          
+            ∇
+            ⋅
+            (
+            
+              E
+            
+            ×
+            
+              H
+            
+            )
+            +
+            
+              E
+            
+            ⋅
+            
+              
+                
+                  ∂
+                  
+                    D
+                  
+                
+                
+                  ∂
+                  t
+                
+              
+            
+            +
+            
+              H
+            
+            ⋅
+            
+              
+                
+                  ∂
+                  
+                    B
+                  
+                
+                
+                  ∂
+                  t
+                
+              
+            
+          
+          ]
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+      
+    
+    {\displaystyle \int _{V}\mathbf {J} \cdot \mathbf {E} ~\mathrm {d} ^{3}x=-\int _{V}\left[\nabla \cdot (\mathbf {E} \times \mathbf {H} )+\mathbf {E} \cdot {\frac {\partial \mathbf {D} }{\partial t}}+\mathbf {H} \cdot {\frac {\partial \mathbf {B} }{\partial t}}\right]~\mathrm {d} ^{3}x}
+  
+
+Continuing the derivation requires the following assumptions:
+
+the charges are moving in a medium that is not dispersive.
+the total electromagnetic energy density, even for time-varying fields, is given by 
+  
+    
+      
+        u
+        =
+        
+          
+            1
+            2
+          
+        
+        (
+        
+          E
+        
+        ⋅
+        
+          D
+        
+        +
+        
+          B
+        
+        ⋅
+        
+          H
+        
+        )
+      
+    
+    {\displaystyle u={\frac {1}{2}}(\mathbf {E} \cdot \mathbf {D} +\mathbf {B} \cdot \mathbf {H} )}
+  
+
+It can be shown that:
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        (
+        
+          E
+        
+        ⋅
+        
+          D
+        
+        )
+        =
+        2
+        
+          E
+        
+        ⋅
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          D
+        
+      
+    
+    {\displaystyle {\frac {\partial }{\partial t}}(\mathbf {E} \cdot \mathbf {D} )=2\mathbf {E} \cdot {\frac {\partial }{\partial t}}\mathbf {D} }
+  
+ and 
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        (
+        
+          H
+        
+        ⋅
+        
+          B
+        
+        )
+        =
+        2
+        
+          H
+        
+        ⋅
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          B
+        
+      
+    
+    {\displaystyle {\frac {\partial }{\partial t}}(\mathbf {H} \cdot \mathbf {B} )=2\mathbf {H} \cdot {\frac {\partial }{\partial t}}\mathbf {B} }
+  
+
+and so:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          E
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                D
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          H
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial u}{\partial t}}=\mathbf {E} \cdot {\frac {\partial \mathbf {D} }{\partial t}}+\mathbf {H} \cdot {\frac {\partial \mathbf {B} }{\partial t}}}
+  
+
+Returning to the equation for rate of work,
+
+  
+    
+      
+        
+          ∫
+          
+            V
+          
+        
+        
+          J
+        
+        ⋅
+        
+          E
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+        =
+        −
+        
+          ∫
+          
+            V
+          
+        
+        
+          [
+          
+            
+              
+                
+                  ∂
+                  u
+                
+                
+                  ∂
+                  t
+                
+              
+            
+            +
+            ∇
+            ⋅
+            (
+            
+              E
+            
+            ×
+            
+              H
+            
+            )
+          
+          ]
+        
+         
+        
+          
+            d
+          
+          
+            3
+          
+        
+        x
+      
+    
+    {\displaystyle \int _{V}\mathbf {J} \cdot \mathbf {E} ~\mathrm {d} ^{3}x=-\int _{V}\left[{\frac {\partial u}{\partial t}}+\nabla \cdot (\mathbf {E} \times \mathbf {H} )\right]~\mathrm {d} ^{3}x}
+  
+
+Since the volume is arbitrary, this can be cast in differential form as:
+
+  
+    
+      
+        −
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        ∇
+        ⋅
+        
+          S
+        
+        +
+        
+          J
+        
+        ⋅
+        
+          E
+        
+      
+    
+    {\displaystyle -{\frac {\partial u}{\partial t}}=\nabla \cdot \mathbf {S} +\mathbf {J} \cdot \mathbf {E} }
+  
+
+where 
+  
+    
+      
+        
+          S
+        
+        =
+        
+          E
+        
+        ×
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbf {S} =\mathbf {E} \times \mathbf {H} }
+  
+ is the Poynting vector.
+
+
+Poynting vector in macroscopic media
+In a macroscopic medium, electromagnetic effects are described by spatially averaged (macroscopic) fields. The Poynting vector in a macroscopic medium can be defined self-consistently with microscopic theory, in such a way that the spatially averaged microscopic Poynting vector is exactly predicted by a macroscopic formalism. This result is strictly valid in the limit of low-loss and allows for the unambiguous identification of the Poynting vector form in macroscopic electrodynamics.
+
+
+Alternative forms
+It is possible to derive alternative versions of Poynting's theorem. Instead of the flux vector E × H as above, it is possible to follow the same style of derivation, but instead choose E × B, the Minkowski form D × B, or perhaps D × H. Each choice represents the response of the propagation medium in its own way: the E × B form above has the property that the response happens only due to electric currents, while the D × H form uses only (fictitious) magnetic monopole currents.  The other two forms (Abraham and Minkowski) use complementary combinations of electric and magnetic currents to represent the polarization and magnetization responses of the medium.
+
+
+Modification
+The derivation of the statement is dependent on the assumption that the materials the equation models can be described by a set of susceptibility properties that are linear, isotropic, homogenous and independent of frequency. The assumption that the materials have no absorption must also be made. A modification to Poynting's theorem to account for variations includes a term for the rate of non-Ohmic absorption in a material, which can be calculated by a simplified approximation based on the Drude model.
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          
+            U
+          
+        
+        +
+        ∇
+        ⋅
+        
+          S
+        
+        +
+        
+          E
+        
+        ⋅
+        
+          
+            J
+          
+          
+            free
+          
+        
+        +
+        
+          
+            
+              R
+            
+          
+          
+            ⊣
+            ∫
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {\partial }{\partial t}}{\mathcal {U}}+\nabla \cdot \mathbf {S} +\mathbf {E} \cdot \mathbf {J} _{\text{free}}+{\mathcal {R}}_{\dashv \int }=0}
+  
+
+
+Complex Poynting vector theorem
+This form of the theorem is useful in Antenna theory, where one has often to consider harmonic fields propagating in the space.
+In this case, using phasor notation, 
+  
+    
+      
+        E
+        (
+        t
+        )
+        =
+        E
+        
+          e
+          
+            j
+            ω
+            t
+          
+        
+      
+    
+    {\displaystyle E(t)=Ee^{j\omega t}}
+  
+ and 
+  
+    
+      
+        H
+        (
+        t
+        )
+        =
+        H
+        
+          e
+          
+            j
+            ω
+            t
+          
+        
+      
+    
+    {\displaystyle H(t)=He^{j\omega t}}
+  
+.
+Then the following mathematical identity holds:
+
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        
+          ∫
+          
+            ∂
+            Ω
+          
+        
+        E
+        ×
+        
+          H
+          
+            ∗
+          
+        
+        ⋅
+        d
+        
+          
+            a
+          
+        
+        =
+        
+          
+            
+              j
+              ω
+            
+            2
+          
+        
+        
+          ∫
+          
+            Ω
+          
+        
+        (
+        ε
+        E
+        
+          E
+          
+            ∗
+          
+        
+        −
+        μ
+        H
+        
+          H
+          
+            ∗
+          
+        
+        )
+        d
+        v
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∫
+          
+            Ω
+          
+        
+        E
+        
+          J
+          
+            ∗
+          
+        
+        d
+        v
+        ,
+      
+    
+    {\displaystyle {1 \over 2}\int _{\partial \Omega }E\times H^{*}\cdot d{\mathbf {a} }={j\omega  \over 2}\int _{\Omega }(\varepsilon EE^{*}-\mu HH^{*})dv-{1 \over 2}\int _{\Omega }EJ^{*}dv,}
+  
+
+where 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ is the current density.
+Note that in free space, 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+ and 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ are real, thus,
+taking the real part of the above formula, it expresses the fact that the averaged radiated power flowing through 
+  
+    
+      
+        ∂
+        Ω
+      
+    
+    {\displaystyle \partial \Omega }
+  
+ is equal to the work on the charges.
+
+
+References
+
+
+External links
+
+Eric W. Weisstein "Poynting Theorem" From ScienceWorld – A Wolfram Web Resource.

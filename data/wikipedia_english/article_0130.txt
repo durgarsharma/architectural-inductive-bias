@@ -1,0 +1,10 @@
+Title: Quasi-extinction
+
+Quasi-extinction refers to the state in which a species or population has declined to critically low numbers, making its recovery highly unlikely, even though a small number of individuals may still persist. This concept is often used in conservation biology to identify species at extreme risk of extinction and to guide management strategies aimed at preventing complete extinction. Quasi-extinction is typically characterized by an inability of the population to sustain itself due to genetic, demographic, or environmental factors.
+
+
+Extinction threshold
+The quasi-extinction threshold, or sometimes called the quasi-extinction risk is the population size below which a species is considered to be at extreme risk of quasi-extinction. This threshold varies by species and is influenced by several factors, including reproductive rates, habitat requirements, and genetic diversity. It is often used in population viability analyses (PVA) to model the likelihood of a species declining to levels where recovery becomes nearly impossible.
+
+
+References

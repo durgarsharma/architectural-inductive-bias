@@ -1,0 +1,79 @@
+Title: Dimensional weight
+
+Dimensional weight, also known as volumetric weight, is a pricing technique for commercial freight transport (including courier and postal services), which uses an estimated weight that is calculated from the length, width and height of a package.  
+The shipping fee is based upon the dimensional weight or the actual weight, whichever is greater.
+
+
+Significance
+Shipping costs have historically been calculated on the basis of gross weight in kilograms or pounds.  By charging only by weight, lightweight, low density packages become unprofitable for freight carriers due to the amount of space they take up in the truck/aircraft/ship in proportion to their actual weight.  
+The concept of dimensional weight has been adopted by the transportation industry worldwide as a uniform means of establishing a minimum charge for the cubic space a package occupies. In fact, UPS and FedEx both announced that starting 2015, shipping charges on all shipments (air and ground) will be determined by greater of the actual weight and dimensional weight of a package. Prior to this announcement, dimensional weight charges were only applicable to packages of a specific size range.
+
+
+Weight calculation
+Dimensional weight is a calculation of a theoretical weight of a package. This theoretical weight is the weight of the package at a minimum density chosen by the freight carrier. If the package is below this minimum density, then the actual weight is irrelevant as the freight carrier will charge for the volume of the package as if it were of the chosen density (what the package would weigh at the minimum density). 
+Furthermore, the volume used to calculate the dimensional weight may not be absolutely representative of the true volume of the package. The freight carrier will measure the longest dimension in each of the three axis (X, Y, Z) and use these measurements to determine the package volume. If the package is a right-angled rectangular box (rectangular cuboid), then this will be equal to the true volume of the package. However, if the package is of any other shape, then the calculation of volume will be more than the true volume of the package.
+Dimensional weight is also known as DIM weight, volumetric weight, or cubed weight.  Freight carriers utilize the greater of the actual weight or dimensional weight to calculate shipping charges.  Dimensional weight is calculated as (length × width × height) / (dimensional factor). Measurements can be made all in inches or all in centimeters, but the appropriate shipping factor must also be used. 
+Shipping factors for imperial measurements represent cubic inches per pound (in3/lb) while metric factors represent cubic centimeters per kilogram (cm3/kg). These are the inverse of the package density. Dimensional weight is applied when the actual product density is less than the minimum density represented by the chosen factor. Dimensional weight is representative of the weight of the package at the minimum density accepted by the freight carrier. Shipping factors are not only different for imperial and metric measurements, but also for shipment mode and in some cases between different customers. Shipping factors will be available from the freight carrier. Some common factors are listed below. 
+Imperial shipping factor examples:
+
+139 in3/lb <=> 12 lb/ft3
+166 in3/lb <=> 10.4 lb/ft3 - common for IATA shipments
+194 in3/lb <=> 8.9 lb/ft3 - common for domestic shipments
+216 in3/lb <=> 8.0 lb/ft3
+225 in3/lb <=> 7.7 lb/ft3
+250 in3/lb <=> 6.9 lb/ft3
+Metric shipping factor examples:
+
+5000 cm3/kg <=> 200 kg/m3
+6000 cm3/kg <=> 166.667 kg/m3
+7000 cm3/kg <=> 142.857 kg/m3
+When calculating the dimensional weight with metric measurements, the length, width, and height are measured in centimeters (cm) and the result is stated in a nominal kilogram (kg) dimensional weight band (usually rounded up).
+
+
+Shipping companies
+Canada Post
+Expedited or Regular : 6,000 cm3/kg (166 cu in/lb) or 1⁄6 kg/dm3 (10 lb/cu ft)
+Priority, Xpresspost, U.S. and International : 5,000 cm3/kg (138 cu in/lb) or 1⁄5 kg/dm3 (12 lb/cu ft)
+DHL Express
+Global: 5,000 cm3/kg (138 cu in/lb) or 1⁄5 kg/dm3 (12 lb/cu ft)
+United Arab Emirates: 4,000 cm3/kg (111 cu in/lb) or 1⁄4 kg/dm3 (16 lb/cu ft)
+FedEx
+International: 139 cubic inches per pound (5,000 cm3/kg) or 1⁄5 kg/dm3 (12 lb/cu ft)
+U.S. and Puerto Rico: 139 cubic inches per pound (5,000 cm3/kg) or 1⁄5 kg/dm3 (12 lb/cu ft)
+United Parcel Service
+International: 139 cubic inches per pound (5,000 cm3/kg) or 1⁄5 kg/dm3 (12 lb/cu ft)
+U.S. Domestic: 139 cubic inches per pound (5,000 cm3/kg) or 1⁄5 kg/dm3 (12 lb/cu ft) (Daily rates only, for packages that exceed one cubic foot / 1,728 cubic inches.)
+U.S. Domestic: 166 cubic inches per pound (6,000 cm3/kg) or 1⁄6 kg/dm3 (10 lb/cu ft) (Retail rates only, for all packages. Daily rates only, for packages equal to or less than one cubic foot / 1,728 cubic inches.)
+Canada Domestic: 139 cubic inches per pound (5,000 cm3/kg) or 1⁄5 kg/dm3 (12 lb/cu ft) (All except UPS Standard within Canada.)
+Canada Domestic: 166 cubic inches per pound (6,000 cm3/kg) or 1⁄6 kg/dm3 (10 lb/cu ft) (UPS Standard within Canada.)
+United States Postal Service
+International: 166 cubic inches per pound (6,000 cm3/kg) or 1⁄6 kg/dm3 (10 lb/cu ft) (Global Express Guaranteed only)
+Domestic: 194 cubic inches per pound (7,000 cm3/kg) or 1⁄7 kg/dm3 (8.9 lb/cu ft) (Priority Mail only, parcels delivered to Zones 5-9 that exceed one cubic foot / 1,728 cubic inches.)
+
+
+Examples
+Using dimensional weight calculations, a freight carrier will charge for lightweight (low density) packages as if they had a greater weight (the weight of the package at the minimum accepted density).  
+For example, a box of clothing shipped internationally which weighs 10 pounds and measures 18 × 18 × 18 inches would be charged as if it weighed 36 pounds: (18 x 18 x 18)/166 = 35.1 pounds which is then rounded up to 36 pounds for shipping cost purposes. The 35.1 pounds is the 'theoretical" weight of the package if it had a density of 166 in3/lb or 10.4 lb/ft3: (18 × 18 × 18) = 3.375 ft3 × 10.4 lb/ft3 = 35.1 lb.
+Note that for the USPS there are two different calculations for DIM weight: (L × W × H)/194 for domestic shipments and (L × W × H)/166 for international shipments.
+Several programs are available to calculate dimensional weight: Dim Weight Calculator
+
+
+Practical application
+Dimensional weight favors shippers of dense objects and penalizes those who ship lightweight boxes.  A box of unpopped corn kernels will likely be charged by gross weight; a box of popcorn will probably be charged by its dimensional weight.  This is because the large box of popcorn takes up a lot of space but does not fill up a vehicle's capacity in terms of weight, making it an inefficient use of space.
+Shippers avoid dimensional weight charges by using smaller boxes, by compressing their goods, and by reducing the use of packing materials.
+
+
+Commercial use
+Dimensional weight is commonly used for invoicing by air freight forwarders, truck carriers, as well as all commercial airlines worldwide.  In 2007, DHL, FedEx, United Parcel Service and USPS adopted the dimensional weight system for ground services.
+In May 2007, the United States Postal Service (USPS) adopted dimensional weight, calling it "Shape Based Postage Pricing".  This rate system is designed to charge more for lightweight items, and also to recover costs involving manual sorting and handling, since many postal machines are built to handle flats.  This system would charge much more for mailing a parcel than a flat envelope.  It encourages mailing books and DVDs in flat paperboard or plastic envelopes, rather than padded mailers.
+Such companies use automated systems called dimensioners for calculating both dimensional and actual weight and invoice their customers accordingly.  More and more transport and logistics companies including warehouses and retailers are investing in dimensioning equipment for calculating the dimensional weight of their packages in order to keep in line with their carriers and avoid back charges.
+Cube weight is used in less than truckload shipping (LTL) to fill trailers with small heavy objects in them with light weight large objects to increase load factor.  Generally cube and weight are reference data from the shipment table.
+
+
+See also
+Unit load
+Corrugated box design
+Track and trace
+
+
+References
