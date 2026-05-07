@@ -1,4 +1,4 @@
-# Attention Cannot Track Cycles: Mechanistic Evidence from Vigen\`{e}re Cipher Decryption
+# Attention Cannot Track Cycles: Mechanistic Evidence from Vigenere Cipher Decryption
 ---
 
 ## Overview
