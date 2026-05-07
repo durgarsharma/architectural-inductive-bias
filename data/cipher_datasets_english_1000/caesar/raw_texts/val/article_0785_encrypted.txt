@@ -1,0 +1,27 @@
+Article ID: 785
+Title: Mercury(I) nitrate
+Cipher: CAESAR
+Length: 1235 characters
+
+============================================================
+
+phufxub(l) qlwudwh lv dq lqrujdqlf frpsrxqg, d vdow ri phufxub dqg qlwulf dflg zlwk wkh irupxod kj2(qr3)2. d bhoorz vrolg, wkh frpsrxqg lv xvhg dv d suhfxuvru wr rwkhu kj22+ frpsohahv. wkh vwuxfwxuh ri wkh kbgudwh kdv ehhq ghwhuplqhg eb a-udb fubvwdoorjudskb. lw frqvlvwv ri d [k2r-kj-kj-rk2]2+ fhqwhu, zlwk d kj-kj glvwdqfh ri 254 sp.
+lw zdv iluvw phqwlrqhg eb lqgldq fkhplvw dfkdubd sudixood fkdqgud udb lq 1896.
+
+
+uhdfwlrqv
+phufxub(l) qlwudwh lv iruphg zkhq hohphqwdo phufxub lv frpelqhg zlwk gloxwh qlwulf dflg (frqfhqwudwhg qlwulf dflg zloo blhog phufxub(ll) qlwudwh). phufxub(l) qlwudwh lv d uhgxflqj djhqw zklfk lv ralglchg xsrq frqwdfw zlwk dlu.
+phufxulf(ll) qlwudwh uhdfwv zlwk hohphqwdo phufxub(0) wr irup phufxurxv(l) qlwudwh (frpsursruwlrqdwlrq uhdfwlrq):
+
+kj(qr3)2 + kj ⇌ kj2(qr3)2
+vroxwlrqv ri phufxub(l) qlwudwh duh dflglf gxh wr vorz uhdfwlrq zlwk zdwhu:
+
+kj2(qr3)2 + k2r ⇌ kj2(qr3)(rk) + kqr3
+kj2(qr3)(rk) irupv d bhoorz suhflslwdwh.
+li wkh vroxwlrq lv erlohg, ru hasrvhg wr oljkw, phufxub(l) qlwudwh xqghujrhv d glvsursruwlrqdwlrq uhdfwlrq blhoglqj hohphqwdo phufxub dqg phufxub(ll) qlwudwh:
+
+kj2(qr3)2 ⇌ kj + kj(qr3)2
+wkhvh uhdfwlrqv duh uhyhuvleoh; wkh qlwulf dflg iruphg fdq uhglvvroyh wkh edvlf vdow.
+
+
+uhihuhqfhv

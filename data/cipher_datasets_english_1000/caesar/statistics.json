@@ -1,0 +1,10 @@
+{
+  "cipher_type": "caesar",
+  "total_articles": 1000,
+  "total_characters": 2542530,
+  "splits": {
+    "train": 700,
+    "val": 150,
+    "test": 150
+  }
+}

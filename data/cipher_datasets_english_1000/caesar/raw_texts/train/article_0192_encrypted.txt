@@ -1,0 +1,281 @@
+Article ID: 192
+Title: Poynting's theorem
+Cipher: CAESAR
+Length: 4988 characters
+
+============================================================
+
+lq hohfwurgbqdplfv, srbqwlqj'v wkhruhp lv d vwdwhphqw ri frqvhuydwlrq ri hqhujb iru hohfwurpdjqhwlf ilhogv wkdw zdv ghyhorshg eb eulwlvk skbvlflvw mrkq khqub srbqwlqj. lw vwdwhv wkdw lq d jlyhq yroxph, wkh vwruhg hqhujb fkdqjhv dw d udwh jlyhq eb wkh zrun grqh rq wkh fkdujhv zlwklq wkh yroxph, plqxv wkh udwh dw zklfk hqhujb ohdyhv wkh yroxph. lw lv rqob vwulfwob wuxh lq phgld wkdw lv qrw glvshuvlyh, exw fdq eh hawhqghg iru wkh glvshuvlyh fdvh.
+wkh wkhruhp lv dqdorjrxv wr wkh zrun-hqhujb wkhruhp lq fodvvlfdo phfkdqlfv, dqg pdwkhpdwlfdoob vlplodu wr wkh frqwlqxlwb htxdwlrq.
+
+
+ghilqlwlrq
+srbqwlqj'v wkhruhp vwdwhv wkdw wkh udwh ri hqhujb wudqvihu shu xqlw yroxph iurp d uhjlrq ri vsdfh htxdov wkh udwh ri zrun grqh rq wkh fkdujh glvwulexwlrq lq wkh uhjlrq, soxv wkh hqhujb ioxa ohdylqj wkdw uhjlrq.
+pdwkhpdwlfdoob:
+
+zkhuh:
+
+  
+    
+      
+        −
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              w
+            
+          
+        
+      
+    
+    {\glvsodbvwboh -{\iudf {\sduwldo x}{\sduwldo w}}}
+  
+ lv wkh udwh ri fkdqjh ri wkh hqhujb ghqvlwb lq wkh yroxph.
+∇ ⋅ v lv wkh hqhujb iorz rxw ri wkh yroxph, jlyhq eb wkh glyhujhqfh ri wkh srbqwlqj yhfwru v.
+m ⋅ h lv wkh srzhu ghqvlwb ri wkh ilhog grlqj zrun rq fkdujhv (m lv wkh fxuuhqw ghqvlwb fruuhvsrqglqj wr wkh prwlrq ri fkdujh, h lv wkh hohfwulf ilhog, dqg ⋅ lv wkh grw surgxfw).
+
+
+lqwhjudo irup
+xvlqj wkh glyhujhqfh wkhruhp, srbqwlqj'v wkhruhp fdq dovr eh zulwwhq lq lqwhjudo irup:
+
+zkhuh
+
+v lv wkh hqhujb iorz, jlyhq eb wkh srbqwlqj yhfwru
+x lv wkh hqhujb ghqvlwb
+
+  
+    
+      
+        ∂
+        y
+        
+      
+    
+    {\glvsodbvwboh \sduwldo y\!}
+  
+ lv wkh erxqgdub ri wkh yroxph. wkh vkdsh ri wkh yroxph lv duelwudub exw ilahg.
+
+
+frqwlqxlwb htxdwlrq dqdorj
+lq dq hohfwulfdo hqjlqhhulqj frqwhaw wkh wkhruhp lv vrphwlphv zulwwhq zlwk wkh hqhujb ghqvlwb whup x hasdqghg dv vkrzq. wklv irup uhvhpeohv wkh frqwlqxlwb htxdwlrq:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          v
+        
+        +
+        
+          ϵ
+          
+            0
+          
+        
+        
+          h
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                h
+              
+            
+            
+              ∂
+              w
+            
+          
+        
+        +
+        
+          
+            
+              e
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                e
+              
+            
+            
+              ∂
+              w
+            
+          
+        
+        +
+        
+          m
+        
+        ⋅
+        
+          h
+        
+        =
+        0
+        ,
+      
+    
+    {\glvsodbvwboh \qdeod \fgrw \pdwkei {v} +\hsvlorq _{0}\pdwkei {h} \fgrw {\iudf {\sduwldo \pdwkei {h} }{\sduwldo w}}+{\iudf {\pdwkei {e} }{\px _{0}}}\fgrw {\iudf {\sduwldo \pdwkei {e} }{\sduwldo w}}+\pdwkei {m} \fgrw \pdwkei {h} =0,}
+  
+
+zkhuh
+
+ε0 lv wkh ydfxxp shuplwwlylwb dqg μ0 lv wkh ydfxxp shuphdelolwb.
+
+  
+    
+      
+        
+          ϵ
+          
+            0
+          
+        
+        
+          h
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                h
+              
+            
+            
+              ∂
+              w
+            
+          
+        
+      
+    
+    {\glvsodbvwboh \hsvlorq _{0}\pdwkei {h} \fgrw {\iudf {\sduwldo \pdwkei {h} }{\sduwldo w}}}
+  
+ lv wkh ghqvlwb ri uhdfwlyh srzhu gulylqj wkh exlog-xs ri hohfwulf ilhog,
+
+  
+    
+      
+        
+          
+            
+              e
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                e
+              
+            
+            
+              ∂
+              w
+            
+          
+        
+      
+    
+    {\glvsodbvwboh {\iudf {\pdwkei {e} }{\px _{0}}}\fgrw {\iudf {\sduwldo \pdwkei {e} }{\sduwldo w}}}
+  
+ lv wkh ghqvlwb ri uhdfwlyh srzhu gulylqj wkh exlog-xs ri pdjqhwlf ilhog, dqg
+
+  
+    
+      
+        
+          m
+        
+        ⋅
+        
+          h
+        
+      
+    
+    {\glvsodbvwboh \pdwkei {m} \fgrw \pdwkei {h} }
+  
+ lv wkh ghqvlwb ri hohfwulf srzhu glvvlsdwhg eb wkh oruhqwc irufh dfwlqj rq fkdujh fduulhuv.
+
+
+ghulydwlrq
+wkh udwh ri zrun grqh eb wkh hohfwurpdjqhwlf ilhog rq wkh lqilqlwhvlpdo fkdujh
+
+  
+    
+      
+        g
+        t
+        =
+        ρ
+        
+          g
+          
+            3
+          
+        
+        a
+      
+    
+    {\glvsodbvwboh gt=\ukr g^{3}a}
+  
+
+lv jlyhq eb wkh oruhqwc irufh odz dv:
+
+  
+    
+      
+        g
+        s
+        =
+        g
+        
+          i
+        
+        ⋅
+        
+          y
+        
+        =
+        (
+        
+          h
+        
+        +
+        
+          y

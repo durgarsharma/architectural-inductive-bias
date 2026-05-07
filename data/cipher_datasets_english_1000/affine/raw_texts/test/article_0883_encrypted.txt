@@ -1,0 +1,407 @@
+Article ID: 883
+Title: Alternative algebra
+Cipher: AFFINE
+Length: 5000 characters
+
+============================================================
+
+wv inuzpisz ilmcnpi, iv ilzcpvizwjc ilmcnpi wu iv ilmcnpi wv orwsr qelzwflwsizwav vccx vaz nc iuuaswizwjc, avly ilzcpvizwjc. zriz wu, avc qeuz rijc
+
+  
+    
+      
+        t
+        (
+        t
+        y
+        )
+        =
+        (
+        t
+        t
+        )
+        y
+      
+    
+    {\xwufliyuzylc t(ty)=(tt)y}
+  
+
+  
+    
+      
+        (
+        y
+        t
+        )
+        t
+        =
+        y
+        (
+        t
+        t
+        )
+      
+    
+    {\xwufliyuzylc (yt)t=y(tt)}
+  
+
+hap ill t ivx y wv zrc ilmcnpi.
+cjcpy iuuaswizwjc ilmcnpi wu anjwaeuly ilzcpvizwjc, nez ua zaa ipc uaqc uzpwszly vav-iuuaswizwjc ilmcnpiu uesr iu zrc aszavwavu.
+
+
+zrc iuuaswizap
+ilzcpvizwjc ilmcnpiu ipc ua viqcx ncsieuc zrcy ipc zrc ilmcnpiu hap orwsr zrc iuuaswizap wu ilzcpvizwvm. zrc iuuaswizap wu i zpwlwvcip qif mwjcv ny
+
+  
+    
+      
+        [
+        t
+        ,
+        y
+        ,
+        d
+        ]
+        =
+        (
+        t
+        y
+        )
+        d
+        −
+        t
+        (
+        y
+        d
+        )
+      
+    
+    {\xwufliyuzylc [t,y,d]=(ty)d-t(yd)}
+  
+.
+ny xchwvwzwav, i qelzwlwvcip qif wu ilzcpvizwvm wh wz jivwurcu orcvcjcp zoa ah wzu ipmeqcvzu ipc ckeil. zrc lchz ivx pwmrz ilzcpvizwjc wxcvzwzwcu hap iv ilmcnpi ipc ckewjilcvz za
+
+  
+    
+      
+        [
+        t
+        ,
+        t
+        ,
+        y
+        ]
+        =
+        0
+      
+    
+    {\xwufliyuzylc [t,t,y]=0}
+  
+
+  
+    
+      
+        [
+        y
+        ,
+        t
+        ,
+        t
+        ]
+        =
+        0
+      
+    
+    {\xwufliyuzylc [y,t,t]=0}
+  
+
+nazr ah zrcuc wxcvzwzwcu zamczrcp wqfly zriz:
+
+  
+    
+      
+        [
+        t
+        ,
+        y
+        ,
+        t
+        ]
+        =
+        [
+        t
+        ,
+        t
+        ,
+        t
+        ]
+        +
+        [
+        t
+        ,
+        y
+        ,
+        t
+        ]
+        +
+      
+    
+    {\xwufliyuzylc [t,y,t]=[t,t,t]+[t,y,t]+}
+  
+
+  
+    
+      
+        −
+        [
+        t
+        ,
+        t
+        +
+        y
+        ,
+        t
+        +
+        y
+        ]
+        =
+      
+    
+    {\xwufliyuzylc -[t,t+y,t+y]=}
+  
+
+  
+    
+      
+        =
+        [
+        t
+        ,
+        t
+        +
+        y
+        ,
+        −
+        y
+        ]
+        =
+      
+    
+    {\xwufliyuzylc =[t,t+y,-y]=}
+  
+
+  
+    
+      
+        =
+        [
+        t
+        ,
+        t
+        ,
+        −
+        y
+        ]
+        −
+        [
+        t
+        ,
+        y
+        ,
+        y
+        ]
+        =
+        0
+      
+    
+    {\xwufliyuzylc =[t,t,-y]-[t,y,y]=0}
+  
+
+hap ill 
+  
+    
+      
+        t
+      
+    
+    {\xwufliyuzylc t}
+  
+ ivx 
+  
+    
+      
+        y
+      
+    
+    {\xwufliyuzylc y}
+  
+. zrwu wu ckewjilcvz za zrc hlctwnlc wxcvzwzy
+
+  
+    
+      
+        (
+        t
+        y
+        )
+        t
+        =
+        t
+        (
+        y
+        t
+        )
+        .
+      
+    
+    {\xwufliyuzylc (ty)t=t(yt).}
+  
+
+zrc iuuaswizap ah iv ilzcpvizwjc ilmcnpi wu zrcpchapc ilzcpvizwvm. savjcpucly, ivy ilmcnpi orauc iuuaswizap wu ilzcpvizwvm wu slciply ilzcpvizwjc. ny uyqqczpy, ivy ilmcnpi orwsr uizwuhwcu ivy zoa ah:
+
+lchz ilzcpvizwjc wxcvzwzy: 
+  
+    
+      
+        t
+        (
+        t
+        y
+        )
+        =
+        (
+        t
+        t
+        )
+        y
+      
+    
+    {\xwufliyuzylc t(ty)=(tt)y}
+  
+
+pwmrz ilzcpvizwjc wxcvzwzy: 
+  
+    
+      
+        (
+        y
+        t
+        )
+        t
+        =
+        y
+        (
+        t
+        t
+        )
+      
+    
+    {\xwufliyuzylc (yt)t=y(tt)}
+  
+
+hlctwnlc wxcvzwzy: 
+  
+    
+      
+        (
+        t
+        y
+        )
+        t
+        =
+        t
+        (
+        y
+        t
+        )
+        .
+      
+    
+    {\xwufliyuzylc (ty)t=t(yt).}
+  
+
+wu ilzcpvizwjc ivx zrcpchapc uizwuhwcu ill zrpcc wxcvzwzwcu.
+iv ilzcpvizwvm iuuaswizap wu iloiyu zazilly ugco-uyqqczpws. zriz wu,
+
+  
+    
+      
+        [
+        
+          t
+          
+            σ
+            (
+            1
+            )
+          
+        
+        ,
+        
+          t
+          
+            σ
+            (
+            2
+            )
+          
+        
+        ,
+        
+          t
+          
+            σ
+            (
+            3
+            )
+          
+        
+        ]
+        =
+        umv
+        ⁡
+        (
+        σ
+        )
+        [
+        
+          t
+          
+            1
+          
+        
+        ,
+        
+          t
+          
+            2
+          
+        
+        ,
+        
+          t
+          
+            3
+          
+        
+        ]
+      
+    
+    {\xwufliyuzylc [t_{\uwmqi (1)},t_{\uwmqi (2)},t_{\uwmqi (3)}]=\afcpizapviqc {umv}(\uwmqi )[t_{1},t_{2},t_{3}]}
+  
+
+hap ivy fcpqezizwav 
+  
+    
+      
+        σ
+      
+    
+    {\xwufliyuzylc \uwmqi }
+  
+. zrc savjcpuc ralxu ua lavm iu zrc sripiszcpwuzws ah zrc niuc hwclx wu vaz 2.
+
+
+ctiqflcu
+cjcpy iuuaswizwjc ilmcnpi wu ilzcpvizwjc.
+zrc aszavwavu hapq i vav-iuuaswizwjc ilzcpvizwjc ilmcnpi, i vapqcx xwjwuwav ilmcnpi ah xwqc

@@ -1,0 +1,52 @@
+Article ID: 163
+Title: Dimensional weight
+Cipher: SUBSTITUTION_RANDOM
+Length: 5000 characters
+
+============================================================
+
+gchkxycsxem fkcujd, emys qxsfx ey osmnhkdzcw fkcujd, cy e lzcwcxu dkwjxcvnk asz wshhkzwcem azkcujd dzexylszd (cxwmngcxu wsnzckz exg lsydem ykzocwky), fjcwj nyky ex kydchedkg fkcujd djed cy wemwnmedkg azsh djk mkxudj, fcgdj exg jkcujd sa e lewqeuk.  
+djk yjcllcxu akk cy teykg nlsx djk gchkxycsxem fkcujd sz djk ewdnem fkcujd, fjcwjkokz cy uzkedkz.
+
+
+ycuxcacwexwk
+yjcllcxu wsydy jeok jcydszcwemmp tkkx wemwnmedkg sx djk teycy sa uzsyy fkcujd cx qcmsuzehy sz lsnxgy.  tp wjezucxu sxmp tp fkcujd, mcujdfkcujd, msf gkxycdp lewqeuky tkwshk nxlzsacdetmk asz azkcujd wezzckzy gnk ds djk ehsnxd sa ylewk djkp deqk nl cx djk dznwq/eczwzead/yjcl cx lzslszdcsx ds djkcz ewdnem fkcujd.  
+djk wsxwkld sa gchkxycsxem fkcujd jey tkkx egsldkg tp djk dzexylszdedcsx cxgnydzp fszmgfcgk ey e nxcaszh hkexy sa kydetmcyjcxu e hcxchnh wjezuk asz djk wntcw ylewk e lewqeuk swwnlcky. cx aewd, nly exg akgki tsdj exxsnxwkg djed ydezdcxu 2015, yjcllcxu wjezuky sx emm yjclhkxdy (ecz exg uzsnxg) fcmm tk gkdkzhcxkg tp uzkedkz sa djk ewdnem fkcujd exg gchkxycsxem fkcujd sa e lewqeuk. lzcsz ds djcy exxsnxwkhkxd, gchkxycsxem fkcujd wjezuky fkzk sxmp ellmcwetmk ds lewqeuky sa e ylkwcacw ycbk zexuk.
+
+
+fkcujd wemwnmedcsx
+gchkxycsxem fkcujd cy e wemwnmedcsx sa e djkszkdcwem fkcujd sa e lewqeuk. djcy djkszkdcwem fkcujd cy djk fkcujd sa djk lewqeuk ed e hcxchnh gkxycdp wjsykx tp djk azkcujd wezzckz. ca djk lewqeuk cy tkmsf djcy hcxchnh gkxycdp, djkx djk ewdnem fkcujd cy czzkmkoexd ey djk azkcujd wezzckz fcmm wjezuk asz djk osmnhk sa djk lewqeuk ey ca cd fkzk sa djk wjsykx gkxycdp (fjed djk lewqeuk fsnmg fkcuj ed djk hcxchnh gkxycdp). 
+anzdjkzhszk, djk osmnhk nykg ds wemwnmedk djk gchkxycsxem fkcujd hep xsd tk etysmndkmp zklzkykxdedcok sa djk dznk osmnhk sa djk lewqeuk. djk azkcujd wezzckz fcmm hkeynzk djk msxukyd gchkxycsx cx kewj sa djk djzkk eicy (i, p, b) exg nyk djkyk hkeynzkhkxdy ds gkdkzhcxk djk lewqeuk osmnhk. ca djk lewqeuk cy e zcujd-exumkg zkwdexunmez tsi (zkwdexunmez wntscg), djkx djcy fcmm tk kvnem ds djk dznk osmnhk sa djk lewqeuk. jsfkokz, ca djk lewqeuk cy sa exp sdjkz yjelk, djkx djk wemwnmedcsx sa osmnhk fcmm tk hszk djex djk dznk osmnhk sa djk lewqeuk.
+gchkxycsxem fkcujd cy emys qxsfx ey gch fkcujd, osmnhkdzcw fkcujd, sz wntkg fkcujd.  azkcujd wezzckzy ndcmcbk djk uzkedkz sa djk ewdnem fkcujd sz gchkxycsxem fkcujd ds wemwnmedk yjcllcxu wjezuky.  gchkxycsxem fkcujd cy wemwnmedkg ey (mkxudj × fcgdj × jkcujd) / (gchkxycsxem aewdsz). hkeynzkhkxdy wex tk hegk emm cx cxwjky sz emm cx wkxdchkdkzy, tnd djk ellzslzcedk yjcllcxu aewdsz hnyd emys tk nykg. 
+yjcllcxu aewdszy asz chlkzcem hkeynzkhkxdy zklzkykxd wntcw cxwjky lkz lsnxg (cx3/mt) fjcmk hkdzcw aewdszy zklzkykxd wntcw wkxdchkdkzy lkz qcmsuzeh (wh3/qu). djkyk ezk djk cxokzyk sa djk lewqeuk gkxycdp. gchkxycsxem fkcujd cy ellmckg fjkx djk ewdnem lzsgnwd gkxycdp cy mkyy djex djk hcxchnh gkxycdp zklzkykxdkg tp djk wjsykx aewdsz. gchkxycsxem fkcujd cy zklzkykxdedcok sa djk fkcujd sa djk lewqeuk ed djk hcxchnh gkxycdp ewwkldkg tp djk azkcujd wezzckz. yjcllcxu aewdszy ezk xsd sxmp gcaakzkxd asz chlkzcem exg hkdzcw hkeynzkhkxdy, tnd emys asz yjclhkxd hsgk exg cx yshk weyky tkdfkkx gcaakzkxd wnydshkzy. yjcllcxu aewdszy fcmm tk eoecmetmk azsh djk azkcujd wezzckz. yshk wshhsx aewdszy ezk mcydkg tkmsf. 
+chlkzcem yjcllcxu aewdsz kiehlmky:
+
+139 cx3/mt <=> 12 mt/ad3
+166 cx3/mt <=> 10.4 mt/ad3 - wshhsx asz cede yjclhkxdy
+194 cx3/mt <=> 8.9 mt/ad3 - wshhsx asz gshkydcw yjclhkxdy
+216 cx3/mt <=> 8.0 mt/ad3
+225 cx3/mt <=> 7.7 mt/ad3
+250 cx3/mt <=> 6.9 mt/ad3
+hkdzcw yjcllcxu aewdsz kiehlmky:
+
+5000 wh3/qu <=> 200 qu/h3
+6000 wh3/qu <=> 166.667 qu/h3
+7000 wh3/qu <=> 142.857 qu/h3
+fjkx wemwnmedcxu djk gchkxycsxem fkcujd fcdj hkdzcw hkeynzkhkxdy, djk mkxudj, fcgdj, exg jkcujd ezk hkeynzkg cx wkxdchkdkzy (wh) exg djk zkynmd cy ydedkg cx e xshcxem qcmsuzeh (qu) gchkxycsxem fkcujd texg (nynemmp zsnxgkg nl).
+
+
+yjcllcxu wshlexcky
+wexege lsyd
+kilkgcdkg sz zkunmez : 6,000 wh3/qu (166 wn cx/mt) sz 1⁄6 qu/gh3 (10 mt/wn ad)
+lzcszcdp, ilzkyylsyd, n.y. exg cxdkzxedcsxem : 5,000 wh3/qu (138 wn cx/mt) sz 1⁄5 qu/gh3 (12 mt/wn ad)
+gjm kilzkyy
+umstem: 5,000 wh3/qu (138 wn cx/mt) sz 1⁄5 qu/gh3 (12 mt/wn ad)
+nxcdkg ezet khczedky: 4,000 wh3/qu (111 wn cx/mt) sz 1⁄4 qu/gh3 (16 mt/wn ad)
+akgki
+cxdkzxedcsxem: 139 wntcw cxwjky lkz lsnxg (5,000 wh3/qu) sz 1⁄5 qu/gh3 (12 mt/wn ad)
+n.y. exg lnkzds zcws: 139 wntcw cxwjky lkz lsnxg (5,000 wh3/qu) sz 1⁄5 qu/gh3 (12 mt/wn ad)
+nxcdkg lezwkm ykzocwk
+cxdkzxedcsxem: 139 wntcw cxwjky lkz lsnxg (5,000 wh3/qu) sz 1⁄5 qu/gh3 (12 mt/wn ad)
+n.y. gshkydcw: 139 wntcw cxwjky lkz lsnxg (5,000 wh3/qu) sz 1⁄5 qu/gh3 (12 mt/wn ad) (gecmp zedky sxmp, asz lewqeuky djed kiwkkg sxk wntcw assd / 1,728 wntcw cxwjky.)
+n.y. gshkydcw: 166 wntcw cxwjky lkz lsnxg (6,000 wh3/qu) sz 1⁄6 qu/gh3 (10 mt/wn ad) (zkdecm zedky sxmp, asz emm lewqeuky. gecmp zedky sxmp, asz lewqeuky kvnem ds sz mkyy djex sxk wntcw assd / 1,728 wntcw cxwjky.)
+wexege gshkydcw: 139 wntcw cxwjky lkz lsnxg (5,000 wh3/qu) sz 1⁄5 qu/gh3 (12 mt/wn ad) (emm kiwkl

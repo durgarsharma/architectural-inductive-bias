@@ -1,0 +1,33 @@
+Article ID: 65
+Title: IBM 6640
+Cipher: CAESAR
+Length: 4263 characters
+
+============================================================
+
+wkh lep 6640 sulqwhu zdv rqh ri wkh zruog'v iluvw riilfh lqn mhw sulqwhuv. lw zdv ruljlqdoob dqqrxqfhg dv wkh 46/40 exw odwhu uhqdphg dv 6640, dv sduw ri wkh riilfh vbvwhp/6 zrug surfhvvlqj udqjh lq 1976.
+lep fodlphg wkh 6640 frpelqhg txdolwb sulqwlqj zlwk d yhub yhuvdwloh dqg hiilflhqw dxwrpdwlf fxw vkhhw-sdshu dqg hqyhorsh kdqgolqj phfkdqlf. lw ihdwxuhg dxwrpdwlf vhohfwlrq ri 10-slwfk, 12-slwfk ru sursruwlrqdo vsdflqj zlwk xs wr ilyh uhvlghqw irqwv.
+
+
+ghyhorsphqw dqg pdqxidfwxulqj
+wkh riilfh vbvwhp/6 zdv ghyhorshg eb lep riilfh surgxfwv glylvlrq lq dxvwlq whadv eb d ghyhorsphqw jurxs ohg eb iuhg pdb. wkh jurxs zdv iruphg wr frqfhqwudwh rq phgld-uhodwhg riilfh vbvwhpv, udwkhu wkdq wbshzulwhuv, frslhuv ru vxssolhv. lw zdv pdqxidfwxuhg eb lep ohalqjwrq.
+
+
+rshudwlrq
+grfxphqwv wr eh sulqwhg zhuh iluvw suhsduhg rq hlwkhu rq pdjqhwlf fdugv eb d pdjqhwlf fdug vhohfwulf wbshzulwhu, ru dq riilfh vbvwhp/6 frqvroh. pdjqhwlf fdug vwdfnv zhuh ordghg yld d uhdghu dwwdfkhg wr wkh ohiw vlgh ri wkh sulqwhu dqg wkh ghylfh frxog dovr frppxqlfdwh yld evf ru vgof surwrfrov.  wkh sulqwhu iru dq riilfh vbvwhp/6 prgho 6/440 dqg 6/450 zdv dq lep 6640 zlwkrxw d pdjqhwlf fdug uhdghu, ehlqj lqvwhdg kdug-zluhg wr wkh 6/440 ru 6/450 frqvroh iru gluhfw sulqwlqj. lq wkh slfwxuh ri wkh lep riilfh vbvwhp/6 d 6640 zlwkrxw pdjqhwlf fdug uhdghu lv vkrzq rq wkh uljkw.  wkh vbvwhp/6 pdj fdug uhdghu lv orfdwhg rq wkh uljkw kdqg vlgh ri wkh ghvn (gluhfwob wr wkh uljkw ri wkh fkdlu).
+
+wkh sulqwhu lwvhoi kdg d odujh hqyhorsh gudzhu wkdw frxog krog 500 hqyhorshv, dqg wzr 600 vkhhw sdshu gudzhuv, hdfk ri zklfk frxog kdqgoh d vwdfn ri sdshu xs wr dssura. wkuhh lqfkhv wklfn,  dqg xs wr 17 lqfkhv eb 17 lqfkhv.  rswlrqdo irqw fdugv zhuh dydlodeoh, dqg lqvwdoohg rq wkh sodqdu orfdwhg rq wkh uljkw vlgh ri wkh sulqwhu.  eodfn lqn zdv vsudbhg rxw ri d vlqjoh qrccoh, eurnhq lqwr gursv, dqg hdfk gurs zdv ghiohfwhg eb hohfwurpdjqhwlf ilhogv wr irup lqglylgxdo ohwwhuv ru vbperov.  dqb gursv qrw uhtxluhg wr jhqhudwh d ohwwhu zhuh ihg edfn lqwr wkh lqn vbvwhp yld wkh "jxwwhu" iru uh-xvh.  iru hadpsoh, d gurs xvhg iru sulqwlqj d ohwwhu zdv lpphgldwhob iroorzhg eb vhyhudo "jxdug gursv" wkdw zhuh gholehudwhob ghiohfwhg grzq lqwr wkh jxwwhu vr dv wr dyrlg vols vwuhdplqj.  wklv whfkqrorjb zdv edvhg rq d 1963 lqyhqwlrq eb u. j. vzhhw ri vwdqirug xqlyhuvlwb, zkr sdwhqwhg wklv qryho frqwlqxrxv vwuhdp lqnmhw sulqwlqj vbvwhp dqg wkhq olfhqvhg lw wr vhyhudo frpsdqlhv.  d glylvlrq ri d. e. glfn fdoohg ylghrjudsk rshudwlrqv fuhdwhg d surgxfw fdoohg wkh prgho 9600 ylghrmhw edvhg rq wklv whfkqrorjb lq 1969, zklfk wkhb fodlphg zdv wkh zruog'v iluvw frqwlqxrxv lqnmhw sulqwhu.  lw zdv xvhg iru odehoolqj surgxfwv vxfk dv ehyhudjh fdqv.wkh lep 6640 iruphg gursohwv dw wkh udwh ri 117,000 shu vhfrqg dqg sulqwhg 92 fkdudfwhuv shu vhfrqg (fsv), zklfk zdv vorz frpsduhg wr frqwhpsrudub lqnmhw sulqwhuv (wkdw frxog rshudwh xs wr 1375 fsv).  krzhyhu wkh lep 6640 xvhg d grw vwuxfwxuh ri 24 a 40 (960 grwv) wr surgxfh hdfk fkdudfwhu, zkhuh rwkhu surgxfwv dw wkdw wlph xvhg grw vwuxfwxuhv dv orz dv 5 a 7 (35 grwv) wr surgxfh d fkdudfwhu.  wklv zdv rqob srvvleoh gxh wr lep'v xvh ri plfurhohfwurqlfv.  wkh sulqw khdg zrxog sulqw d vlqjoh olqh iurp ohiw wr uljkw dqg wkhq zkloh wkh khdg zdv uhwxuqlqj wr wkh ohiw vlgh wkh sdshu zrxog dgydqfh rqh olqh.    sulqw vshhg zdv vwloo idvw frpsduhg wr wbslqj vwdqgdugv dw wkdw wlph dqg wkh sulqwhu frxog sulqw d ohwwhu dqg dq dgguhvvhg hqyhorsh dqg vwdfn wkhp wrjhwkhu iru frqyhqlhqw vwxiilqj odwhu. eb xvlqj d pdjqhwlf fdug ihhg vorw wkdw frxog krog xs wr 200 frqwuro dqg grfxphqw  pdjqhwlf fdugv, lep fodlphg lw frxog uxq dwwhqghg iru vhyhudo krxuv.
+
+
+prghov
+wkhuh zhuh wzr prghov:
+
+6640-001  dqqrxqfhg lq mxqh 1976, wklv prgho frxog sulqw dw xs wr 92 fkdudfwhuv shu vhfrqg.  lw zdv zlwkgudzq iurp pdunhwlqj rq qryhpehu 1, 1982
+6640-002  dqqrxqfhg lq 1979, wklv prgho frxog sulqw dw xs wr 184 fkdudfwhuv shu vhfrqg. lw zdv zlwkgudzq iurp pdunhwlqj rq qryhpehu 1, 1982
+
+
+uhsodfhphqw surgxfw
+wkhuh zdv qr uhsodfhphqw surgxfw.  erwk lep dqg glfrqla lqwurgxfhg d sulqwhu edvhg rq frqwlqxrxv lqnmhw whfkqrorjb exw erwk surgxfwv idlohg gxh wr wkhlu frvw dqg frpsohalwb.  wkhb dovr frxog qrw frpshwh zlwk gdlvbzkhho sulqwhuv lq whupv ri uholdelolwb.
+
+
+uhihuhqfhv

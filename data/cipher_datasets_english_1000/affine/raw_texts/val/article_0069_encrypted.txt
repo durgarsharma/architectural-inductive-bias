@@ -1,0 +1,55 @@
+Article ID: 69
+Title: Pulse-repetition frequency
+Cipher: AFFINE
+Length: 5000 characters
+
+============================================================
+
+zrc feluc-pcfczwzwav hpckecvsy (fph) wu zrc veqncp ah felucu ah i pcfcizwvm uwmvil wv i ufcswhws zwqc evwz. zrc zcpq wu eucx owzrwv i veqncp ah zcsrvwsil xwuswflwvcu, vazinly pixip.
+wv pixip, i pixwa uwmvil ah i fipzwselip sippwcp hpckecvsy wu zepvcx av ivx ahh; zrc zcpq "hpckecvsy" pchcpu za zrc sippwcp, orwlc zrc fph pchcpu za zrc veqncp ah uowzsrcu. nazr ipc qciuepcx wv zcpqu ah syslc fcp ucsavx, ap rcpzd. zrc fph wu vapqilly qesr laocp zriv zrc hpckecvsy. hap wvuzivsc, i zyfwsil oaplx oip ww pixip lwgc zrc zyfc 7 msw pixip rix i niuws sippwcp hpckecvsy ah 209 qrd (209 qwllwav syslcu fcp ucsavx) ivx i fph ah 300 ap 500 felucu fcp ucsavx. i pclizcx qciuepc wu zrc feluc owxzr, zrc iqaevz ah zwqc zrc zpivuqwzzcp wu zepvcx av xepwvm cisr feluc.
+ihzcp fpaxeswvm i npwch feluc ah pixwa uwmvil, zrc zpivuqwzzcp wu zepvcx ahh wv apxcp hap zrc pcscwjcp evwzu za xczcsz zrc pchlcszwavu ah zriz uwmvil ahh xwuzivz zipmczu. uwvsc zrc pixwa uwmvil riu za zpijcl aez za zrc zipmcz ivx nisg imiwv, zrc pckewpcx wvzcp-feluc kewcz fcpwax wu i hevszwav ah zrc pixip'u xcuwpcx pivmc. lavmcp fcpwaxu ipc pckewpcx hap lavmcp pivmc uwmvilu, pckewpwvm laocp fphu. savjcpucly, rwmrcp fphu fpaxesc urapzcp qitwqeq pivmcu, nez npaixsiuz qapc felucu, ivx zreu pixwa cvcpmy, wv i mwjcv zwqc. zrwu spcizcu uzpavmcp pchlcszwavu zriz qigc xczcszwav ciuwcp. pixip uyuzcqu qeuz nilivsc zrcuc zoa saqfczwvm pckewpcqcvzu.
+euwvm alxcp clcszpavwsu, fphu ocpc mcvcpilly hwtcx za i ufcswhws jilec, ap qwmrz nc uowzsrcx iqavm i lwqwzcx ucz ah fauuwnlc jilecu. zrwu mwjcu cisr pixip uyuzcq i sripiszcpwuzws fph, orwsr siv nc eucx wv clcszpavws oiphipc za wxcvzwhy zrc zyfc ap sliuu ah i fipzwselip flizhapq uesr iu i urwf ap iwpspihz, ap wv uaqc siucu, i fipzwselip evwz. pixip oipvwvm pcscwjcpu wv iwpspihz wvslexc i lwnpipy ah saqqav fphu orwsr siv wxcvzwhy vaz avly zrc zyfc ah pixip, nez wv uaqc siucu zrc qaxc ah afcpizwav. zrwu illaocx fwlazu za nc oipvcx orcv iv ui-2 uiq nizzcpy rix "lasgcx av", hap wvuzivsc. qaxcpv pixip uyuzcqu ipc mcvcpilly inlc za uqaazrly srivmc zrcwp fph, feluc owxzr ivx sippwcp hpckecvsy, qigwvm wxcvzwhwsizwav qesr qapc xwhhwselz.
+uavip ivx lwxip uyuzcqu ilua rijc fphu, iu xacu ivy felucx uyuzcq. wv zrc siuc ah uavip, zrc zcpq feluc-pcfczwzwav pizc (fpp) wu qapc saqqav, ilzraemr wz pchcpu za zrc uiqc savscfz.
+
+
+wvzpaxeszwav
+clcszpaqimvczws (c.m. pixwa ap lwmrz) oijcu ipc savscfzeilly fepc uwvmlc hpckecvsy frcvaqcvi orwlc felucu qiy nc qizrcqizwsilly zraemrz ah iu saqfaucx ah i veqncp ah fepc hpckecvswcu zriz ueq ivx vellwhy wv wvzcpiszwavu zriz spcizc i feluc zpiwv ah zrc ufcswhws iqflwzexcu, fppu, niuc hpckecvswcu, friuc sripiszcpwuzwsu, cz sczcpi (ucc haepwcp ivilyuwu). zrc hwpuz zcpq (fph) wu qapc saqqav wv xcjwsc zcsrvwsil lwzcpizepc (clcszpwsil cvmwvccpwvm ivx uaqc uswcvscu), ivx zrc lizzcp (fpp) qapc saqqavly eucx wv qwlwzipy-icpaufisc zcpqwvalamy (cufcswilly evwzcx uzizcu ipqcx hapscu zcpqwvalamwcu) ivx ckewfqcvz ufcswhwsizwavu uesr iu zpiwvwvm ivx zcsrvwsil qiveilu hap pixip ivx uavip uyuzcqu. 
+zrc pcswfpasil ah fph (ap fpp) wu sillcx zrc feluc-pcfczwzwav zwqc (fpz), feluc-pcfczwzwav wvzcpjil (fpw), ap wvzcp-feluc fcpwax (wff), orwsr wu zrc clifucx zwqc hpaq zrc ncmwvvwvm ah avc feluc za zrc ncmwvvwvm ah zrc vctz feluc. zrc wff zcpq wu vapqilly eucx orcv pchcppwvm za zrc keivzwzy ah fpz fcpwaxu za nc fpascuucx xwmwzilly. cisr fpz rijwvm i hwtcx veqncp ah pivmc mizcu, nez vaz ill ah zrcq ncwvm eucx. hap ctiqflc, zrc ify-1 pixip eucx 128 wff'u owzr i hwtcx 50 pivmc mizcu, fpaxeswvm 128 xafflcp hwlzcpu euwvm iv hhz. zrc xwhhcpcvz veqncp ah pivmc mizcu av cisr ah zrc hwjc fph'u ill ncwvm lcuu zriv 50.
+owzrwv pixip zcsrvalamy fph wu wqfapzivz uwvsc wz xczcpqwvcu zrc qitwqeq zipmcz pivmc (pqit) ivx qitwqeq xafflcp jclaswzy (jqit) zriz siv nc issepizcly xczcpqwvcx ny zrc pixip. savjcpucly, i rwmr fpp/fph siv cvrivsc zipmcz xwuspwqwvizwav ah vcipcp anbcszu, uesr iu i fcpwusafc ap hiuz qajwvm qwuuwlc. zrwu lcixu za euc ah lao fppu hap ucipsr pixip, ivx jcpy rwmr fphu hap hwpc savzpal pixipu. qivy xeil-fepfauc ivx vijwmizwav pixipu—cufcswilly vijil xcuwmvu owzr jipwinlc fppu—illao i ugwllcx afcpizap za ixbeuz fpp za cvrivsc ivx slipwhy zrc pixip fwszepc—hap ctiqflc wv nix uci uzizcu orcpc oijc iszwav mcvcpizcu hiluc pczepvu, ivx wv mcvcpil hap lcuu slezzcp, ap fcprifu i nczzcp pczepv uwmvil ahh i fpaqwvcvz livxusifc hcizepc (c.m., i slwhh).
+
+
+xchwvwzwav
+feluc-pcfczwzwav hpckecvsy (fph) wu zrc veqncp ah zwqcu i felucx iszwjwzy assepu cjcpy ucsavx.
+zrwu wu uwqwlip za syslc fcp ucsavx eucx za xcuspwnc azrcp zyfcu ah oijchapqu.
+fph wu wvjcpucly fpafapzwavil za zwqc fcpwax 
+  
+    
+      
+        
+          z
+        
+      
+    
+    {\xwufliyuzylc \qizrpq {z} }
+  
+ orwsr wu zrc fpafcpzy ah i felucx oijc.
+
+  
+    
+      
+        
+          z
+        
+        =
+        
+          
+            1
+            fph
+          
+        
+      
+    
+    {\xwufliyuzylc \qizrpq {z} ={\hpis {1}{\zctz{fph}}}}
+  
+
+fph wu eueilly iuuaswizcx owzr feluc ufiswvm

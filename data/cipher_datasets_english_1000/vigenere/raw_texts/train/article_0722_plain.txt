@@ -1,0 +1,33 @@
+Article ID: 722
+Title: Phosphatidylethanol
+Length: 2659 characters
+
+============================================================
+
+phosphatidylethanols (peth) are a group of phospholipids formed only in the presence of ethanol via the action of phospholipase d (pld). it accumulates in blood and is removed slowly, making it a useful biomarker for alcohol consumption. peth is also thought to contribute to the symptoms of alcohol intoxication.
+
+
+structure
+chemically, phosphatidylethanols are phospholipids carrying two fatty acid chains, which are variable in structure, and one phosphate ethyl ester.
+
+
+biosynthesis
+
+when ethanol is present, pld substitutes ethanol for water and covalently attaches the alcohol as the head group of the phospholipid; hence the name phosphatidylethanol. normally pld incorporates water to generate phosphatidic acid (pa); the process is termed transphosphatidylation. pld continues to generate pa in the presence of ethanol and while peth is generated and the effects of ethanol transphosphatidlyation are through the generation of the unnatural lipid not depletion of pa.
+
+
+biological effects
+the lipid accumulates in the human body and competes at agonists sites of lipid-gated ion channels contributing to alcohol intoxication. the chemical similarity of peth to phosphatidic acid (pa) and phosphatidylinositol 4,5-bisphosphate (pip2) suggest a likely broad perturbation to lipid signaling; the exact role of peth as a competitive lipid ligand has not been studied extensively.
+
+
+marker in blood
+levels of phosphatidylethanols in blood are used as markers of previous alcohol consumption.
+an increase of alcohol intake by ~20 g ethanol/day will raise the peth 16:0/18:1 concentration by ~0.10 μmol/l, and vice versa if the alcohol consumption has decreased. however, it has been demonstrated that there can be significant inter-personal variation, leading to potential misclassification between moderate and heavy drinkers.
+after cessation of alcohol intake, the half-life of peth is between 4.5 and 10 days in the first week and between 5 and 12 days in the second week. as a blood marker peth is more sensitive than carbohydrate deficient transferrin (cdt), urinary ethyl glucuronide (etg) and ethyl sulfate (ets).
+
+
+interpretation
+the society of peth research published a harmonization document (2022 consensus of basel) for the interpretation of phosphatidylethanol concentrations in the clinical and forensic setting. this consensus represents the first internationally established harmonization document on peth. the consensus defined the target measurand (peth 16:0/18:1 in whole blood), cutoff concentrations (20 ng/ml and 200 ng/ml), and minimal requirements for the applied analytical method (accuracy and precision within 15%).
+
+
+references

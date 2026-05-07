@@ -1,0 +1,11 @@
+Article ID: 652
+Title: Pluramycin A
+Length: 878 characters
+
+============================================================
+
+pluramycin a is an antibiotic/anticancer compound that inhibits nucleic acid biosynthesis.  the pluramycin family of natural products are an important group of complex c-aryl glycoside antibiotics that possess the tetracyclic 4h-anthra[1,2-b]pyran-4,7,12-trione moiety a–d as an aromatic core. the d-ring is adorned with two deoxyaminosugars that are appended by c-aryl glycosidic linkages. the e-ring sugar is angolosamine, a carbohydrate that is also found in the antibiotic angolamycin. the f-ring sugar is the n,n-dimethyl derivative of vancosamine, which is the sugar found in the glycopeptide antibiotic vancomycin.
+these compounds exhibit in vitro antitumor activity by dna alkylation, where the two proximal amino sugars, d-angolosamine and n,n-dimethyl-l-vancosamine, play a key role in sequence recognition in intercalation of the tetracyclic chromophore.
+
+
+references

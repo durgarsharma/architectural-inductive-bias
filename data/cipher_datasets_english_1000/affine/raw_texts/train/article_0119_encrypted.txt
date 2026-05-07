@@ -1,0 +1,31 @@
+Article ID: 119
+Title: VIGRA
+Cipher: AFFINE
+Length: 1125 characters
+
+============================================================
+
+jwmpi wu zrc innpcjwizwav hap "jwuwav owzr mcvcpws ilmapwzrqu". wz wu i hpcc afcv-uaepsc saqfezcp jwuwav lwnpipy orwsr haseucu av seuzaqwdinlc ilmapwzrqu ivx xizi uzpeszepcu. jwmpi saqfavcvz siv nc ciuwly ixifzcx za ufcswhws vccxu ah zipmcz ifflwsizwav owzraez saqfpaqwuwvm ctcsezwav ufccx, ny euwvm zcqflizc zcsrvwkecu uwqwlip za zrauc wv zrc s++ uzivxipx zcqflizc lwnpipy.
+
+
+hcizepcu
+jwmpi wu spauu-flizhapq, owzr oapgwvm newlxu av qwspauahz owvxaou, qis au t, lwvet, ivx afcvnux. uwvsc jcpuwav 1.7.1, jwmpi fpajwxcu fyzrav nwvxwvmu niucx av veqfy hpiqcoapg.
+
+
+rwuzapy
+jwmpi oiu apwmwvilly xcuwmvcx ivx wqflcqcvzcx ny uswcvzwuzu iz
+evwjcpuwzy ah riqnepm hiselzy ah saqfezcp uswcvsc; wzu sapc qiwvziwvcpu ipc vao oapgwvm iz rcwxclncpm sallinapizapy hap wqimc fpascuuwvm (rsw) evwjcpuwzy ah rcwxclncpm. wv zrc qcivzwqc, qivy xcjclafcpu rijc savzpwnezcx za zrc fpabcsz.
+
+
+ifflwsizwav
+scllsamvwzwav ivx wliuzwg eucu jwmpi saqfezcp jwuwav lwnpipy.
+afcvahhwsc.apm eucu jwmpi iu fipz ah wzu rcixlcuu uahzoipc pcvxcpwvm nisgcvx; lwnpcahhwsc xacu ua evzwl jcpuwav 5.2.
+
+
+pchcpcvscu
+
+
+ctzcpvil lwvgu
+
+ahhwswil ocnuwzc
+jwmpi av mwzren

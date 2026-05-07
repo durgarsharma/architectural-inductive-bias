@@ -1,0 +1,45 @@
+Article ID: 718
+Title: Cairns A
+Length: 3077 characters
+
+============================================================
+
+the cairns a was a low wing, two tandem seat monoplane with a metal structure and stressed metal skin. it first flew late in 1931 with a 90 hp (67 kw) engine but was later fitted with more powerful engines including a 185 hp (138 kw) radial. 
+
+
+design and development
+the 1930s all metal, stressed skin cairns a was unusual in a period when many light aircraft had wooden wing structures and most were fabric covered. cairns had gained experience of metal aircraft structures when building the smaller, somewhat similar cairns clark robinson special in 1928. the cairns a's construction details were sufficiently novel to attract the attention of the u.s. navy department and delay their release. in particular, the naval aircraft factory physical laboratory undertook extensive tests of the monocoque fuselage.
+construction apart, the cairns a was a conventional cantilever low wing monoplane. the wings, trapezoidal in plan with only slight taper out to blunted tips, carried short ailerons.
+the first example flew in april 1930 and was powered by a cairns g, a licence-built, four cylinder, 90 hp (67 kw) gipsy i air-cooled upright inline engine. its engine determined its  ag-4 sub-type designation. cairns aircraft intended to show that their fuselage could accept higher powers and this first prototype was later fitted with a radial engine of over twice the power of the gipsy, a six cylinder, 185 hp (138 kw) curtiss challenger, becoming the ac-6. the aw-5, with a lower-powered, five cylinder, 165 hp (123 kw) wright j-6 radial, was also tested but it is not known if it was a different airframe. three were expected to be flying in january 1932 but photographic or other evidence is lacking for more than one.
+behind the engine the model a seated two in separate cockpits, with the passenger or pupil at about one-third chord and the pilot at the trailing edge. the cantilever, trapezoidal tailplane was mounted near mid-fuselage and bore straight-tapered elevators. the largely rounded vertical tail included an unbalanced rudder.
+the model a's landing gear was fixed, with a track of 7 ft 6 in (2.29 m). the legs were wing-mounted and enclosed in strongly-tapered, trouser type fairings, with the wheels in spats. there was a tailskid at the rear.
+
+
+variants
+cairns ag-4
+four cylinder, 90 hp (67 kw) gipsy i upright inline engine.
+cairns aw-5
+five cylinder, 165 hp (123 kw) wright j-6 radial.
+cairns ac-6
+six cylinder, 185 hp (138 kw) curtiss challenger radial.
+
+
+specifications (cairns ag-4)
+
+data from aero digest, january 1931 except where notedgeneral characteristics
+crew: one
+capacity: one passenger or pupil
+length: 24 ft 7.5 in (7.506 m)
+wingspan: 36 ft 6 in (11.13 m)
+wing area: 161.2 sq ft (14.98 m2)
+airfoil: cairns 81
+powerplant: 1 × cairns g (licence-built de havilland gipsy i) four cylinder upright, air-cooled inline, 90 hp (67 kw)
+propellers: 2-bladed hamilton standard, 6 ft 6 in (1.98 m) diameter 
+performance
+
+maximum speed: 140 mph (230 km/h, 120 kn)
+cruise speed: 110 mph (180 km/h, 96 kn)  
+landing speed: 40 mph (64 km/h; 35 kn)
+
+
+references

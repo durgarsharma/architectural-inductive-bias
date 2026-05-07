@@ -1,0 +1,36 @@
+Article ID: 815
+Title: Saul Rosen
+Length: 1642 characters
+
+============================================================
+
+saul rosen (february 8, 1922 – june 9, 1991) was an american computer science pioneer.
+he is known for designing the software of the first transistor-based computer philco transac s-2000, and for his work on programming language design which influenced the algol language.
+in 1947, he was involved in establishing the association for computing machinery; in particular he was the first editor of its journal communications of the acm.
+in 1979 he co-founded the journal annals of the history of computing, then published by afips.
+
+
+selected publications
+saul rosen (1953). "modular transformation of certain series". duke mathematical journal. 20 (4): 593–599. doi:10.1215/s0012-7094-53-02060-2.
+saul rosen (jan 1967). programming systems and languages. mcgraw hill computer science series. new york/ny: mcgraw hill. isbn 0070537089.
+saul rosen (jul 1968). electronic computers —- a historical survey in print (computer science technical report). purdue university department.
+saul rosen (1990). the origins of modern computing (computer science technical report / purdue e-pubs). purdue university.
+saul rosen (sep 1990). "the origins of modern computing". computing reviews. 31 (9): 449–481.
+saul rosen (jun 1991). philco: some recollections of the philco transac s-2000 (computer science technical reports / purdue e-pubs). purdue university.
+
+
+see also
+list of pioneers in computer science
+
+
+references
+
+
+external links
+saul rosen at the mathematics genealogy project
+vita at rcac.purdue.edu
+publications at dblp
+pictures of rosen via cs.purdue.edu:
+5 apr 1966, handling a magnetic tape
+5 apr 1966, at the typewriter
+30 jul 1968, portrait

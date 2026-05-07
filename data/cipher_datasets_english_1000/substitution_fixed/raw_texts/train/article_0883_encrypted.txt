@@ -1,0 +1,407 @@
+Article ID: 883
+Title: Alternative algebra
+Cipher: SUBSTITUTION_FIXED
+Length: 5000 characters
+
+============================================================
+
+po qmyerqje qsftmrq, qo qsetroqepht qsftmrq py qo qsftmrq po ikpjk bvsepnspjqepxo ottz oxe mt qyyxjpqepht, xosd qsetroqepht. ekqe py, xot bvye kqht
+
+  
+    
+      
+        a
+        (
+        a
+        d
+        )
+        =
+        (
+        a
+        a
+        )
+        d
+      
+    
+    {\zpynsqdyedst a(ad)=(aa)d}
+  
+
+  
+    
+      
+        (
+        d
+        a
+        )
+        a
+        =
+        d
+        (
+        a
+        a
+        )
+      
+    
+    {\zpynsqdyedst (da)a=d(aa)}
+  
+
+gxr qss a qoz d po ekt qsftmrq.
+thtrd qyyxjpqepht qsftmrq py xmhpxvysd qsetroqepht, mve yx exx qrt yxbt yerpjesd oxo-qyyxjpqepht qsftmrqy yvjk qy ekt xjexopxoy.
+
+
+ekt qyyxjpqexr
+qsetroqepht qsftmrqy qrt yx oqbtz mtjqvyt ektd qrt ekt qsftmrqy gxr ikpjk ekt qyyxjpqexr py qsetroqepof. ekt qyyxjpqexr py q erpspotqr bqn fphto md
+
+  
+    
+      
+        [
+        a
+        ,
+        d
+        ,
+        u
+        ]
+        =
+        (
+        a
+        d
+        )
+        u
+        −
+        a
+        (
+        d
+        u
+        )
+      
+    
+    {\zpynsqdyedst [a,d,u]=(ad)u-a(du)}
+  
+.
+md ztgpopepxo, q bvsepspotqr bqn py qsetroqepof pg pe hqopykty iktothtr eix xg pey qrfvbtoey qrt tcvqs. ekt stge qoz rpfke qsetroqepht pztoepepty gxr qo qsftmrq qrt tcvphqstoe ex
+
+  
+    
+      
+        [
+        a
+        ,
+        a
+        ,
+        d
+        ]
+        =
+        0
+      
+    
+    {\zpynsqdyedst [a,a,d]=0}
+  
+
+  
+    
+      
+        [
+        d
+        ,
+        a
+        ,
+        a
+        ]
+        =
+        0
+      
+    
+    {\zpynsqdyedst [d,a,a]=0}
+  
+
+mxek xg ektyt pztoepepty exftektr pbnsd ekqe:
+
+  
+    
+      
+        [
+        a
+        ,
+        d
+        ,
+        a
+        ]
+        =
+        [
+        a
+        ,
+        a
+        ,
+        a
+        ]
+        +
+        [
+        a
+        ,
+        d
+        ,
+        a
+        ]
+        +
+      
+    
+    {\zpynsqdyedst [a,d,a]=[a,a,a]+[a,d,a]+}
+  
+
+  
+    
+      
+        −
+        [
+        a
+        ,
+        a
+        +
+        d
+        ,
+        a
+        +
+        d
+        ]
+        =
+      
+    
+    {\zpynsqdyedst -[a,a+d,a+d]=}
+  
+
+  
+    
+      
+        =
+        [
+        a
+        ,
+        a
+        +
+        d
+        ,
+        −
+        d
+        ]
+        =
+      
+    
+    {\zpynsqdyedst =[a,a+d,-d]=}
+  
+
+  
+    
+      
+        =
+        [
+        a
+        ,
+        a
+        ,
+        −
+        d
+        ]
+        −
+        [
+        a
+        ,
+        d
+        ,
+        d
+        ]
+        =
+        0
+      
+    
+    {\zpynsqdyedst =[a,a,-d]-[a,d,d]=0}
+  
+
+gxr qss 
+  
+    
+      
+        a
+      
+    
+    {\zpynsqdyedst a}
+  
+ qoz 
+  
+    
+      
+        d
+      
+    
+    {\zpynsqdyedst d}
+  
+. ekpy py tcvphqstoe ex ekt gstapmst pztoeped
+
+  
+    
+      
+        (
+        a
+        d
+        )
+        a
+        =
+        a
+        (
+        d
+        a
+        )
+        .
+      
+    
+    {\zpynsqdyedst (ad)a=a(da).}
+  
+
+ekt qyyxjpqexr xg qo qsetroqepht qsftmrq py ektrtgxrt qsetroqepof. jxohtrytsd, qod qsftmrq ikxyt qyyxjpqexr py qsetroqepof py jstqrsd qsetroqepht. md ydbbterd, qod qsftmrq ikpjk yqepygpty qod eix xg:
+
+stge qsetroqepht pztoeped: 
+  
+    
+      
+        a
+        (
+        a
+        d
+        )
+        =
+        (
+        a
+        a
+        )
+        d
+      
+    
+    {\zpynsqdyedst a(ad)=(aa)d}
+  
+
+rpfke qsetroqepht pztoeped: 
+  
+    
+      
+        (
+        d
+        a
+        )
+        a
+        =
+        d
+        (
+        a
+        a
+        )
+      
+    
+    {\zpynsqdyedst (da)a=d(aa)}
+  
+
+gstapmst pztoeped: 
+  
+    
+      
+        (
+        a
+        d
+        )
+        a
+        =
+        a
+        (
+        d
+        a
+        )
+        .
+      
+    
+    {\zpynsqdyedst (ad)a=a(da).}
+  
+
+py qsetroqepht qoz ektrtgxrt yqepygpty qss ekrtt pztoepepty.
+qo qsetroqepof qyyxjpqexr py qsiqdy exeqssd ylti-ydbbterpj. ekqe py,
+
+  
+    
+      
+        [
+        
+          a
+          
+            σ
+            (
+            1
+            )
+          
+        
+        ,
+        
+          a
+          
+            σ
+            (
+            2
+            )
+          
+        
+        ,
+        
+          a
+          
+            σ
+            (
+            3
+            )
+          
+        
+        ]
+        =
+        yfo
+        ⁡
+        (
+        σ
+        )
+        [
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          a
+          
+            3
+          
+        
+        ]
+      
+    
+    {\zpynsqdyedst [a_{\ypfbq (1)},a_{\ypfbq (2)},a_{\ypfbq (3)}]=\xntrqexroqbt {yfo}(\ypfbq )[a_{1},a_{2},a_{3}]}
+  
+
+gxr qod ntrbveqepxo 
+  
+    
+      
+        σ
+      
+    
+    {\zpynsqdyedst \ypfbq }
+  
+. ekt jxohtryt kxszy yx sxof qy ekt jkqrqjetrpyepj xg ekt mqyt gptsz py oxe 2.
+
+
+taqbnsty
+thtrd qyyxjpqepht qsftmrq py qsetroqepht.
+ekt xjexopxoy gxrb q oxo-qyyxjpqepht qsetroqepht qsftmrq, q oxrbtz zphpypxo qsftmrq xg zpbt

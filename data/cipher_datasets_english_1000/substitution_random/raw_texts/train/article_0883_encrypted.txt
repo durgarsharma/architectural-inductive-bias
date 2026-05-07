@@ -1,0 +1,407 @@
+Article ID: 883
+Title: Alternative algebra
+Cipher: SUBSTITUTION_RANDOM
+Length: 5000 characters
+
+============================================================
+
+ft eybiqeai edxsyqe, et edisqteifjs edxsyqe fb et edxsyqe ft vgfag undifldfaeifpt tssh tpi ys ebbpafeifjs, ptdw edisqteifjs. igei fb, pts unbi gejs
+
+  
+    
+      
+        r
+        (
+        r
+        w
+        )
+        =
+        (
+        r
+        r
+        )
+        w
+      
+    
+    {\hfbldewbiwds r(rw)=(rr)w}
+  
+
+  
+    
+      
+        (
+        w
+        r
+        )
+        r
+        =
+        w
+        (
+        r
+        r
+        )
+      
+    
+    {\hfbldewbiwds (wr)r=w(rr)}
+  
+
+zpq edd r eth w ft igs edxsyqe.
+sjsqw ebbpafeifjs edxsyqe fb pyjfpnbdw edisqteifjs, yni bp ipp eqs bpus biqfaidw tpt-ebbpafeifjs edxsyqeb bnag eb igs paiptfptb.
+
+
+igs ebbpafeipq
+edisqteifjs edxsyqeb eqs bp teush ysaenbs igsw eqs igs edxsyqeb zpq vgfag igs ebbpafeipq fb edisqteiftx. igs ebbpafeipq fb e iqfdftseq uel xfjst yw
+
+  
+    
+      
+        [
+        r
+        ,
+        w
+        ,
+        o
+        ]
+        =
+        (
+        r
+        w
+        )
+        o
+        −
+        r
+        (
+        w
+        o
+        )
+      
+    
+    {\hfbldewbiwds [r,w,o]=(rw)o-r(wo)}
+  
+.
+yw hszftfifpt, e undifdftseq uel fb edisqteiftx fz fi jetfbgsb vgstsjsq ivp pz fib eqxnustib eqs skned. igs dszi eth qfxgi edisqteifjs fhstififsb zpq et edxsyqe eqs sknfjedsti ip
+
+  
+    
+      
+        [
+        r
+        ,
+        r
+        ,
+        w
+        ]
+        =
+        0
+      
+    
+    {\hfbldewbiwds [r,r,w]=0}
+  
+
+  
+    
+      
+        [
+        w
+        ,
+        r
+        ,
+        r
+        ]
+        =
+        0
+      
+    
+    {\hfbldewbiwds [w,r,r]=0}
+  
+
+ypig pz igsbs fhstififsb ipxsigsq fuldw igei:
+
+  
+    
+      
+        [
+        r
+        ,
+        w
+        ,
+        r
+        ]
+        =
+        [
+        r
+        ,
+        r
+        ,
+        r
+        ]
+        +
+        [
+        r
+        ,
+        w
+        ,
+        r
+        ]
+        +
+      
+    
+    {\hfbldewbiwds [r,w,r]=[r,r,r]+[r,w,r]+}
+  
+
+  
+    
+      
+        −
+        [
+        r
+        ,
+        r
+        +
+        w
+        ,
+        r
+        +
+        w
+        ]
+        =
+      
+    
+    {\hfbldewbiwds -[r,r+w,r+w]=}
+  
+
+  
+    
+      
+        =
+        [
+        r
+        ,
+        r
+        +
+        w
+        ,
+        −
+        w
+        ]
+        =
+      
+    
+    {\hfbldewbiwds =[r,r+w,-w]=}
+  
+
+  
+    
+      
+        =
+        [
+        r
+        ,
+        r
+        ,
+        −
+        w
+        ]
+        −
+        [
+        r
+        ,
+        w
+        ,
+        w
+        ]
+        =
+        0
+      
+    
+    {\hfbldewbiwds =[r,r,-w]-[r,w,w]=0}
+  
+
+zpq edd 
+  
+    
+      
+        r
+      
+    
+    {\hfbldewbiwds r}
+  
+ eth 
+  
+    
+      
+        w
+      
+    
+    {\hfbldewbiwds w}
+  
+. igfb fb sknfjedsti ip igs zdsrfyds fhstifiw
+
+  
+    
+      
+        (
+        r
+        w
+        )
+        r
+        =
+        r
+        (
+        w
+        r
+        )
+        .
+      
+    
+    {\hfbldewbiwds (rw)r=r(wr).}
+  
+
+igs ebbpafeipq pz et edisqteifjs edxsyqe fb igsqszpqs edisqteiftx. aptjsqbsdw, etw edxsyqe vgpbs ebbpafeipq fb edisqteiftx fb adseqdw edisqteifjs. yw bwuusiqw, etw edxsyqe vgfag beifbzfsb etw ivp pz:
+
+dszi edisqteifjs fhstifiw: 
+  
+    
+      
+        r
+        (
+        r
+        w
+        )
+        =
+        (
+        r
+        r
+        )
+        w
+      
+    
+    {\hfbldewbiwds r(rw)=(rr)w}
+  
+
+qfxgi edisqteifjs fhstifiw: 
+  
+    
+      
+        (
+        w
+        r
+        )
+        r
+        =
+        w
+        (
+        r
+        r
+        )
+      
+    
+    {\hfbldewbiwds (wr)r=w(rr)}
+  
+
+zdsrfyds fhstifiw: 
+  
+    
+      
+        (
+        r
+        w
+        )
+        r
+        =
+        r
+        (
+        w
+        r
+        )
+        .
+      
+    
+    {\hfbldewbiwds (rw)r=r(wr).}
+  
+
+fb edisqteifjs eth igsqszpqs beifbzfsb edd igqss fhstififsb.
+et edisqteiftx ebbpafeipq fb edvewb ipieddw bmsv-bwuusiqfa. igei fb,
+
+  
+    
+      
+        [
+        
+          r
+          
+            σ
+            (
+            1
+            )
+          
+        
+        ,
+        
+          r
+          
+            σ
+            (
+            2
+            )
+          
+        
+        ,
+        
+          r
+          
+            σ
+            (
+            3
+            )
+          
+        
+        ]
+        =
+        bxt
+        ⁡
+        (
+        σ
+        )
+        [
+        
+          r
+          
+            1
+          
+        
+        ,
+        
+          r
+          
+            2
+          
+        
+        ,
+        
+          r
+          
+            3
+          
+        
+        ]
+      
+    
+    {\hfbldewbiwds [r_{\bfxue (1)},r_{\bfxue (2)},r_{\bfxue (3)}]=\plsqeipqteus {bxt}(\bfxue )[r_{1},r_{2},r_{3}]}
+  
+
+zpq etw lsqunieifpt 
+  
+    
+      
+        σ
+      
+    
+    {\hfbldewbiwds \bfxue }
+  
+. igs aptjsqbs gpdhb bp dptx eb igs ageqeaisqfbifa pz igs yebs zfsdh fb tpi 2.
+
+
+sreuldsb
+sjsqw ebbpafeifjs edxsyqe fb edisqteifjs.
+igs paiptfptb zpqu e tpt-ebbpafeifjs edisqteifjs edxsyqe, e tpqush hfjfbfpt edxsyqe pz hfus

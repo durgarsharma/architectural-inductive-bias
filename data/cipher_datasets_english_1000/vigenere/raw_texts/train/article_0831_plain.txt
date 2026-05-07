@@ -1,0 +1,30 @@
+Article ID: 831
+Title: PSIM Software
+Length: 3566 characters
+
+============================================================
+
+psim is an electronic circuit simulation software package, designed specifically for use in power electronics and motor drive simulations but can be used to simulate any electronic circuit. developed by powersim, psim uses nodal analysis and the trapezoidal rule integration as the basis of its simulation algorithm. psim provides a schematic capture interface and a waveform viewer simview. psim has several modules that extend its functionality into specific areas of circuit simulation and design including: control theory, electric motors, photovoltaics and wind turbines psim is used by industry for research and product development and it is used by educational institutions for research and teaching and was acquired by altair engineering in march 2022.
+
+
+modules
+psim has various add on modules, the full list and their descriptions can be found on the powersim website. there are modules that enable motor drive simulation, digital control, and the calculation of thermal losses due to switching and conduction. there is a renewable energy module which allows for the simulation of photovoltaics (including temperature effects), batteries, supercapacitor, and wind turbines. additionally there are several modules which allow co-simulation with other platforms to verify vhdl or verilog code or to co simulate with an fea program. the programs that psim currently co-simulates with are: simulink, jmag, and modelsim.
+psim currently supports automatic c-code generation with the simcoder module and will output c-code for use with texas instruments f2833x and f2803x floating and fixed point digital signal processors from the c2000 series. with psim version 10.0.4, psim has support for freescale semiconductor kinetis v series mcu.
+in addition, psim's processor-in-loop simulation or pil module was to control a psim simulation with code that is executing on a ti dsp or mcu.
+
+
+comparison with spice
+psim has a much faster simulation speed than spice based simulators based on its usage of the ideal switch. with the additional digital and simcoupler modules almost any kind of logic algorithm can be simulated. since psim uses ideal switches the simulated waveforms will reflect this, making psim more suited for system level studies rather than switching transition studies. additionally, psim has a simplified interface compared to other simulators and as a result has a more intuitive interface.
+mosfet and diode level 2 models were added in the version 10 release. these models allow the simulation of the switch transition, reverse recovery effects, and gate drive circuitry. a comparison with a psim & spice model of the same device showed similar resulting waveforms with a comparable simulation speed given identical operating conditions. powersim recently partnered with coolcad electronics to add coolspice, a spice based integrated circuit modeling and design tool, as a bundle option for the psim software package. the advantage being that psim would then have the flexibility to be able to run spice based models and net-lists.
+
+
+licensing
+there are various licensing options available for psim. there is a free demo version which does not expire but is limited in component count and allowed circuit complexity. the standard/student version allows for the simulation of less complex circuits for a reduced cost. powersim does have educational licensing options, some are free, for institutions to address simulation requirements for research and for teaching.
+
+
+references
+
+
+external links
+official website
+psim software's channel on youtube

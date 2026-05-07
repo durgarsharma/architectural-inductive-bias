@@ -1,0 +1,207 @@
+Article ID: 246
+Title: Brillouin's theorem
+Length: 5000 characters
+
+============================================================
+
+in quantum chemistry, brillouin's theorem, proposed by the french physicist léon brillouin in 1934, is a fundamental theorem that simplifies theoretical calculations of electronic structure. it states that within the common hartree–fock approximation, the electronic ground state does not directly mix or interact with electronic states where only a single electron has been promoted to a higher energy level (a "singly excited" state). the hartree–fock method is a foundational approach for approximating the wavefunction and energy of a quantum many-body system, such as the electrons in an atom or molecule.
+the main consequence of the theorem arises when improving upon the hartree-fock approximation, a process known as including electronic correlation. methods like configuration interaction (ci) build a more accurate wavefunction by combining the ground state with various excited states. brillouin's theorem implies that when performing a ci calculation, all contributions from singly excited states will be zero. therefore, to improve the hartree-fock energy, one only needs to consider states where two or more electrons have been excited, which significantly reduces the computational complexity. mathematically, the theorem states that the matrix element of the hamiltonian 
+  
+    
+      
+        
+          
+            
+              h
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {h}}}
+  
+ between the ground state hartree–fock wavefunction 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            0
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\psi _{0}\rangle }
+  
+ and a singly excited determinant 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            a
+          
+          
+            r
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\psi _{a}^{r}\rangle }
+  
+  (i.e. one where an occupied orbital a is replaced by a virtual orbital r) is zero:
+  
+    
+      
+        ⟨
+        
+          ψ
+          
+            0
+          
+        
+        
+          |
+        
+        
+          
+            
+              h
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          ψ
+          
+            a
+          
+          
+            r
+          
+        
+        ⟩
+        =
+        0
+      
+    
+    {\displaystyle \langle \psi _{0}|{\hat {h}}|\psi _{a}^{r}\rangle =0}
+  
+this theorem is important in constructing a configuration interaction method, among other applications.
+another interpretation of the theorem is that the ground electronic states solved by one-particle methods (such as hf or dft) already imply configuration interaction of the ground-state configuration with the singly excited ones. that renders their further inclusion into the ci expansion redundant.
+
+
+proof
+the electronic hamiltonian of the system can be divided into two parts. one consists of one-electron operators, describing the kinetic energy of the electron and the coulomb interaction (that is, electrostatic attraction) with the nucleus. the other is the two-electron operators, describing the coulomb interaction (electrostatic repulsion) between electrons.
+
+one-electron operator
+
+  
+    
+      
+        h
+        (
+        1
+        )
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∇
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          ∑
+          
+            α
+          
+        
+        
+          
+            
+              z
+              
+                α
+              
+            
+            
+              r
+              
+                1
+                α
+              
+            
+          
+        
+      
+    
+    {\displaystyle h(1)=-{\frac {1}{2}}\nabla _{1}^{2}-\sum _{\alpha }{\frac {z_{\alpha }}{r_{1\alpha }}}}
+  
+
+two-electron operator
+
+  
+    
+      
+        
+          ∑
+          
+            j
+          
+        
+        
+          |
+        
+        
+          r
+          
+            1
+          
+        
+        −
+        
+          r
+          
+            j
+          
+        
+        
+          
+            |
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \sum _{j}|r_{1}-r_{j}|^{-1}}
+  
+
+in methods of wavefunction-based quantum chemistry which include the electron correlation into the model, the wavefunction is expressed as a sum of series consisting of different slater determinants (i.e., a linear combination of such determinants). in the simplest case of configuration interaction (as well as in other single-reference multielectron-basis set methods, like mpn, etc.), all the determinants contain the same one-electron functions, or orbitals, and differ just by occupation of these orbitals by electrons. the source of these orbitals is the converged hartree–fock calculation, w

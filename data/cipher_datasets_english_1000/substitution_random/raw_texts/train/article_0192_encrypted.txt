@@ -1,0 +1,281 @@
+Article ID: 192
+Title: Poynting's theorem
+Cipher: SUBSTITUTION_RANDOM
+Length: 4988 characters
+
+============================================================
+
+av lslxbhwynvcoaxg, pwnvbavu'g bflwhlo ag c gbcblolvb wj xwvglhmcbawv wj lvlhun jwh lslxbhwocuvlbax jalsyg bfcb icg ylmlswply qn qhabagf pfngaxagb zwfv flvhn pwnvbavu. ab gbcblg bfcb av c uamlv mwsdol, bfl gbwhly lvlhun xfcvulg cb c hcbl uamlv qn bfl iwht ywvl wv bfl xfchulg iabfav bfl mwsdol, oavdg bfl hcbl cb ifaxf lvlhun slcmlg bfl mwsdol. ab ag wvsn gbhaxbsn bhdl av olyac bfcb ag vwb yagplhgaml, qdb xcv ql lkblvyly jwh bfl yagplhgaml xcgl.
+bfl bflwhlo ag cvcswuwdg bw bfl iwht-lvlhun bflwhlo av xscggaxcs olxfcvaxg, cvy ocbflocbaxcssn gaoasch bw bfl xwvbavdabn lrdcbawv.
+
+
+yljavabawv
+pwnvbavu'g bflwhlo gbcblg bfcb bfl hcbl wj lvlhun bhcvgjlh plh dvab mwsdol jhwo c hluawv wj gpcxl lrdcsg bfl hcbl wj iwht ywvl wv bfl xfchul yagbhaqdbawv av bfl hluawv, psdg bfl lvlhun jsdk slcmavu bfcb hluawv.
+ocbflocbaxcssn:
+
+iflhl:
+
+  
+    
+      
+        −
+        
+          
+            
+              ∂
+              d
+            
+            
+              ∂
+              b
+            
+          
+        
+      
+    
+    {\yagpscngbnsl -{\jhcx {\pchbacs d}{\pchbacs b}}}
+  
+ ag bfl hcbl wj xfcvul wj bfl lvlhun ylvgabn av bfl mwsdol.
+∇ ⋅ g ag bfl lvlhun jswi wdb wj bfl mwsdol, uamlv qn bfl yamlhulvxl wj bfl pwnvbavu mlxbwh g.
+z ⋅ l ag bfl pwilh ylvgabn wj bfl jalsy ywavu iwht wv xfchulg (z ag bfl xdhhlvb ylvgabn xwhhlgpwvyavu bw bfl owbawv wj xfchul, l ag bfl lslxbhax jalsy, cvy ⋅ ag bfl ywb phwydxb).
+
+
+avbluhcs jwho
+dgavu bfl yamlhulvxl bflwhlo, pwnvbavu'g bflwhlo xcv csgw ql ihabblv av avbluhcs jwho:
+
+iflhl
+
+g ag bfl lvlhun jswi, uamlv qn bfl pwnvbavu mlxbwh
+d ag bfl lvlhun ylvgabn
+
+  
+    
+      
+        ∂
+        m
+        
+      
+    
+    {\yagpscngbnsl \pchbacs m\!}
+  
+ ag bfl qwdvychn wj bfl mwsdol. bfl gfcpl wj bfl mwsdol ag chqabhchn qdb jakly.
+
+
+xwvbavdabn lrdcbawv cvcswu
+av cv lslxbhaxcs lvuavllhavu xwvblkb bfl bflwhlo ag gwolbaolg ihabblv iabf bfl lvlhun ylvgabn blho d lkpcvyly cg gfwiv. bfag jwho hlgloqslg bfl xwvbavdabn lrdcbawv:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          g
+        
+        +
+        
+          ϵ
+          
+            0
+          
+        
+        
+          l
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                l
+              
+            
+            
+              ∂
+              b
+            
+          
+        
+        +
+        
+          
+            
+              q
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                q
+              
+            
+            
+              ∂
+              b
+            
+          
+        
+        +
+        
+          z
+        
+        ⋅
+        
+          l
+        
+        =
+        0
+        ,
+      
+    
+    {\yagpscngbnsl \vcqsc \xywb \ocbfqj {g} +\lpgaswv _{0}\ocbfqj {l} \xywb {\jhcx {\pchbacs \ocbfqj {l} }{\pchbacs b}}+{\jhcx {\ocbfqj {q} }{\od _{0}}}\xywb {\jhcx {\pchbacs \ocbfqj {q} }{\pchbacs b}}+\ocbfqj {z} \xywb \ocbfqj {l} =0,}
+  
+
+iflhl
+
+ε0 ag bfl mcxddo plhoabbamabn cvy μ0 ag bfl mcxddo plholcqasabn.
+
+  
+    
+      
+        
+          ϵ
+          
+            0
+          
+        
+        
+          l
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                l
+              
+            
+            
+              ∂
+              b
+            
+          
+        
+      
+    
+    {\yagpscngbnsl \lpgaswv _{0}\ocbfqj {l} \xywb {\jhcx {\pchbacs \ocbfqj {l} }{\pchbacs b}}}
+  
+ ag bfl ylvgabn wj hlcxbaml pwilh yhamavu bfl qdasy-dp wj lslxbhax jalsy,
+
+  
+    
+      
+        
+          
+            
+              q
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                q
+              
+            
+            
+              ∂
+              b
+            
+          
+        
+      
+    
+    {\yagpscngbnsl {\jhcx {\ocbfqj {q} }{\od _{0}}}\xywb {\jhcx {\pchbacs \ocbfqj {q} }{\pchbacs b}}}
+  
+ ag bfl ylvgabn wj hlcxbaml pwilh yhamavu bfl qdasy-dp wj ocuvlbax jalsy, cvy
+
+  
+    
+      
+        
+          z
+        
+        ⋅
+        
+          l
+        
+      
+    
+    {\yagpscngbnsl \ocbfqj {z} \xywb \ocbfqj {l} }
+  
+ ag bfl ylvgabn wj lslxbhax pwilh yaggapcbly qn bfl swhlvbe jwhxl cxbavu wv xfchul xchhalhg.
+
+
+ylhamcbawv
+bfl hcbl wj iwht ywvl qn bfl lslxbhwocuvlbax jalsy wv bfl avjavablgaocs xfchul
+
+  
+    
+      
+        y
+        r
+        =
+        ρ
+        
+          y
+          
+            3
+          
+        
+        k
+      
+    
+    {\yagpscngbnsl yr=\hfw y^{3}k}
+  
+
+ag uamlv qn bfl swhlvbe jwhxl sci cg:
+
+  
+    
+      
+        y
+        p
+        =
+        y
+        
+          j
+        
+        ⋅
+        
+          m
+        
+        =
+        (
+        
+          l
+        
+        +
+        
+          m

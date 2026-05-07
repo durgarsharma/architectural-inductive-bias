@@ -1,0 +1,26 @@
+Article ID: 844
+Title: Xiaomi SU7
+Length: 4999 characters
+
+============================================================
+
+the xiaomi su7 (chinese: 小米su7; pinyin: xiǎomǐ su7, pronounced [sûtɕʰí] soo-tchee in chinese) is a full-size four-door fastback ev, made by chinese company xiaomi auto, a subsidiary of the chinese consumer electronics company xiaomi. it is the first motor vehicle developed by xiaomi, manufactured at their plant in beijing. it was announced in december 2023 and officially released on 28 march 2024 in beijing, the day xiaomi began taking orders.
+according to xiaomi, 'su' stands for 'speed ultra'. 'su' may also be a reference to the chinese word 速 (pinyin: sù), just meaning 'speed'. lei jun in an online q&a session where the company founder answered a hundred fan questions, stated: "after internal discussion, we decided the pronunciation should be 苏7 (pronounced ipac-cmn: su55tɕhi55, or suchee), it sounds like calling a friend, has a friendly ring to it". he explained that, "domestically, 7 is a common vehicle series positioning number. the size of the model is roughly the same as the bmw 5 series". the su7 is available in four versions in total: the su7, su7 pro, su7 max and su7 ultra.
+
+
+history
+xiaomi announced its intent to enter the electric vehicle market in march 2021. xiaomi founder, chairman and ceo lei jun claimed the company would invest 10 billion yuan (us$1.4 billion) into the project. xiaomi automobile was established in 2021, based in the beijing economic and technological development zone. the company received a permit to produce vehicles from china's national development and reform commission in august 2023.
+production of the su7 started in december 2023. it was introduced on 28 december 2023, with the first display models arriving in stores the next day, and many xiaomi stores needing to be renovated to accommodate the vehicle. the launch press conference was held in beijing on 28 march 2024 and nio chairman william li, xpeng chairman he xiaopeng, li auto chairman li xiang, great wall motor chairman wei jianjun and baic group chairman zhang jianyong attended. the retail price was announced on same day; the standard version costs 215,900 yuan (us$30,408), while pro and max versions cost 245,900 yuan (us$34,633) and 299,900 yuan (us$42,239), respectively.
+
+
+design
+the su7 was developed under codename ms11. the design team was led by chief designer sawyer li, who was poached from bmw. according to lei jun, he rejected three design proposals due to durability concerns. xiaomi benchmarked the car against the porsche taycan and tesla model s.
+the sedan is equipped with air suspension with adaptive dampers, an active shutter grille, and an active rear wing with four adjustment levels on higher end models. the company claims the drag coefficient of the su7, without the rooftop lidar module, is the world's lowest at 0.195. it also has a 105-litre (3.7 cu ft) frunk in addition to its 571-litre (20.2 cu ft) trunk.
+the dashboard contains a 7.1-inch digital instrument cluster display, which rotates into a closed position when the car is turned off, displaying a panel with the su7's silhouette. it also contains a 56-inch augmented-reality heads-up display reflecting off of the windshield, which is capable of displaying navigation guidance. the dashboard also has mounting points for accessories such as dashcams and phone holders. the center console has two wireless charging pads and a control panel with a start/stop button and four rocker switches for hvac temperature and fan speed, rear spoiler controls, and suspension height adjustment. the doors feature a slot for storing a smartphone upright, and the glovebox is designed to accommodate a 14-inch laptop. the rear seats each have access to a seatback mounting point and charging port for tablets, with apple ipads also being compatible. there is an optional 4.7-litre (0.17 cu ft) refrigerator located in the back of the center console.
+the su7 is equipped with a 16.1-inch touchscreen infotainment center with 3k resolution. the infotainment system is powered by a qualcomm snapdragon 8295 system-on-chip and runs xiaomi hyperos (小米澎湃os) operating system based on android, also used in devices such as smartphones, smart wearables, and smarthome devices. it allows for direct mirroring of a xiaomi smartphones and tablets, connectivity with xiaomi wearables like the mi band, and integration for xiaomi smarthome ecosystem devices such as the mi robot vacuum cleaner. non-xiaomi devices will also be compatible but with limited functionality, such as apple devices with carplay. the display also has screw mounting points for optional accessories, including a row of physical switches for hvac controls and a volume dial with media controls, and a set of auxiliary dial displays, both of which are configurable in the infotainment system.
+
+
+software
+a vehicle observed in october 2025 was running the following software:
+
+the system runs android 12 (released october 2021) with security patches from july 2022. the kernel is based on linux 5.4 (released november 2019) with stable

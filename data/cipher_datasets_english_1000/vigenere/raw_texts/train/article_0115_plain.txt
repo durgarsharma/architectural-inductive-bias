@@ -1,0 +1,24 @@
+Article ID: 115
+Title: Kaleyra
+Length: 1923 characters
+
+============================================================
+
+kaleyra is an italian communications platform as a service (cpaas) company that provides api and visual tools to communicate with customers worldwide through various channels, including sms, mms, rcs, whatsapp for business, video, and voice.
+kaleyra's services also include access to virtual numbers (toll-free, local and mobile), lookup services, and integration plugins. the company serves as a partner for google's services, verified sms and verified calls.
+it was listed company in nyse american  (nyse:klr) from november 2019 until october 2023 when it was acquired by tata communications.
+
+
+history
+the company was founded in 1999 as ubiquity in italy by dario calogero, the current ceo and board of directors’ member. in 2016, it was renamed kaleyra after acquiring the indian company solutions infin.
+in 2018, kaleyra acquired the us-based company buc mobile, which owned hook mobile. in june 2021, it acquired us-based mobile messaging solution provider mgage for $215 million in cash and kaleyra common stock and became a tier-1 messaging provider in the united states.
+in july 2021, kaleyra acquired bandyer a european company providing audio and video apis and sdks, for an undisclosed sum. in august, kaleyra's common stock shares were approved for uplisting to the new york stock exchange from its previous listing on the nyse american.`
+in february 2023, the company pleaded guilty to 22 charges relating to breaches of the communications regulation act in ireland. this was as a result of a malware incident that led to so-called 'spoofing', which saw customers' numbers being falsely signed up for premium rate services between august 2021 and continued until january 2022. following this, it withdrew from the irish market.
+on october 5, 2023, it was announced that tata communications completed the purchase of kaleyra for approximately 100 million dollars.
+
+
+references
+
+
+external links
+official website

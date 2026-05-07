@@ -1,0 +1,16 @@
+Article ID: 808
+Title: QOCA
+Length: 962 characters
+
+============================================================
+
+qoca is a library for incrementally solving systems of linear equations with various goal functions. it was developed by kim marriott and sitt sen chok at monash university, starting in 1992. the library provides three different solvers, one of which is based on the cassowary algorithm. it can provide linear equalities and inequalities, using either euclidean or manhattan distances. c++ and java implementations are available.
+qoca follows an object-oriented design. its interface is based on metric space. constraints can be added or removed, and “edit” variables can be applied and adjusted. it was designed to be suitable for real-time applications. in a 1997 technical report comparing qoca to cassowary, researchers described the former as being “considerably more sophisticated” and having “much better performance” than the latter.
+qoca is licensed under the gnu general public license, version 2.
+
+
+references
+
+
+external links
+archived project website

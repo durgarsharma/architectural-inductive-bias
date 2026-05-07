@@ -1,0 +1,43 @@
+Article ID: 914
+Title: François Hammer
+Length: 4641 characters
+
+============================================================
+
+françois hammer, born on 19 november 1958, is a french astrophysicist. he has been an astronomer at the paris observatory since 1987 and was an astronomer attached to the canada-france-hawaii telescope between 1991 and 1992.
+he has made several discoveries in the fields of gravitational lensing, cosmology and galaxy formation and structure. he was responsible for the giraffe spectrograph implemented in 2002 at the very large telescope (vlt). together with the astronomers lex kaper, per kjaergaard, roberto pallavicini, he was the investigator of the x-shooter spectrograph, implemented in 2009 at the vlt.
+
+
+career
+françois hammer studied at the école centrale des arts et manufactures (1980–82), and obtained his phd in astrophysics in 1986 at the université paris-diderot. he was the founding director of the laboratory "galaxies, etoiles physique et instrumentation" (gepi, 2002-2009). he was elected at the scientific council of the "institut national des sciences de l'univers" du centre national de recherches scientifiques (cnrs), first secretary (2011–2013) then president in 2014. as a member of the coordination of the national committee for scientific research (2012–2014), he supported the fundamental research for "assises de l'enseignement supérieur et de la recherche" as well as the employment of scientists.
+he is co-responsible for franco-chinese scientific relations in astronomy and astrophysics.
+
+
+research
+hammer established the first gravitational lensing model to explain the giant luminous arcs recently discovered in galaxy clusters. this had led to a new estimate of galaxy cluster masses.
+very few distant galaxies were known in the 80s; together with the astronomers david crampton, olivier le fèvre and simon lilly, hammer carried out the first spectroscopic survey of a thousand galaxies up to z=1 (canada-france redshift survey). from this, the team discovered that star formation in the universe had decreased by a factor of ten over the last 8 billion years, a result confirmed using infrared data to account for the dust-enshrouded star formation.
+he implemented the first 3d multi-spectroscopy system on an 8- meter class telescope, and invented the new concept of 'morpho-kinematics' to identify the physical processes that govern galaxy formation, by combining the deep morphologies of hst with the 3d spectroscopy performed at the vlt.
+together with colleagues and his students, he discovered that the morphologies of present-day galaxies can be explained by major mergers of gas-rich galaxies, after which the gas is gradually wrapped around the center to form a new disk. this new concept of post-merger disk formation indicates that the hierarchical scenario applies to all galaxy types, either spiral or elliptical. furthermore, this disk rebuilding scenario solves the so-called spin catastrophe by providing large angular momentum to spiral galaxies. in 2007, he showed that the milky way is quite exceptional, as it has not been affected by a collision since the earliest epochs. this was confirmed in 2018 by gaia observations that have identified the remains of a large collision called gaia-sausage-enceladus which took place nearly 10 billion years ago.
+he produced the most accurate modeling of the large andromeda galaxy with his colleagues, yanbin yang and jianling wang. this has shown that andromeda was the result of a major collision two to three billion years ago, explaining the overall properties of the galaxy. he also modeled the large magellanic stream of neutral hydrogen, still unexplained since its discovery, 40 years ago. he is currently researching the origin of dwarf galaxies near the milky way, using astrometric data from the gaia satellite.
+
+
+prizes
+médaille de bronze du cnrs, 1987
+descartes-huygens prize given by the french academy of sciences and the royal netherlands academy of arts and sciences, 2011
+
+
+books
+building galaxies: from the primordial universe to the present, françois hammer et al., (2000)
+studying distant galaxies: a handbook of methods and analyses, françois hammer et al., (2016)
+
+
+medias and podcasts
+c'est pas sorcier, « mystères de l'univers », france 3, 2004
+la terre au carré : « la galaxie d'andromède», france inter, mathieu vidard
+la méthode scientifique : « univers jeune : si loin, si proche », france culture, nicolas martin
+la méthode scientifique : « galaxie d'andromède, notre si jeune voisine», france culture, nicolas martin
+la méthode scientifique : « fin de l'univers : et après ?», france culture, nicolas martin
+les preuves de la matière sombre aux différentes échelles, fête de la science 2019
+
+
+notes and references

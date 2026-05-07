@@ -1,0 +1,208 @@
+Article ID: 246
+Title: Brillouin's theorem
+Cipher: AFFINE
+Length: 5000 characters
+
+============================================================
+
+wv keivzeq srcqwuzpy, npwllaewv'u zrcapcq, fpafaucx ny zrc hpcvsr fryuwswuz léav npwllaewv wv 1934, wu i hevxiqcvzil zrcapcq zriz uwqflwhwcu zrcapczwsil silselizwavu ah clcszpavws uzpeszepc. wz uzizcu zriz owzrwv zrc saqqav ripzpcc–hasg iffpatwqizwav, zrc clcszpavws mpaevx uzizc xacu vaz xwpcszly qwt ap wvzcpisz owzr clcszpavws uzizcu orcpc avly i uwvmlc clcszpav riu nccv fpaqazcx za i rwmrcp cvcpmy lcjcl (i "uwvmly ctswzcx" uzizc). zrc ripzpcc–hasg qczrax wu i haevxizwavil iffpaisr hap iffpatwqizwvm zrc oijchevszwav ivx cvcpmy ah i keivzeq qivy-naxy uyuzcq, uesr iu zrc clcszpavu wv iv izaq ap qalcselc.
+zrc qiwv savuckecvsc ah zrc zrcapcq ipwucu orcv wqfpajwvm efav zrc ripzpcc-hasg iffpatwqizwav, i fpascuu gvaov iu wvslexwvm clcszpavws sappclizwav. qczraxu lwgc savhwmepizwav wvzcpiszwav (sw) newlx i qapc issepizc oijchevszwav ny saqnwvwvm zrc mpaevx uzizc owzr jipwaeu ctswzcx uzizcu. npwllaewv'u zrcapcq wqflwcu zriz orcv fcphapqwvm i sw silselizwav, ill savzpwnezwavu hpaq uwvmly ctswzcx uzizcu owll nc dcpa. zrcpchapc, za wqfpajc zrc ripzpcc-hasg cvcpmy, avc avly vccxu za savuwxcp uzizcu orcpc zoa ap qapc clcszpavu rijc nccv ctswzcx, orwsr uwmvwhwsivzly pcxescu zrc saqfezizwavil saqflctwzy. qizrcqizwsilly, zrc zrcapcq uzizcu zriz zrc qizpwt clcqcvz ah zrc riqwlzavwiv 
+  
+    
+      
+        
+          
+            
+              r
+              ^
+            
+          
+        
+      
+    
+    {\xwufliyuzylc {\riz {r}}}
+  
+ nczoccv zrc mpaevx uzizc ripzpcc–hasg oijchevszwav 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            0
+          
+        
+        ⟩
+      
+    
+    {\xwufliyuzylc |\fuw _{0}\pivmlc }
+  
+ ivx i uwvmly ctswzcx xczcpqwvivz 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            i
+          
+          
+            p
+          
+        
+        ⟩
+      
+    
+    {\xwufliyuzylc |\fuw _{i}^{p}\pivmlc }
+  
+  (w.c. avc orcpc iv assefwcx apnwzil i wu pcfliscx ny i jwpzeil apnwzil p) wu dcpa:
+  
+    
+      
+        ⟨
+        
+          ψ
+          
+            0
+          
+        
+        
+          |
+        
+        
+          
+            
+              r
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          ψ
+          
+            i
+          
+          
+            p
+          
+        
+        ⟩
+        =
+        0
+      
+    
+    {\xwufliyuzylc \livmlc \fuw _{0}|{\riz {r}}|\fuw _{i}^{p}\pivmlc =0}
+  
+zrwu zrcapcq wu wqfapzivz wv savuzpeszwvm i savhwmepizwav wvzcpiszwav qczrax, iqavm azrcp ifflwsizwavu.
+ivazrcp wvzcpfpczizwav ah zrc zrcapcq wu zriz zrc mpaevx clcszpavws uzizcu ualjcx ny avc-fipzwslc qczraxu (uesr iu rh ap xhz) ilpcixy wqfly savhwmepizwav wvzcpiszwav ah zrc mpaevx-uzizc savhwmepizwav owzr zrc uwvmly ctswzcx avcu. zriz pcvxcpu zrcwp hepzrcp wvsleuwav wvza zrc sw ctfivuwav pcxevxivz.
+
+
+fpaah
+zrc clcszpavws riqwlzavwiv ah zrc uyuzcq siv nc xwjwxcx wvza zoa fipzu. avc savuwuzu ah avc-clcszpav afcpizapu, xcuspwnwvm zrc gwvczws cvcpmy ah zrc clcszpav ivx zrc saelaqn wvzcpiszwav (zriz wu, clcszpauzizws izzpiszwav) owzr zrc veslceu. zrc azrcp wu zrc zoa-clcszpav afcpizapu, xcuspwnwvm zrc saelaqn wvzcpiszwav (clcszpauzizws pcfeluwav) nczoccv clcszpavu.
+
+avc-clcszpav afcpizap
+
+  
+    
+      
+        r
+        (
+        1
+        )
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∇
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          ∑
+          
+            α
+          
+        
+        
+          
+            
+              d
+              
+                α
+              
+            
+            
+              p
+              
+                1
+                α
+              
+            
+          
+        
+      
+    
+    {\xwufliyuzylc r(1)=-{\hpis {1}{2}}\vinli _{1}^{2}-\ueq _{\ilfri }{\hpis {d_{\ilfri }}{p_{1\ilfri }}}}
+  
+
+zoa-clcszpav afcpizap
+
+  
+    
+      
+        
+          ∑
+          
+            b
+          
+        
+        
+          |
+        
+        
+          p
+          
+            1
+          
+        
+        −
+        
+          p
+          
+            b
+          
+        
+        
+          
+            |
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\xwufliyuzylc \ueq _{b}|p_{1}-p_{b}|^{-1}}
+  
+
+wv qczraxu ah oijchevszwav-niucx keivzeq srcqwuzpy orwsr wvslexc zrc clcszpav sappclizwav wvza zrc qaxcl, zrc oijchevszwav wu ctfpcuucx iu i ueq ah ucpwcu savuwuzwvm ah xwhhcpcvz ulizcp xczcpqwvivzu (w.c., i lwvcip saqnwvizwav ah uesr xczcpqwvivzu). wv zrc uwqflcuz siuc ah savhwmepizwav wvzcpiszwav (iu ocll iu wv azrcp uwvmlc-pchcpcvsc qelzwclcszpav-niuwu ucz qczraxu, lwgc qfv, czs.), ill zrc xczcpqwvivzu savziwv zrc uiqc avc-clcszpav hevszwavu, ap apnwzilu, ivx xwhhcp beuz ny assefizwav ah zrcuc apnwzilu ny clcszpavu. zrc uaepsc ah zrcuc apnwzilu wu zrc savjcpmcx ripzpcc–hasg silselizwav, o

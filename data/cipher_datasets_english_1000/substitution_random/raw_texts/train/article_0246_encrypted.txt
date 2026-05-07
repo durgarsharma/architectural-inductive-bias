@@ -1,0 +1,208 @@
+Article ID: 246
+Title: Brillouin's theorem
+Cipher: SUBSTITUTION_RANDOM
+Length: 5000 characters
+
+============================================================
+
+sy ufrypfq vleqsmpjg, ojsnnifsy'm pleijeq, ajiaimec og ple tjeyvl algmsvsmp néiy ojsnnifsy sy 1934, sm r tfycrqeyprn pleijeq plrp msqanstsem pleijepsvrn vrnvfnrpsiym it enevpjiysv mpjfvpfje. sp mprpem plrp hsplsy ple viqqiy lrjpjee–tivk raajixsqrpsiy, ple enevpjiysv djifyc mprpe ciem yip csjevpng qsx ij sypejrvp hspl enevpjiysv mprpem hleje iyng r msydne enevpjiy lrm oeey ajiqipec pi r lsdlej eyejdg neben (r "msydng exvspec" mprpe). ple lrjpjee–tivk qeplic sm r tifycrpsiyrn raajirvl tij raajixsqrpsyd ple hrbetfyvpsiy ryc eyejdg it r ufrypfq qryg-oicg mgmpeq, mfvl rm ple enevpjiym sy ry rpiq ij qinevfne.
+ple qrsy viymeufeyve it ple pleijeq rjsmem hley sqajibsyd faiy ple lrjpjee-tivk raajixsqrpsiy, r ajivemm kyihy rm syvnfcsyd enevpjiysv vijjenrpsiy. qeplicm nske viytsdfjrpsiy sypejrvpsiy (vs) ofsnc r qije rvvfjrpe hrbetfyvpsiy og viqosysyd ple djifyc mprpe hspl brjsifm exvspec mprpem. ojsnnifsy'm pleijeq sqansem plrp hley aejtijqsyd r vs vrnvfnrpsiy, rnn viypjsofpsiym tjiq msydng exvspec mprpem hsnn oe weji. plejetije, pi sqajibe ple lrjpjee-tivk eyejdg, iye iyng yeecm pi viymscej mprpem hleje phi ij qije enevpjiym lrbe oeey exvspec, hlsvl msdystsvrypng jecfvem ple viqafprpsiyrn viqanexspg. qrpleqrpsvrnng, ple pleijeq mprpem plrp ple qrpjsx eneqeyp it ple lrqsnpiysry 
+  
+    
+      
+        
+          
+            
+              l
+              ^
+            
+          
+        
+      
+    
+    {\csmanrgmpgne {\lrp {l}}}
+  
+ oepheey ple djifyc mprpe lrjpjee–tivk hrbetfyvpsiy 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            0
+          
+        
+        ⟩
+      
+    
+    {\csmanrgmpgne |\ams _{0}\jrydne }
+  
+ ryc r msydng exvspec cepejqsyryp 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            r
+          
+          
+            j
+          
+        
+        ⟩
+      
+    
+    {\csmanrgmpgne |\ams _{r}^{j}\jrydne }
+  
+  (s.e. iye hleje ry ivvfasec ijosprn r sm jeanrvec og r bsjpfrn ijosprn j) sm weji:
+  
+    
+      
+        ⟨
+        
+          ψ
+          
+            0
+          
+        
+        
+          |
+        
+        
+          
+            
+              l
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          ψ
+          
+            r
+          
+          
+            j
+          
+        
+        ⟩
+        =
+        0
+      
+    
+    {\csmanrgmpgne \nrydne \ams _{0}|{\lrp {l}}|\ams _{r}^{j}\jrydne =0}
+  
+plsm pleijeq sm sqaijpryp sy viympjfvpsyd r viytsdfjrpsiy sypejrvpsiy qeplic, rqiyd iplej raansvrpsiym.
+ryiplej sypejajeprpsiy it ple pleijeq sm plrp ple djifyc enevpjiysv mprpem minbec og iye-arjpsvne qeplicm (mfvl rm lt ij ctp) rnjercg sqang viytsdfjrpsiy sypejrvpsiy it ple djifyc-mprpe viytsdfjrpsiy hspl ple msydng exvspec iyem. plrp jeycejm plesj tfjplej syvnfmsiy sypi ple vs exarymsiy jecfycryp.
+
+
+ajiit
+ple enevpjiysv lrqsnpiysry it ple mgmpeq vry oe csbscec sypi phi arjpm. iye viymsmpm it iye-enevpjiy iaejrpijm, cemvjsosyd ple ksyepsv eyejdg it ple enevpjiy ryc ple vifniqo sypejrvpsiy (plrp sm, enevpjimprpsv rppjrvpsiy) hspl ple yfvnefm. ple iplej sm ple phi-enevpjiy iaejrpijm, cemvjsosyd ple vifniqo sypejrvpsiy (enevpjimprpsv jeafnmsiy) oepheey enevpjiym.
+
+iye-enevpjiy iaejrpij
+
+  
+    
+      
+        l
+        (
+        1
+        )
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∇
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          ∑
+          
+            α
+          
+        
+        
+          
+            
+              w
+              
+                α
+              
+            
+            
+              j
+              
+                1
+                α
+              
+            
+          
+        
+      
+    
+    {\csmanrgmpgne l(1)=-{\tjrv {1}{2}}\yronr _{1}^{2}-\mfq _{\rnalr }{\tjrv {w_{\rnalr }}{j_{1\rnalr }}}}
+  
+
+phi-enevpjiy iaejrpij
+
+  
+    
+      
+        
+          ∑
+          
+            z
+          
+        
+        
+          |
+        
+        
+          j
+          
+            1
+          
+        
+        −
+        
+          j
+          
+            z
+          
+        
+        
+          
+            |
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\csmanrgmpgne \mfq _{z}|j_{1}-j_{z}|^{-1}}
+  
+
+sy qeplicm it hrbetfyvpsiy-ormec ufrypfq vleqsmpjg hlsvl syvnfce ple enevpjiy vijjenrpsiy sypi ple qicen, ple hrbetfyvpsiy sm exajemmec rm r mfq it mejsem viymsmpsyd it csttejeyp mnrpej cepejqsyrypm (s.e., r nsyerj viqosyrpsiy it mfvl cepejqsyrypm). sy ple msqanemp vrme it viytsdfjrpsiy sypejrvpsiy (rm henn rm sy iplej msydne-jetejeyve qfnpsenevpjiy-ormsm mep qeplicm, nske qay, epv.), rnn ple cepejqsyrypm viyprsy ple mrqe iye-enevpjiy tfyvpsiym, ij ijosprnm, ryc csttej zfmp og ivvfarpsiy it pleme ijosprnm og enevpjiym. ple mifjve it pleme ijosprnm sm ple viybejdec lrjpjee–tivk vrnvfnrpsiy, h

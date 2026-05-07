@@ -1,0 +1,20 @@
+Article ID: 165
+Title: Pay for placement
+Length: 1311 characters
+
+============================================================
+
+pay for placement, or p4p, is an internet advertising model in which advertisements appear along with relevant search results from a web search engine. under this model, advertisers bid for the right to present an advertisement with specific search terms (i.e., keywords) in an open auction. when one of these keywords is entered into the search engine, the results of the auction on that keyword are presented, with higher-ranking bids appearing more prominently on the page.
+when p4p was first introduced, controversy arose because seventy percent of internet users were unaware that search results could be skewed as a result of such agreements, which in some cases led to legal action. 
+pay per click marketing is a subset of search engine marketing. it is not a form of seo as seo refers to practices which are intended to improve your organic search results.
+pay per click marketing can be done through ad networks such as google ads (formerly known as google adwords) or by paying for placement on a specific site. the pricing structure of most pay per click marketing is built upon an auction model that takes keyword competition into consideration to determine the cost per click (cpc) or the cost per impression. (cpi).
+
+
+see also
+pay per action
+pay per click
+payperpost
+favored placement
+
+
+references

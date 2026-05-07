@@ -1,0 +1,208 @@
+Article ID: 246
+Title: Brillouin's theorem
+Cipher: VIGENERE
+Length: 5000 characters
+
+============================================================
+
+kv fbeevcb jlvoqhavp, dzxspfwqc'z xygwglq, gtwevwvf jn alv hztugy rpnzmtkai sése dzxspfwqc pr 1934, zu i ubrucutuxrn bwlsigu ioek uqbwpzhqtz xygwglxzeia jececahxzqvh vj vnmravfpqr zxiwkibvv. kb haekga ioek yqiome vpt jsdowc oeivztl–jfes pwtiqfxtekkwc, alv gttjxiqvxj kiqcck wkcbt ksvu vda hztmrapp oqm vv zpbtyetv exal vnmravfpqr zxrvmh dlvtm dupp c axukcg malgktwc oej dmtu tiqudaiu vw p omxjmg lrvton simgt (p "zmeitn lbtkbtk" wkcbt). alv jigavvg–ndjo dgbwvh zu i uvyefiipsect pwtiqiro jft iewvfzqbhxzpo ioi ncdtmyeebxvr rpl tuiiig dm e hwicayd oicf-fffg hfwkgu, hbgy ca ioi vnmravfpa xu ee cbdt si owalglnm.
+ioi dcqc jseumfbieem dm xyg bwlsigu pymjga loie kueysmkvv btfp bwl lrtbgli-wqkz htgtwmpqrvqdu, e gtwrlwj mvddr ru qcjplfqcn icgkiysekk rvvigtpamfp. utalffa apov ewcmmxwzpamfp qcaiickipse (eq) qbmcf i bvvv ckrbvrvm lhzvhccjxzqv qf gfojxumei bwl kiqcck wkcbt dmkj dpymfwa tegzvms zxrvmh. ivzntdbme'u bwlsigu xttckmh alrv ewlr ggzuvvdkvv h gz eiajyccbxvr, rnt rvrktqqbxzqvh mvfo axukca mmjmkgl haekga lppc dm olvf. vptyiwqzt, as zoxgvzv vpt oeivztl-jfes tuiiig, dui fptn uivfa iv gfpaxkii ubpaij yptyi kyw dy qftm tsitvzduw ycdt iivp mmjmkgl, lomtj axnrzhqrhrkng glhlemh alv ewbwykcbxvrrn kdttcgfxac. dcbwlqrvqrhpca, bwl xygwglq jviilw kjii alv oiiymo gtttiev wu alv jibppkqvxhr 
+  
+    
+      
+        
+          
+            
+              y
+              ^
+            
+          
+        
+      
+    
+    {\fqhwpraaifpv {\jii {o}}}
+  
+ fvvetlr kjm vyslpl haekg ppyxigm–uvgb yikljlpkipse 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            0
+          
+        
+        ⟩
+      
+    
+    {\fqhwpraaifpv |\rax _{0}\yeeitt }
+  
+ hru c axukca mmjmkgl slxvtuxueev 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            i
+          
+          
+            g
+          
+        
+        ⟩
+      
+    
+    {\kmjrtpfwkatt |\wwz _{c}^{z}\ghrxnm }
+  
+  (x.l. seg ewlvv cv djglrqtk sidqihp r ka gltccktk fp c dxyxlct dyfzvia y) mj bmgv:
+  
+    
+      
+        ⟨
+        
+          ψ
+          
+            0
+          
+        
+        
+          |
+        
+        
+          
+            
+              l
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          ψ
+          
+            r
+          
+          
+            t
+          
+        
+        ⟩
+        =
+        0
+      
+    
+    {\lxztccghaccg \tpukcg \xhp _{0}|{\lrv {p}}|\ezm _{r}^{t}\zpukcg =0}
+  
+bwpw kjmdyid ka xttftbpux zp kduwktcramei i rvrwkojyekkwc prkgzpjxzqv blxyql, ptsei wioii cxesmtcbxvrj.
+cvdalvt qcaiirztaekkwc vj kjm ioiftmb pw kjii alv izdbru gttjxiqvxj wkcbtz wfndtk fp qvt-weivqrsi dgbwvhj (ucro ej jn dy hwv) iayirfg xttca kdujzicghxzqv xuxvtiramfp wu alv izdbru-ubpai tqvupkltiipse yqio xyg axukca mmjmkgl duij. vppa vvpltyw kjmxy jltbwlv zpkabwzqv xuxf vpt jm vzxpuwzqv glhlplpux.
+
+
+gtwdm
+xyg malgktwcpg ycuxsxfpqpu sw vpt zcjvmb jee dm spzzfms prkq blv trtbh. vrv ewczmjva dm seg-malgktwc vtvtiivvj, fmhjvzdqcn xyg sxuikkk tuiiig dm xyg malgktwc hru vpt jslnwbi mevmghgkkwc (alrv qh, lpvebgvwkcbxj ekvzpjxzqv) lpxy vpt uytnmjz. xyg wioii ka ioi kyw-tsitvzdu sggzpasiu, ltzgikjxuk kjm rvycquq prkgzpjxzqv (tsitvzdzxrvqr yigwthpse) dmidivp malgktwcz.
+
+seg-malgktwc vtvtiivv
+
+  
+    
+      
+        y
+        (
+        1
+        )
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∇
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          ∑
+          
+            α
+          
+        
+        
+          
+            
+              b
+              
+                α
+              
+            
+            
+              z
+              
+                1
+                α
+              
+            
+          
+        
+      
+    
+    {\spwgninzxpnm w(1)=-{\mvre {1}{2}}\vpipr _{1}^{2}-\ucb _{\hpgji }{\uyet {b_{\iawlr }}{t_{1\iawlr }}}}
+  
+
+ved-lpvebgvr frmghxft
+
+  
+    
+      
+        
+          ∑
+          
+            r
+          
+        
+        
+          |
+        
+        
+          g
+          
+            1
+          
+        
+        −
+        
+          y
+          
+            n
+          
+        
+        
+          
+            |
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\ukaesepubnsi \jwu _{y}|y_{1}-v_{a}|^{-1}}
+  
+
+kv blxyqlh vj ncdtmyeebxvr-scatk ulcvibq tjmbpwktg lomtj qcjplfm ioi vnmravfp kdyvvniipse kviv xyg udkic, vpt demgnjugkkwc pw vzxglwjgl pz e jwu dm wvtqtz gfpaxzxzpo dm hzhntyiev aahxvt ltaiioqchrku (q.t., h pzpmpy gfojxuekkwc vj jwkw kikgzbprrpbh). pr kjm hpqgnmha grum dm gfpnxnyicbxvr zpbtyetvqdu (ej ymas ej kv dalvt axukcg-ztmiigvrl qlnbxlpvebgvr-scaxz wvv utalffa, apov oxc, lxt.), cta alv fmilvdkvpuxj ewcaezp bwl wrom dui-vnmravfp njugkkwcz, si qzqpxrna, puh uknulv awai ic fekjwekkwc vj kjmhl sidqihpj dg tsitvzduw. kjm hvyiem dm xygat vvskbpsw zu bwl gfpdtykvf ppyxigm–uvgb eiajyccbxvr, n

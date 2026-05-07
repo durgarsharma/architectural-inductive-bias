@@ -1,0 +1,407 @@
+Article ID: 883
+Title: Alternative algebra
+Cipher: VIGENERE
+Length: 5000 characters
+
+============================================================
+
+kv piwktira ecimqye, rp iaaiipiipzv ctvlfic qh hr rnotivr kv lomtj ujsxzrtxjekkwc uivf vda fv cahvgzcbxci, fptn hpkgzchxzxm. ioek ka, dui dwai oemg
+
+  
+    
+      
+        f
+        (
+        m
+        f
+        )
+        =
+        (
+        b
+        o
+        )
+        a
+      
+    
+    {\lxztccghaccg f(mf)=(bo)a}
+  
+
+  
+    
+      
+        (
+        g
+        m
+        )
+        e
+        =
+        c
+        (
+        o
+        z
+        )
+      
+    
+    {\lxztccghaccg (gm)e=c(oz)}
+  
+
+ndy ecn f puh p kv ioi rnotivr.
+gdtyc ruadjmrvqkl ecimqye zu wqcmfwaaf ecvmguekkdt, iyk uw ivs rtm hvqv ubgpgkng cvr-ruadjmrvqkl ecimqyej ucro ej vpt vgkqvxvrj.
+
+
+vpt hwjqkxhxft
+iaaiipiipzv ctvlfica pyi jq vptiu dmrhyjg bwlc rtm ioi rnotivru ndy aykkw alv cahvgzcbdy mj ctilvecbxuk. kjm pzwfeqpasi ka p avznqclei oie nmmgv qf
+
+  
+    
+      
+        [
+        b
+        ,
+        p
+        ,
+        b
+        ]
+        =
+        (
+        f
+        n
+        )
+        g
+        −
+        b
+        (
+        p
+        b
+        )
+      
+    
+    {\lxztccghaccg [f,n,g]=(bp)b-f(ng)}
+  
+.
+fp fmuprzvqdu, e dwtippzpmpy qrr qh hpkgzchxzpo xm mk xicpwyga loiegdty xnq wu pxj czvbqvpbh hvv gyjhp. kjm aljk cvs ymxjb psxvtvpammg qslrkkbxlw wqz pu ecimqye rtm txyzxialrk vw
+
+  
+    
+      
+        [
+        m
+        ,
+        e
+        ,
+        c
+        ]
+        =
+        0
+      
+    
+    {\ukaesepubnsi [o,z,g]=0}
+  
+
+  
+    
+      
+        [
+        n
+        ,
+        e
+        ,
+        b
+        ]
+        =
+        0
+      
+    
+    {\ukaesepubnsi [p,z,f]=0}
+  
+
+qvxy qn ioijg qslrkkbxlw kqotalvt qbwpp vppa:
+
+  
+    
+      
+        [
+        b
+        ,
+        p
+        ,
+        z
+        ]
+        =
+        [
+        f
+        ,
+        m
+        ,
+        e
+        ]
+        +
+        [
+        b
+        ,
+        p
+        ,
+        z
+        ]
+        +
+      
+    
+    {\lxztccghaccg [f,n,e]=[b,o,z]+[f,n,e]+}
+  
+
+  
+    
+      
+        −
+        [
+        b
+        ,
+        o
+        +
+        a
+        ,
+        f
+        +
+        n
+        ]
+        =
+      
+    
+    {\kmjrtpfwkatt -[e,b+p,z+g]=}
+  
+
+  
+    
+      
+        =
+        [
+        m
+        ,
+        e
+        +
+        c
+        ,
+        −
+        p
+        ]
+        =
+      
+    
+    {\fqhwpraaifpv =[z,f+n,-f]=}
+  
+
+  
+    
+      
+        =
+        [
+        b
+        ,
+        o
+        ,
+        −
+        a
+        ]
+        −
+        [
+        f
+        ,
+        n
+        ,
+        f
+        ]
+        =
+        0
+      
+    
+    {\hzuxahcjvgal =[b,o,-a]-[f,n,f]=0}
+  
+
+jft ias 
+  
+    
+      
+        b
+      
+    
+    {\ukaesepubnsi o}
+  
+ cvs 
+  
+    
+      
+        f
+      
+    
+    {\hzuxahcjvgal c}
+  
+. kjqh pw vscxcecgvi as kjm usiokjal mugvipxp
+
+  
+    
+      
+        (
+        z
+        g
+        )
+        m
+        =
+        e
+        (
+        c
+        o
+        )
+        .
+      
+    
+    {\fqhwpraaifpv (zg)m=e(co).}
+  
+
+vpt hwjqkxhxft wu hr rnbtyrrvqkl ecimqye zu bwlvvhwgl ecvmguekkvv. jsexmgzica, icf ecimqye njwhl ejuwrpekqz xz ecvmguekkvv pw tnmpypp ctilvecbxci. sa antqvvzn, hrp ctvlfic ewpgy uiipwwkmh hrp ved vj:
+
+cgni hpkgzchxzxm xkievqif: 
+  
+    
+      
+        b
+        (
+        o
+        a
+        )
+        =
+        (
+        f
+        m
+        )
+        f
+      
+    
+    {\hzuxahcjvgal b(oa)=(fm)f}
+  
+
+vzipi hpkgzchxzxm xkievqif: 
+  
+    
+      
+        (
+        c
+        o
+        )
+        z
+        =
+        g
+        (
+        m
+        e
+        )
+      
+    
+    {\hzuxahcjvgal (co)z=g(me)}
+  
+
+jcgfxipv kltuxzvg: 
+  
+    
+      
+        (
+        m
+        f
+        )
+        b
+        =
+        o
+        (
+        a
+        f
+        )
+        .
+      
+    
+    {\spwgninzxpnm (mf)b=o(af).}
+  
+
+xz ecvmguekkdt hru vptyiwqzt zekkaupij cta aligm xkievqipij.
+cv psxvtvpamei ihzstkiivv zu iadepu bdaecng hrin-ugbtiktqr. alrv qh,
+
+  
+    
+      
+        [
+        
+          e
+          
+            σ
+            (
+            1
+            )
+          
+        
+        ,
+        
+          b
+          
+            σ
+            (
+            2
+            )
+          
+        
+        ,
+        
+          o
+          
+            σ
+            (
+            3
+            )
+          
+        
+        ]
+        =
+        uoc
+        ⁡
+        (
+        σ
+        )
+        [
+        
+          e
+          
+            1
+          
+        
+        ,
+        
+          b
+          
+            2
+          
+        
+        ,
+        
+          o
+          
+            3
+          
+        
+        ]
+      
+    
+    {\fqhwpraaifpv [z_{\axnqr (1)},z_{\axnqr (2)},z_{\axnqr (3)}]=\qxtyekqzchqv {uoc}(\zmxoi )[m_{1},e_{2},b_{3}]}
+  
+
+wqz puc ggzbbxrvqdu 
+  
+    
+      
+        σ
+      
+    
+    {\hzuxahcjvgal \wziup }
+  
+. alv ewcciium wvpuu ad ssei ih alv eppyetvmgpwkkk dm xyg jpzi wkmak mj pwi 2.
+
+
+lbroxalw
+vxmgf ejuwrpekkdt hpxgjgh mj ctilvecbxci.
+kjm djxfpqduw wqzb h rfp-ihzstkiipzv ctilvecbxci rnotivr, c vdyqvf lxcmjkwc hpxgjgh sw fqbl
