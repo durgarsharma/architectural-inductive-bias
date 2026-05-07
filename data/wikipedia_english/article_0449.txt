@@ -1,0 +1,25 @@
+Title: Faulkner Literary Rights, LLC v. Sony Pictures Classics Inc.
+
+Faulkner Literary Rights, LLC v. Sony Pictures Classics Inc., 953 F. Supp. 2d 701 (N.D. Miss. 2013), was a United States District Court case involving copyright and trademark claims brought by the estate of American author William Faulkner. The dispute arose from Sony Pictures use of a paraphrased line from Faulkner’s 1950 novel Requiem for a Nun in the 2011 film Midnight in Paris, directed by Woody Allen. The estate alleged that quoting “The past is never dead. It’s not even past.” without permission violated the Copyright Act and the Lanham Act. The court dismissed all claims, holding that the use was both de minimis and protected under the fair use doctrine. The decision clarified that brief literary quotations in films can be lawful, especially when they are transformative and properly attributed.
+
+
+Background
+William Faulkner was a Nobel Prize-winning American author whose works explored themes of the American South, memory, and the passage of time. In 1950, Faulkner published Requiem for a Nun, a novel that included the now-famous line, “The past is never dead. It’s not even past.” The quote is spoken by the character Gavin Stevens in a discussion about guilt and responsibility.
+Over sixty years later, the 2011 film Midnight in Paris, written and directed by Woody Allen, featured a scene in which the main character, Gil Pender, uses a paraphrased version of the quote. In the film, Gil says: “The past is not dead. Actually, it’s not even past. You know who said that? Faulkner, and he was right.” The quote is spoken during a conversation with his fiancée, as part of the movie’s exploration of nostalgia and time travel.
+Another important element of this case involves the application of two U.S. copyright doctrines: Fair Use and de minimis use. The fair use doctrine allows for limited use of copyrighted material without permission, particularly for purposes such as commentary, criticism, news reporting, or parody. Courts analyze four key factors to determine fair use, including the purpose of the use, the nature of the copyrighted work, the amount and substantiality of the portion used, and the effect on the market for the original work. The de minimis doctrine refers to uses of copyrighted material that are so minor or trivial that they do not qualify as actionable infringement. Courts may consider a use de minimis if the portion copied is extremely short, insignificant in context, or unlikely to cause harm to the copyright holder.
+The Faulkner estate, through Faulkner Literary Rights, LLC, filed a lawsuit against Sony Pictures Classics Inc., alleging that the film’s unlicensed use of the quote infringed on Faulkner’s copyright and violated trademark protections under the Lanham Act. The case was filed in the U.S. District Court for the Northern District of Mississippi.
+
+
+Argument
+The plaintiffs, Faulkner Literary Rights, LLC, alleged that Sony Pictures Classics Inc. infringed on William Faulkner’s copyrighted work by using a recognizable quote from Requiem for a Nun in the film Midnight in Paris. They argued that even though the quote was short, it carried significant literary weight and its use in a commercial film required permission. In addition to the copyright claim, the estate brought a Lanham Act claim, arguing that referencing Faulkner’s name in the film could mislead viewers into thinking the author or estate endorsed the movie.
+Sony moved to dismiss the case with two defenses:
+
+Fair use: Sony argued that the use of the quote was transformative and it was used in a different context and tone, for a different purpose, and within a fictional narrative.
+De minimis use: They also claimed that the quote was so brief and insignificant in the context of the entire novel that it could not reasonably constitute infringement.
+
+
+Decision
+The case was heard in the United States District Court for the Northern District of Mississippi. The court ruled in favor of Sony Pictures Classics, granting their motion to dismiss. The judge held that the use of the Faulkner quote in Midnight in Paris qualified as fair use, emphasizing that the quote was brief, altered, and used in a fictional cinematic context. The court also noted that the use was transformative and unlikely to cause market harm to the original work. As a result, the court dismissed Faulkner Literary Rights, LLC’s complaint with prejudice.
+
+
+References

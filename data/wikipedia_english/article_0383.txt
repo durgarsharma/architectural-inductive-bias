@@ -1,0 +1,35 @@
+Title: United States v. Willow River Power Co.
+
+United States v. Willow River Power Co., 324 U.S. 499 (1945), is a 1945 decision of the U.S. Supreme Court involving the question whether the United States was liable under the Fifth Amendment for a "taking" of private property for a public purpose when it built a dam on navigable waters that raised the water level upstream to lessen the head of water at a power company’s dam, thereby decreasing the production of power by the company’s hydroelectric turbines. The Court’s opinion is notable because it considers whether the courts will provide a remedy because a property right has been invaded, or whether a property right exists because the courts will enforce it. This question has been compared with the dilemma found in Plato's dialogue Euthyphro.
+
+
+Factual background
+
+The Mississippi River, a navigable stream, is joined by the St. Croix River, another navigable stream, slightly above Red Wing, Minnesota. Farther up the St. Croix, the Willow River, a non-navigable stream, flowed into the St. Croix, but some years ago a dam was built blocking off the former mouth of the Willow. A channel was dug above that dam, connecting the Willow to the St. Croix, and the channel was also dammed. A mill was built to exploit the head of water created by the two dams. Subsequently, the Willow River Power Company acquired the land adjacent to these dams and it built a hydroelectric facility near them. The spillway or tailrace below the power’s company’s turbines exited into the St. Croix River. (See map.)
+The United States then built the Red Wing Dam on the Mississippi River. The dam raised the water level of the Mississippi above Red Wing and also that of the St. Croix. The effect was to decrease the available head of water at the hydroelectric plant by three feet, decreasing the power output from the turbines and requiring the power company to purchase electric power from other sources. The economic loss to the power company was $25,000. The power company sued the United States for a taking and was awarded $25,000. The United States appealed to the Supreme Court.
+
+
+Decision of Supreme Court
+
+
+Majority opinion
+The Supreme Court, in an opinion by Justice Jackson, reversed.  The Fifth Amendment to the U.S. Constitution requires just compensation when private property is taken for public use.  It thus "undertakes to redistribute certain economic losses inflicted by public improvements so that they will fall upon the public, rather than wholly upon those who happen to lie in the path of the project." The Fifth Amendment does not, however, "socialize all losses, but those only which result from a taking of property." Other damages that result from government conduct are absorbed by the public, if at all, only when Congress passes a law providing for compensation. In this case, no such law exists, so that unless this case represents an instance of a "taking" of "property," the power company is without redress for its $25,000 loss.
+The Court then stated the issue before it as follows:
+
+ 
+[N]ot all economic interests are "property rights;" only those economic advantages are "rights" which have the law back of them, and only when they are so recognized may courts compel others to forbear from interfering with them or to compensate for their invasion. The law long has recognized that the right of ownership in land may carry with it a legal right to enjoy some benefits from adjacent waters. But that a closed catalogue of abstract and absolute "property rights" in water hovers over a given piece of shore land good against all the world is not, in this day, a permissible assumption. We cannot start the process of decision by calling such a claim as we have here a "property right;" whether it is a property right is really the question to be answered. Such economic uses are rights only when they are legally protected interests. 
+
+After considering precedents governing rights to a head of water when the tailrace was in a navigable stream or a non-navigable stream, the Court concluded that no prior case had dealt with precisely the situation (present here) where the top of the tailrace was at a non-navigable stream and its base was at a navigable stream. Accordingly, there was no recognized legal right to have water flow away from a tailrace into a navigable stream. The Court therefore ruled:
+
+We hold that claimant's interest or advantage in the high water level of the St. Croix River as a run-off for tail waters to maintain its power head is not a right protected by law, and that the award below based exclusively on the loss in value thereof must be reversed.
+
+
+Dissent
+Justice Roberts (joined by the Chief Justice) dissented on the ground that state law recognized a property interest in having a head of water undisturbed.
+
+
+See also
+List of United States Supreme Court cases, volume 324
+
+
+References

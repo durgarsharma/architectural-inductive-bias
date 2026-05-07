@@ -1,0 +1,69 @@
+Title: Salt lake
+
+A salt lake or saline lake is a landlocked body of water that has a concentration of salts (typically sodium chloride) and other dissolved minerals significantly higher than most lakes (often defined as at least three grams of salt per liter). In some cases, salt lakes have a higher concentration of salt than sea water; such lakes can also be termed hypersaline lake, and may also be pink lakes on account of their color. An alkalic salt lake that has a high content of carbonate is sometimes termed a soda lake.
+Salt lakes are classified according to salinity levels. The formation of these lakes is influenced by processes such as evaporation and deposition. Salt lakes face serious conservation challenges due to climate change, pollution and water diversion. 
+
+
+Classification
+The primary method of classification for salt lakes involves assessing the chemical composition of the water within the lakes, specifically its salinity, pH, and the dominant ions present.
+
+
+Subsaline
+Subsaline lakes have a salinity lower than that of seawater but higher than freshwater, typically ranging from 0.5 to 3 grams per liter (g/L).
+
+
+Hyposaline
+Hyposaline lakes exhibit salinities from 3 to 20 g/L, which allows for the presence of freshwater species along with some salt-tolerant aquatic organisms. Lake Alchichica in Mexico is a hyposaline lake.
+
+
+Mesosaline
+Mesosaline lakes have a salinity level ranging from 20 to 50 g/L. An example of a mesosaline lake is Redberry Lake in Saskatchewan, Canada.
+
+
+Hypersaline
+Hypersaline lakes possess salinities greater than 35 g/L, or 50 g/L, often exceeding 200 g/L. The extreme salinity levels create harsh conditions that limit the diversity of life, primarily supporting specialized organisms such as halophilic bacteria and certain species of brine shrimp. These lakes can have high concentrations of sodium salts and minerals, such as lithium, making such lakes vulnerable to mining interests. Hypersaline lakes can be found in the McMurdo Dry Valleys in Antarctica, where salinity can reach ≈440‰. 
+
+
+Formation
+Salt lakes form through complex chemical, geological, and biological processes, influenced by environmental conditions like high evaporation rates and restricted water outflow. As water carrying dissolved minerals (sodium, potassium, and magnesium) enters these basins, it gradually evaporates, concentrating these minerals until they precipitate as salt deposits. Then, specific ions interact under controlled temperatures, which leads to solid-solution formation and salt crystal deposition within the lake bed. This cycle of evaporation and deposition is the main process to the unique saline environment that characterizes a salt lake.Environmental factors further shape the composition and formation of salt lakes. Seasonal variations in temperature and evaporation drive mineral saturation and promote salt crystallization. In dry regions, water loss during warmer seasons concentrates the lake's salts. This creates a dynamic environment where seasonal shifts affect the salt lake's mineral layers, contributing to its evolving structure and composition. Groundwater rich in dissolved ions often serve as primary mineral sources that, combined with processes like evaporation and deposition, contribute to salt lake development. 
+
+
+Biodiversity
+
+Salt lakes host a diverse range of animals, despite high levels of salinity acting as significant environmental constraints. Increased salinity worsens oxygen levels and thermal conditions, raising the water's density and viscosity, which demands greater energy for animal movement. Despite these challenges, salt lakes support biota adapted to such conditions with specialized physiological and biochemical mechanisms. Common salt lake invertebrates include various parasites, with around 85 parasite species found in saline waters, including crustaceans and monogeneans. Among them, the filter-feeding brine shrimp plays a crucial role as a keystone species by regulating phytoplankton and bacterioplankton levels. The Artemia species also serves as an intermediate host for helminth parasites that affect migratory water birds such as flamingos, grebes, gulls, shorebirds, and ducks. Vertebrates in saline lakes include certain fish and bird species, though they are sensitive to fluctuations in salinity. Many saline lakes are also alkaline, which imposes physiological challenges for fish, especially in managing nitrogenous waste excretion. Fish species vary by lake; for instance, the Salton Sea is home to species such as carp, striped mullet, humpback sucker, and rainbow trout.
+
+
+Stratification
+
+Stratification in salt lakes occurs as a result of the unique chemical and environmental processes that cause water to separate into layers based on density. In these lakes, high rates of evaporation often concentrate salts, leading to denser, saltier water sinking to the lake's bottom, while fresher water remains nearer the surface. These seasonal changes influence the lake's structure, making stratification more pronounced during warmer months due to increasing evaporation, which drives separation between saline and fresher layers in the lake, leading a phenomenon known as meromixis (meromictic state), primarily prevents oxygen from penetrating the deeper layers and create the hypoxic (low oxygen) or anoxic (no oxygen) zones. This separation eventually influenced the lake's chemistry, supporting only specialized microbial life adapted to extreme environments with high salinity and low oxygen levels. The restricted vertical mixing limits nutrient cycling, creating a favorable ecosystem for halophiles (salt-loving organisms) that rely on these saline conditions for stability and balance.
+The extreme conditions within stratified salt lakes have a profound effect on aquatic life, as oxygen levels are severely limited due to the lack of vertical mixing. Extremophiles, including specific bacteria and archaea, inhabit the hypersaline and oxygen-deficient zones at lower depths. Bacteria and archaea, for example, rely on alternative metabolic processes that do not depend on oxygen. These microorganisms play a critical role in nutrient cycling within salt lakes, as they break down organic material and release by-products that support other microbial communities. Due to limited biodiversity, the restrictive environment limits biodiversity, allowing only specially adapted life forms to survive, which creates unique, highly specialized ecosystems that are distinct from freshwater or less saline habitats.
+
+
+Conservation
+Salt lakes have declined worldwide in recent years. The Aral Sea, once of the largest saline lakes with a surface area of 67,499 km in 1960, diminished to approximately 6,990 km in 2016. This trend is not limited to the Aral Sea; salt lakes around the world are shrinking due to excessive water diversion, dam construction, pollution, urbanization, and rising temperatures associated with climate change. The resulting declines cause severe disruptions to local ecosystems and biodiversity, degrades the environment, threatens economic stability, and displaces communities dependent on these lakes for resources and livelihood.
+In Utah, if the Great Salt Lake is not conserved, the state could face potential economic and public health crises, with consequences for air quality, local agriculture, and wildlife. According to "Utah's Great Salt Lake Strike Team", in order to increase the lake's level within the next 30 years, average inflows must increase by 472,00 acre-feet per year. This is approximately 33% more than the amount that has been reaching the lake in recent years.
+Water conservation is viewed as being the most cost-effective and practical strategy to save salt lakes like the Great Salt Lake. Implementing strong water management policies, improving community awareness, and ensuring the return of water flow to these lakes are additional ways that may restore ecological balance. Other proposed methods of maintaining lake levels include cloud seeding and the mitigation of dust transmission hotspots.
+
+
+List
+
+Note: Some of the following are also partly fresh and/or brackish water.
+
+
+Gallery
+
+
+See also
+
+Brine pool – Accumulation of brine in a seafloor depression
+Halocline – Stratification of a body of water due to salinity differences
+Halophile – organism that thrives in high salt concentrations
+Hypersaline lake – Landlocked body of water that contains concentrations of salts greater than the sea
+List of endorheic basins
+
+
+References
+
+
+External links
+ Media related to Salt lakes at Wikimedia Commons

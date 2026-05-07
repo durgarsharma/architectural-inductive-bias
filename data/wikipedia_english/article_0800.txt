@@ -1,0 +1,33 @@
+Title: ICE Cubes Service
+
+The International Commercial Experiment Cubes (ICE Cubes) service is a commercial service that offers access to space for research, technology and education.
+It allows public or private entities to run their experiments on board the International Space Station for access to microgravity. Examples of potential fields of research include pharmaceutical development, microbiology, stem cells, radiation, materials science, 3D printing, fluid sciences, and art. The service also allows to demonstrate and validate technologies in microgravity.
+
+
+Overview
+The ICE Cubes Service stems from a commercial agreement between Space Applications Services and the European Space Agency (ESA). The ICE Cubes Facility (ICF) is the first European commercial research facility in the ISS. It was installed in June 2018 and it houses modular experiments on different disciplines. Researchers have continuous live remote access to their payloads via Internet to directly read data and send commands.
+
+
+History
+From June 2015 to January 2018, the ICE Cubes Facility (ICF) was developed, manufactured, assembled and tested by Space Applications Services in Belgium, partially under a European Union Horizon 2020 grant. On 21 May 2018, the ICF was launched with a Cygnus Spacecraft (CRS OA-9E mission). On 6 June 2018, NASA astronaut Ricky Arnold installed the facility into the EPM rack inside the European Columbus module. The first experiments (so-called "Experiment Cubes") were launched on the SpaceX Dragon supply vessel and then installed inside the ICF by ESA astronaut Alexander Gerst. They included science, technology and art projects provided by the International Space University (ISU) and international collaborators.
+In parallel, a partnership agreement for the launch and exploitation in orbit of the ICF was signed with ESA on 20 June 2017, and the first European Commercial Access Service to the ISS officially opened its doors for business.
+
+One of the ISU Experiment Cubes, Hydra-2, was a research experiment on methane-producing microorganisms to investigate their activity  in microgravity conditions. Researchers hope these microorganisms could be used for biomining of asteroids to produce methane to fuel future space missions. Hydra-2 returned to Earth in January 2019.
+The second International Space University cube was an interactive art installation. The artistic cube contained a kaleidoscope linked to an installation on the ground that is activated by the heart pulse of participants. The images produced by the device are then sent down to the ground installation on Earth and displayed in real-time. The other experiment is RUSH, a technology demonstration payload for radiation tolerant electronics. Hydra-3 is still hosted inside the ICF.
+
+Successive experiments studied some aspects of plant germination, demonstration of spectroscopic diagnostics and recovery of cybersecurity functions on commercial electronics in space.
+In March 2019, ICE Cubes became an implementation partner at the Center for the Advancement of Science in Space (CASIS), a non-profit organization that manages the ISS United States National Laboratory.
+In October 2019, UK Science Minister Chris Skidmore announced the launch by the UK Space Agency of a contest to identity and match-fund business ideas taking advantage of space. ICE Cubes was chosen as one of the hosts for the launch of the selected projects.
+In December 2020, Cube#6 - Kirara was launched on SpaceX CRS-21 and installed in the ICF. Kirara is the first experiment for COVID-19 drug discovery research on the International Space Station. It tests a COVID-19 medicine in microgravity in order to better understand how remdesivir interacts with its delivery substance cyclodextrin so that the drug's efficiency can be improved.
+
+
+The ICF and the Experiment Cubes
+The ICE Cubes Facility is mostly composed of the ICE Cubes Container, which is permanently housed into the EPM rack, and of the ICE Cubes Framework, which hosts the Experiment Cubes. The Framework can slide in and out of the Container, and the Experiment Cubes are simply plugged onto the Framework, which minimizes the crew time for installation/removal. The ICF provides the Experiment Cubes with two power lines, real-time and differed communications (via internet), and temperature regulation (forced air flow).
+The Experiment Cubes can be built with commercial off-the-shelf products and be integrated together to permit larger experiments. The ICF can accommodate up to twenty "plug-and-play" 1U (10x10x10 cm) Experiment Cubes or a smaller number of larger ones within the ICF Containers, plus some additional Experiment Cubes inside the Columbus cabin, either wired or via Wi-Fi.
+
+
+References
+
+
+External links
+ICE Cubes website

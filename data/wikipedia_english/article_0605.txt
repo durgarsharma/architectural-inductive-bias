@@ -1,0 +1,166 @@
+Title: Micarea
+
+Micarea is a genus of lichen-forming fungi in the family Pilocarpaceae. The widely distributed genus contains 142 species and new species are described actively. Species in the genus are crustose lichens and their photobiont (the non-fungal organism) is a single-celled green alga.
+
+
+Taxonomy
+Micarea was circumscribed by Elias Magnus Fries in his 1825 work Systema Orbis Vegetabilis. There have been some taxonomic disputes about the genus. Nowadays, the genus is accepted, although it is paraphyletic and in need of further research. Micarea prasina is the type species of the genus.
+
+
+Reproduction
+Lichenized fungi have developed diverse reproduction strategies. The microlichen genus Micarea is used as a model for studying the effects of reproductive traits and environmental factors on speciation because it shows intricate variation in substrate requirements and reproduction modes. Certain Micarea species are generalists and able to grow on various substrates, while some are specialized and live in strict microhabitats. Some of the Micarea species are predominately sexual, while some frequently lack sexual structures but bear numerous pycnidia where asexual conidia are produced. The actual roles of the three types of conidia present are not thoroughly understood, but mesoconidia are likely asexual propagules based on, for example, the observation that many of the species are frequently found with only mesopycnidia and no apothecia. Recent phylogenetic analyses together with ancestral state reconstruction among Micarea species showed that the shift in reproduction mode has evolved independently several times within the group and that facultative and obligate lignicoles are sister species. This supports the assumption that the ancestor of these species was a facultative lignicole. It is presumed that a shift in substrate requirement from bark to wood leads to differentiation in reproduction mode and becomes a driver of speciation in Micarea microlichens. The case of Micarea is the first observation that among lichenized fungi reproduction mode is connected to substrate requirement. It is also the first example where such an association is demonstrated to lead to lichen speciation. The main hypothesis behind this phenomenon is that obligate species on dead wood need to colonise new suitable substrata relatively fast and asexual reproduction is a more effective strategy for successful colonisation.
+
+
+Species
+As of September 2025, Species Fungorum accepts 142 species of Micarea.
+
+Micarea adnata Coppins (1983)
+Micarea aeruginoprasina van den Boom, Guzow-Krzemińska, A.M.Brand & Sérusiaux (2019)
+Micarea alabastrites (Nyl.) Coppins (1982)
+Micarea alectorialica M.Brand, van den Boom & Sérus. (2014)
+Micarea amplissima van den Boom & Etayo (2023)
+Micarea argopsinosa P.M.McCarthy & Elix (2016)
+Micarea assimilata (Nyl.) Coppins (1983)
+Micarea austroternaria Coppins & Kantvilas (1990) – Australia
+Micarea azorica van den Boom, Guzow-Krzemińska, A.M.Brand & Sérusiaux (2019)
+Micarea bacidiella (Vain.) Vězda (1976)
+Micarea bebourensis M.Brand, van den Boom & Sérus. (2014)
+Micarea borbonica M.Brand, van den Boom & Sérus. (2014)
+Micarea boryana M.Brand, van den Boom & Sérus. (2014)
+Micarea botryoides (Nyl.) Coppins (1980)
+Micarea byssacea (Th.Fr.) Czarnota, Guzow-Krzem. & Coppins (2010)
+Micarea canariensis van den Boom (2013)
+Micarea capitata M.Svenss. & G.Thor (2011)
+Micarea ceracea Coppins & Kantvilas (2019) – Australasia
+Micarea ceylanica Coppins (2021) – Sri Lanka
+Micarea cilaosensis M.Brand, van den Boom & Sérus. (2014)
+Micarea cinerea (Schaer.) Hedl. (1892)
+Micarea cinereopallida Coppins & Kantvilas (2019) – Australasia; South America
+Micarea contexta Hedl. (1892)
+Micarea coppinsii Tønsberg (1992)
+Micarea corallothallina M.Cáceres, D.A.Mota & Aptroot (2013)
+Micarea crassa P.M.McCarthy & Elix (2020)
+Micarea curvata Coppins (1983)
+Micarea czarnotae Launis, van den Boom, Sérus. & Myllys (2019)
+Micarea deminuta Coppins (1995)
+Micarea denigrata (Fr.) Hedl. (1892)
+Micarea doliiformis (Coppins & P.James) Coppins & Sérus. (2010)
+Micarea elachista (Körb.) Coppins & R.Sant. (1983)
+Micarea epiphylla van den Boom (2021)
+Micarea eucalypti P.M.McCarthy & Elix (2016)
+Micarea eximia Hedl. (1892)
+Micarea fallax Launis & Myllys (2019)
+Micarea farinosa Coppins & Aptroot (2008)
+Micarea fennica Launis & Myllys (2019)
+Micarea flagellispora Coppins & Kantvilas (1990) – Australasia
+Micarea flavoleprosa Launis, Malíček & Sérus. (2019)
+Micarea globulosella (Nyl.) Coppins (1983)
+Micarea granuloblastidiata van den Boom (2017) – Panama
+Micarea hedlundii Coppins (1983)
+Micarea herbarum M.Brand, Coppins, Sérus. & van den Boom (2017) – Europe
+Micarea humilis P.M.McCarthy & Elix (2018) – Australia
+Micarea hyalinoxanthonica M.Brand, van den Boom & Sérus. (2014)
+Micarea hylocomii Poelt & Döbbeler (1975)
+Micarea hypoviolascens Czarnota & Coppins (2005)
+Micarea incrassata Hedl. (1892)
+Micarea inopinula (Nyl.) Coppins & T.Sprib. (2021)
+Micarea inquinans Tul.) Coppins (1992)
+Micarea intersociella (Stirt.) Coppins (1994)
+Micarea isabellina Coppins & Kantvilas (1990) – Australia
+Micarea isidioprasina van den Boom, Guzow-Krzemińska, Sérusiaux, M.Kukwa (2019)
+Micarea isidiosa M.Brand, van den Boom & Sérus. (2014)
+Micarea kartana Kantvilas & Coppins (2018) – Australia
+Micarea kemmleri Brackel (2016)
+Micarea laeta Launis & Myllys (2019)
+Micarea lapillicola (Vain.) Coppins & Muhr (1997)
+Micarea leprosula (Th.Fr.) Coppins & A.Fletcher (1975)
+Micarea levicula (Nyl.) Coppins (2001)
+Micarea lignaria (Ach.) Hedl. (1892)
+Micarea lithinella (Nyl.) Hedl. (1892)
+Micarea longispora Coppins (2021)
+Micarea magellanica (Müll.Arg.) Fryday (2004)
+Micarea marginata Coppins & Muhr (1988)
+Micarea melaena (Nyl.) Hedl. (1892)
+Micarea melaenida (Nyl.) Coppins (1983)
+Micarea melanobola (Nyl.) Coppins (1983)
+Micarea melanoprasina M.Brand, van den Boom & Sérus. (2014)
+Micarea meridionalis van den Boom, M.Brand, Coppins & Sérus. (2017) – Europe
+Micarea microareolata Launis, Pykälä & Myllys (2019)
+Micarea micrococca (Körb.) Gams ex Coppins (2002)
+Micarea micromelaena Kantvilas & Coppins (2019) – Australasia
+Micarea microsorediata van den Boom, Guzow-Krzemińska, Sérusiaux, M.Kukwa (2019)
+Micarea minuta van den Boom, Guzow-Krzem. & Kukwa (2020) – western Europe
+Micarea misella (Nyl.) Hedl. (1892)
+Micarea mutabilis Coppins & Kantvilas (1990) – Australia
+Micarea myriocarpa V.Wirth & Vězda ex Coppins (1983)
+Micarea neostipitata Coppins & P.F.May (2001) – eastern North America
+Micarea nigella Coppins (1983)
+Micarea nigrata (Müll.Arg.) Kalb (1981)
+Micarea nitschkeana (J.Lahm ex Rabenh.) Harm. (1899)
+Micarea novae-zelandiae Zhurb. (2023) – Australasia
+Micarea nowakii Czarnota & Coppins (2007)
+Micarea olivacea Coppins (1983)
+Micarea oreina Kantvilas & Coppins (2019) – Australasia
+Micarea pallida Coppins & Kantvilas (2019) – Australasia
+Micarea pannarica Fryday (2004)
+Micarea parasitica van den Boom & Etayo (2023)
+Micarea paratropa (Nyl.) Alstrup (1994)
+Micarea parva Coppins (1995)
+Micarea pauli Guzow-Krzemińska, A.Łubek & M.Kukwa (2019)
+Micarea peliocarpa (Anzi) Coppins & R.Sant. (1979)
+Micarea poliocheila (Vain.) Aptroot (2002)
+Micarea polycarpella (Erichsen) Coppins & Palice (1995)
+Micarea prasina Fr. (1825)
+Micarea prasinastra Coppins & Kantvilas (2019) – Australasia
+Micarea prasinella (Jatta) I.M.Lamb (1954)
+Micarea pseudocoppinsii M.Brand, van den Boom & Sérus. (2014)
+Micarea pseudolignaria M.Brand, van den Boom & Sérus. (2014)
+Micarea pseudomarginata Coppins (1989)
+Micarea pseudomicrococca Launis & Myllys (2019)
+Micarea pseudotsugae van den Boom, Guzow-Krzem. & Kukwa (2020) – western Europe
+Micarea pumila Kantelinen & Myllys (2021) – Kenya
+Micarea pusilla Launis, Malíček & Myllys (2019)
+Micarea pycnidiophora Coppins & P.James (1979)
+Micarea queenslandica P.M.McCarthy & Elix (2020)
+Micarea rubiformis P.M.McCarthy & Elix (2020)
+Micarea rubiginosa Coppins & Kantvilas (2019) – Australasia; South America
+Micarea rubioides Coppins (2021)
+Micarea sambuci van den Boom, M.Brand, Coppins & Sérus. (2019)
+Micarea sandyana Kantvilas (2019) – Australasia
+Micarea saxicola Coppins & Kantvilas (2019) – Australasia
+Micarea senecionis van den Boom (2010)
+Micarea sipmanii Sérus. & Coppins (2009)
+Micarea soralifera Guzow-Krzem., Czarnota, Łubek & Kukwa (2016)
+Micarea squamulosa Aptroot, Lücking & M.Cáceres (2019)
+Micarea stellaris Kantelinen & Myllys (2021) – Kenya
+Micarea stereocaulorum van den Boom & Etayo (2017)
+Micarea stipitata Coppins & P.James (1979)
+Micarea subalpina Coppins & T.Sprib. (2004)
+Micarea subcinerea M.Brand & van den Boom (2004)
+Micarea subconfusa (Nyl.) Alstrup (1994)
+Micarea subgranulans (Vain.) Aptroot (2002) – Brazil
+Micarea sublithinella M.Brand, van den Boom & Sérus. (2014)
+Micarea submilliaria (Nyl.) Coppins (1994)
+Micarea subnigrata (Nyl.) Coppins & H.Kilias (1981)
+Micarea subternaria (Vain.) Aptroot (2002)
+Micarea subviridescens (Nyl.) Hedl. (1892)
+Micarea svetlanae L.Konoreva & S.Chesnokov (2025)
+Micarea synotheoides (Nyl.) Coppins (1982)
+Micarea taitensis Kantelinen & Myllys (2021) – Kenya
+Micarea takamakae M.Brand, van den Boom & Sérus. (2014)
+Micarea tenuispora M.Brand, van den Boom & Sérus. (2014)
+Micarea termitophila Aptroot & M.Cáceres (2014) – Brazil
+Micarea ternaria (Nyl.) Vězda (1970)
+Micarea tomentosa Czarnota & Coppins (2007)
+Micarea tubaeformis Coppins & Kantvilas (2019) – Australasia
+Micarea turfosa (A.Massal.) Du Rietz (1923)
+Micarea usneae van den Boom & Ertz (2014) – Madeira
+Micarea versicolor Kantelinen, Hyvärinen & Myllys (2021) – Kenya
+Micarea viridiatra Coppins (1985) – Europe
+Micarea viridicapitata Córd.-Cháv., Aptroot & R.-E.Pérez (2014) – Mexico
+Micarea viridileprosa Coppins & van den Boom (2001) – western Europe
+Micarea vulpinaris (Nyl.) Muhr (1987)
+Micarea xanthonica Coppins & Tønsberg (2001) – Europe; North America
+
+
+References

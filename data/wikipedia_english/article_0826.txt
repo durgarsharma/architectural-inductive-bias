@@ -1,0 +1,58 @@
+Title: C++ string handling
+
+The C++ programming language has support for string handling, mostly implemented in its standard library. The language standard specifies several string types, some inherited from C, some designed to make use of the language's features, such as classes and RAII. The most-used of these is std::string, while std::string_view is used for non-owning string views.
+Since the initial versions of C++ had only the "low-level" C string handling functionality and conventions, multiple incompatible designs for string handling classes have been designed over the years and are still used instead of std::string, and C++ programmers may need to handle multiple conventions in a single application.
+
+
+History
+The std::string type is the main string datatype in standard C++ since 1998, but it was not always part of C++. From C, C++ inherited the convention of using null-terminated strings that are handled by a pointer to their first element, and a library of functions that manipulate such strings. In modern standard C++, a string literal such as "hello" still denotes a NUL-terminated array of characters.
+Using C++ classes to implement a string type offers several benefits of automated memory management and a reduced risk of out-of-bounds accesses, and more intuitive syntax for string comparison and concatenation. Therefore, it was strongly tempting to create such a class. Over the years, C++ application, library and framework developers produced their own, incompatible string representations, such as the one in AT&T's Standard Components library (the first such implementation, 1983) or the CString type in Microsoft's MFC or the QString in Qt. 
+The various vendors' string types have different implementation strategies and performance characteristics, which made conversion of code and even assignment from one to another difficult:
+
+Some used a copy-on-write strategy with major performance implications (making some operations much faster and some much slower).
+Though most agreed on syntax for comparison, assignment, and concatenation; the syntax to extract substrings or perform searches varied widely.
+Not everything was Unicode, leading to widespread variations in how or if encoding was stored and when translation was done, and sometimes very expensive assignment operators. It was also believed code units larger than bytes were necessary to support Unicode, leading to string types that could not interoperate in any efficient manner.
+While std::string standardized strings, legacy applications still commonly contain such custom string types and libraries may expect C-style strings, making it "virtually impossible" to avoid using multiple string types in C++ programs and requiring programmers to decide on the desired string representation ahead of starting a project. In a 1991 retrospective on the history of C++, its inventor Bjarne Stroustrup called the lack of a standard string type (and some other standard types) in C++ 1.0 the worst mistake he made in its development; "the absence of those led to everybody re-inventing the wheel and to an unnecessary diversity in the most fundamental classes".
+
+
+Description
+The std::string class is the standard representation for a text string since C++98. The class provides some typical string operations like comparison, concatenation, find and replace, and a function for obtaining substrings. A std::string can be constructed from a C-style string, and a C-style string can also be obtained from one. The individual units making up the string are of type char. In modern usage these are often not "characters", but parts of a multibyte character encoding such as UTF-8.
+
+
+Copy on Write
+A copy-on-write implementation means
+
+does not actually copy the content of a to b; instead, both strings share their contents and a reference count on the content is incremented. The actual copying is postponed until a mutating operation, such as appending a character to either string, makes the strings' contents differ.
+The copy-on-write strategy was deliberately allowed by the initial C++ Standard for std::string because it was deemed a useful optimization, and used by nearly all implementations. However, there were mistakes, in particular the operator[] returned a non-const reference in order to make it easy to port C code such as buffer[5] = 'a', and had to trigger a copy. Multi-threading caused even the optimization of not copying if the reference count was one to fail. It was also discovered that the overhead in multi-threaded applications due to the locking needed to examine or change the reference count was greater than the overhead of copying small strings on modern processors.
+This caused implementations, first MSVC and later GCC, to move away from copy-on-write. The optimization was finally disallowed in C++11.
+
+
+String views
+Unlike in other languages, such as Java java.lang.String, C# System.String, or Rust std::string::String, C++ strings are always mutable, as quoted null-terminated string constants served most of the purpose of a non-mutable class. C++ requires that the following code make a copy of the string, this is quite slow compared to passing a pointer, even if copy on write reference counts are used.
+
+Though the compiler could optimize this away for inline functions, few relied on this and almost always strings are passed as a const reference: Conversion from a string constant also required constructing a temporary std::string and was slow, usually leading to overloaded functions:
+
+The C++17 standard adds the std::string_view class that is only a pointer and length to read-only data, and is a drop-in replacement for an immutable temporary std::string and makes pass-by-value arguments faster than either of the above examples:
+
+All functions in a library that take a string argument must be rewritten to take advantage of this in C++17, as conversion from std::string_view to std::string is still expensive.
+
+
+Other code units
+std::string is a typedef for a particular instantiation of the std::basic_string template class. Its definition is found in the <string> header:
+
+Thus string provides basic_string functionality for strings having elements of type char. There is a similar class std::wstring, which consists of wchar_t, and is most often used to store UTF-16 text on Windows and UTF-32 on most Unix-like platforms. The C++ standard, however, does not impose any interpretation as Unicode code points or code units on these types and does not even guarantee that a wchar_t holds more bits than a char. To resolve some of the incompatibilities resulting from wchar_t's properties, C++11 added two new classes: std::u16string and std::u32string (made up of the new types char16_t and char32_t), which are the given number of bits per code unit on all platforms.
+C++11 also added new string literals of 16-bit and 32-bit "characters" and syntax for putting Unicode code points into null-terminated (C-style) strings.
+A basic_string is guaranteed to be specializable for any type with a char_traits struct to accompany it. As of C++11, only char, wchar_t, char16_t and char32_t specializations are required to be implemented.
+A basic_string is also a Standard Library container, and thus the Standard Library algorithms can be applied to the code units in strings.
+
+
+Critiques
+The design of std::string has been held up as an example of monolithic design by Herb Sutter, who reckons that of the 103 member functions on the class in C++98, 71 could have been decoupled without loss of implementation efficiency.
+
+
+See also
+C string handling
+String functions
+
+
+References

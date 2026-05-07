@@ -1,0 +1,19 @@
+Title: Tomarus
+
+Tomarus is a genus of scarab beetles in the subfamily Dynastinae, the rhinoceros beetles. They are native to the Americas, where they are distributed from the central United States to Argentina, and a few species occur in the Caribbean.
+The adult beetles are nocturnal and attracted to lights; the larvae generally remain in the soil, often feeding on plant roots.
+In order to identify species, the parameres of the male must be pulled out of the abdomen and examined. This process should be done carefully, because the parameres are quite fragile, "almost parchment-like".
+
+
+Species
+The following species belong to the genus Tomarus:
+
+Data sources: i = ITIS, c = Catalogue of Life, g = GBIF, b = Bugguide.net
+
+Note - now placed in the restored genus Ligyrus
+
+Tomarus gibbosus (LeConte, 1856), the carrot beetle
+Tomarus relictus (Say, 1825)
+
+
+References

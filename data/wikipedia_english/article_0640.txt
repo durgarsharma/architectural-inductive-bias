@@ -1,0 +1,21 @@
+Title: Streptomyces drozdowiczii
+
+Streptomyces drozdowiczii is a cellulolytic bacterium species from the genus of Streptomyces which has been isolated from soil from the Mata Atlântica forest in Brazil.
+
+
+See also
+List of Streptomyces species
+
+
+References
+
+
+Further reading
+Semêdo, LT; Gomes, RC; Linhares, AA; Duarte, GF; Nascimento, RP; Rosado, AS; Margis-Pinheiro, M; Margis, R; Silva, KR; Alviano, CS; Manfio, GP; Soares, RM; Linhares, LF; Coelho, RR (July 2004). "Streptomyces drozdowiczii sp. nov., a novel cellulolytic streptomycete from soil in Brazil". International Journal of Systematic and Evolutionary Microbiology. 54 (Pt 4): 1323–8. doi:10.1099/ijs.0.02844-0. PMID 15280309.
+Grigorevski de Lima, Andre Luiz; Pires do Nascimento, Rodrigo; da Silva Bon, Elba Pinto; Coelho, Rosalie Reed Rodrigues (July 2005). "Streptomyces drozdowiczii cellulase production using agro-industrial by-products and its potential use in the detergent and textile industries". Enzyme and Microbial Technology. 37 (2): 272–277. doi:10.1016/j.enzmictec.2005.03.016.
+ed.-in-chief, George M. Garrity (2012). Bergey's manual of systematic bacteriology (2nd ed.). New York: Springer Science + Business Media. ISBN 978-0-387-68233-4. {{cite book}}: |last1= has generic name (help)
+editors, Patricia Vit, Silvia R. M. Pedro, David Roubik (2013). Pot-Honey a legacy of stingless bees. New York, NY: Springer. ISBN 978-1-4614-4960-7. {{cite book}}: |last1= has generic name (help)CS1 maint: multiple names: authors list (link)
+
+
+External links
+Type strain of Streptomyces drozdowiczii at BacDive -  the Bacterial Diversity Metadatabase

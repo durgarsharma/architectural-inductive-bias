@@ -1,0 +1,111 @@
+Title: Xiaomi SU7
+
+The Xiaomi SU7 (Chinese: 小米SU7; pinyin: Xiǎomǐ SU7, pronounced [sûtɕʰí] soo-tchee in Chinese) is a full-size four-door fastback EV, made by Chinese company Xiaomi Auto, a subsidiary of the Chinese consumer electronics company Xiaomi. It is the first motor vehicle developed by Xiaomi, manufactured at their plant in Beijing. It was announced in December 2023 and officially released on 28 March 2024 in Beijing, the day Xiaomi began taking orders.
+According to Xiaomi, 'SU' stands for 'Speed Ultra'. 'SU' may also be a reference to the Chinese word 速 (pinyin: sù), just meaning 'speed'. Lei Jun in an online Q&A session where the company founder answered a hundred fan questions, stated: "after internal discussion, we decided the pronunciation should be 苏7 (pronounced IPAc-cmn: su55tɕhi55, or Suchee), it sounds like calling a friend, has a friendly ring to it". He explained that, "domestically, 7 is a common vehicle series positioning number. The size of the model is roughly the same as the BMW 5 Series". The SU7 is available in four versions in total: the SU7, SU7 Pro, SU7 Max and SU7 Ultra.
+
+
+History
+Xiaomi announced its intent to enter the electric vehicle market in March 2021. Xiaomi founder, chairman and CEO Lei Jun claimed the company would invest 10 billion yuan (US$1.4 billion) into the project. Xiaomi Automobile was established in 2021, based in the Beijing Economic and Technological Development Zone. The company received a permit to produce vehicles from China's National Development and Reform Commission in August 2023.
+Production of the SU7 started in December 2023. It was introduced on 28 December 2023, with the first display models arriving in stores the next day, and many Xiaomi stores needing to be renovated to accommodate the vehicle. The launch press conference was held in Beijing on 28 March 2024 and Nio chairman William Li, Xpeng chairman He Xiaopeng, Li Auto chairman Li Xiang, Great Wall Motor chairman Wei Jianjun and BAIC Group chairman Zhang Jianyong attended. The retail price was announced on same day; the standard version costs 215,900 yuan (US$30,408), while Pro and Max versions cost 245,900 yuan (US$34,633) and 299,900 yuan (US$42,239), respectively.
+
+
+Design
+The SU7 was developed under codename MS11. The design team was led by chief designer Sawyer Li, who was poached from BMW. According to Lei Jun, he rejected three design proposals due to durability concerns. Xiaomi benchmarked the car against the Porsche Taycan and Tesla Model S.
+The sedan is equipped with air suspension with adaptive dampers, an active shutter grille, and an active rear wing with four adjustment levels on higher end models. The company claims the drag coefficient of the SU7, without the rooftop LiDAR module, is the world's lowest at 0.195. It also has a 105-litre (3.7 cu ft) frunk in addition to its 571-litre (20.2 cu ft) trunk.
+The dashboard contains a 7.1-inch digital instrument cluster display, which rotates into a closed position when the car is turned off, displaying a panel with the SU7's silhouette. It also contains a 56-inch augmented-reality heads-up display reflecting off of the windshield, which is capable of displaying navigation guidance. The dashboard also has mounting points for accessories such as dashcams and phone holders. The center console has two wireless charging pads and a control panel with a start/stop button and four rocker switches for HVAC temperature and fan speed, rear spoiler controls, and suspension height adjustment. The doors feature a slot for storing a smartphone upright, and the glovebox is designed to accommodate a 14-inch laptop. The rear seats each have access to a seatback mounting point and charging port for tablets, with Apple iPads also being compatible. There is an optional 4.7-litre (0.17 cu ft) refrigerator located in the back of the center console.
+The SU7 is equipped with a 16.1-inch touchscreen infotainment center with 3K resolution. The infotainment system is powered by a Qualcomm Snapdragon 8295 system-on-chip and runs Xiaomi HyperOS (小米澎湃OS) operating system based on Android, also used in devices such as smartphones, smart wearables, and smarthome devices. It allows for direct mirroring of a Xiaomi smartphones and tablets, connectivity with Xiaomi wearables like the Mi Band, and integration for Xiaomi Smarthome ecosystem devices such as the Mi Robot vacuum cleaner. Non-Xiaomi devices will also be compatible but with limited functionality, such as Apple devices with CarPlay. The display also has screw mounting points for optional accessories, including a row of physical switches for HVAC controls and a volume dial with media controls, and a set of auxiliary dial displays, both of which are configurable in the infotainment system.
+
+
+Software
+A vehicle observed in October 2025 was running the following software:
+
+The system runs Android 12 (released October 2021) with security patches from July 2022. The kernel is based on Linux 5.4 (released November 2019) with stable patches through October 2022.
+It has a driver-assistance system, branded as Xiaomi Pilot, with 16 functions as standard. It uses a vision-based sensor array, and uses a single Nvidia Drive Orin X SoC with 254TOPS of computing power. Higher end models have an autonomous driving system called Xiaomi HAD, which was initially capable of supervised autonomous driving (NOA) on highways, hands-free parking, and car summoning features. Later OTA updates allowed for the use of the NOA feature in urban conditions. It uses two Nvidia Drive Orin X SoCs with a total of 508 TOPS of computing power, and a sensor suite consisting of one Hesai AT128 LiDAR, 3 mmWave radars, 11 cameras, and 12 ultrasonic sensors.
+The SU7 uses many international suppliers for its parts, including Bosch, Brembo, Continental, ThyssenKrupp, ZF Friedrichshafen, Benteler, Schaeffler Group and Nexteer Automotive.
+
+
+Specifications
+
+
+SU7 Standard & Pro
+The base, rear-wheel drive SU7 uses a FinDreams-supplied 73.6 kWh LFP blade battery operating at 400 V. It has a single HyperEngine V6 permanent magnet synchronous motor with a power rating of 220 kW (299 PS; 295 hp) and 400 N⋅m (295 lb⋅ft) of torque. It has a kerb weight of 1,980 kg (4,365 lb) and has a range rating of 700 kilometres (435 mi) on the CLTC test cycle. According to Xiaomi, the base SU7 is able to accelerate from 0–100 km/h (0–62 mph) in 5.28 seconds, and speed is limited to 210 km/h (130 mph).
+The Pro model has the same powertrain, but the battery is upgraded to a 94.3 kWh LFP pack supplied by CATL, and also runs on a 400 V electrical architecture. Range increases to 830 kilometres (516 mi) on the CLTC and top speed is maintained, but the 0–100 km/h (0–62 mph) acceleration time is increased to 5.7 seconds due to a 110-kilogram (243 lb) increase to kerb weight.
+At the launch in December 2023, Xiaomi said it plans to reveal versions of the Pro with 132 kWh and 150 kWh batteries later in 2025.
+
+
+SU7 Max
+The all-wheel drive SU7 Max powertrain consists of a front induction motor outputting 220 kW (299 PS; 295 hp) and 338 N⋅m (249 lb⋅ft) and a HyperEngine V6s permanent magnet synchronous motor generating 275 kW (374 PS; 369 hp) and 500 N⋅m (369 lb⋅ft) of torque in the rear, for a total of 495 kW (673 PS; 664 hp) and 838 N⋅m (618 lb⋅ft). It uses a 101 kWh NMC Qilin battery produced by CATL, which runs at 800 V and is assembled in a cell-to-pack format. The SU7 Max goes from 0–100 km/h (0–62 mph) in 2.78 seconds, has a kerb weight of 2,205 kg (4,861 lb), and a top speed of 265 km/h (165 mph).
+
+
+SU7 Ultra
+On 29 October 2024, Xiaomi unveiled the high-performance variant, the SU7 Ultra, initially priced at 814,900 yuan (114,000 USD). It was officially launched on 27 February 2025 priced significantly lower at 529,900 yuan (73,000 USD), While the Racing Package and Nürburgring Limited Edition of SU7 Ultra will be officially released after completing the official lap record on Nürburgring Nordschleife. Xiaomi aims to sell 10,000 units of the SU7 Ultra in 2025, with deliveries starting on 3 March 2025.
+Xiaomi positions the SU7 Ultra as a road-legal four-door race car. The body receives significant aerodynamic changes, including 17 carbon fibre components. The front features a large front splitter with large vertical endplates, the 1.7 m2 (18 sq ft) roof is fully carbon fibre saving 12 kg (26 lb) of weight, and the rear features a 1,560-millimetre (61 in) wide wing with a 240 mm (9.4 in) chord, a modified rear bumper with vents and an active diffuser, allowing for a claimed 285 kilograms (628 lb) of downforce. Other exterior changes include a 24-carat gold Xiaomi emblem at the front end and an optional painted stripe.
+The interior receives a modified design and comes in three color options, with Alcantara and carbon fibre surfaces, a square-shaped sports steering wheel, and racing-style seats with additional bolstering. Carbon fibre surfaces are used on the front seatbacks, steering wheel, and doorsills, totaling 3.74 m2 (40.3 sq ft), which Xiaomi says saves 12 kilograms (26 lb) of weight. The SU7 Ultra has 5 m2 (54 sq ft) of Alcantara throughout its interior, including on the steering wheel, seats, doors, and dashboard. Xiaomi says that Alcantara was chosen to reduce light reflections and save up to 50% weight compared to conventional leather. The front seats have a 10-point massaging function, all the side windows are double-glazed, and it is equipped with a 25-speaker audio system including speakers placed inside the driver's seat headrest. The infotainment system's software has a unique skin, and there are three artificial vehicle sound options.
+The Ultra's chassis is based on the standard SU7 and 90.1% of its composition consists of varieties of high-strength steel and aluminium. It also features an FIA-grade roll cage integrated into the chassis. It has 21-inch wheels with Pirelli P Zero 5 tires. It has dual-chamber air suspension, which can independently adjust ride height and spring rate. It is equipped with a carbon ceramic brake system, with 430 mm × 40 mm (16.9 in × 1.6 in) disks and six-piston Akebono calipers in the front, and 410 mm × 32 mm (16.1 in × 1.3 in) disks and four piston calipers in the rear. It has a 100–0 km/h (62–0 mph) stopping distance of 30.8 m (101 ft), and Xiaomi says it can stop from 180 km/h (112 mph) 10 times in succession without losing braking performance.
+The Ultra receives an upgraded sensor suite for its Xiaomi HAD supervised autonomous driving system consisting of 3 LiDARs, 5 mmWave radars, and twelve cameras.
+The Ultra features a mostly Xiaomi self-developed powertrain, including the debuting HyperEngine V8s motor, electric power electronics, and thermal management system. Xiaomi co-developed the battery pack in collaboration with CATL, and designed the battery controller as part of its contribution. It is designed with track use in mind and uses CATL's new Qilin 2.0 NMC battery cells. The pack is assembled using a cell-to-chassis design, which achieves 77.8% volumetric utilization and allows for a 17-millimetre (0.67 in) decrease in cabin floor height. The battery operates at 897 V and has a maximum peak output of 1,330 kW (1,784 hp; 1,808 PS), or 800 kW (1,073 hp; 1,088 PS) at 20% charge. It can be charged at a rate of up to 490 kW (5.2C), allowing for a 10–80% charge time of 11 minutes. It adopts a dual-layer pack cooling design, which Xiaomi claims increases cooling capacity by 60% compared to conventional methods.
+The SU7 Ultra is powered by three electric motors developed by Xiaomi, which are two HyperEngine V8s and one HyperEngine V6s, reaching a combined power output of 1,138 kW (1,547 PS; 1,526 hp) and total torque output of 1,770 N⋅m (1,305 lb⋅ft). The two V8s motors output 425 kW (578 PS; 570 hp) and 635 N⋅m (468 lb⋅ft) of torque each, and the V6s motor also found in the SU7 Max outputs 288 kW (392 PS; 386 hp) and 400 N⋅m (295 lb⋅ft) of torque. The HyperEngine V8s has a maximum speed of 27,200 rpm, is 98.11% efficient, and has a power density of 10.14 kW/kg, while the V6s can go up to 21,000 rpm.
+The SU7 Ultra can accelerate from 0 to 100 km/h (62 mph) in 1.98 seconds, 0 to 200 km/h (124 mph) in 5.96 seconds, and 0 to 300 km/h (186 mph) in 15 seconds, runs the 0–400 m (0.249 mi) in 9.23 seconds, and has a top speed of over 350 km/h (217 mph). The SU7 Ultra hit a top speed of 359.71 km/h (224 mph) at the CATARC Yan Cheng Automotive Proving Grounds, which CEO Lei Jun claimed was limited by the test facility.
+In June 2025, an unmodified SU7 Ultra (with a maximum 1,139 kW (1,527 hp; 1,549 PS) power) lapped the Nürburgring in a hair under 7 minutes, 5 seconds. It is not only faster than the fastest Tesla Model S Plaid and Porsche Taycan versions, but also faster than a Rimac Nevera, one of the most high-end and expensive electric sportscars.
+
+
+Track Professional package
+On 26 June 2025, Xiaomi introduced the SU7 Ultra's Track Professional package, which features the modifications used in the SU7 Ultra's production car lap records. It is equipped with several carbon fiber exterior components including a dual-duct hood, a larger rear wing, 1.7 m2 (18 sq ft) roof, and wheel arch trim. Additionally, it has upgrades including Pirelli P-Zero Trofeo RS 265/35 R21 front and 325/30 R21 rear tires mounted on 21-inch forged wheels, custom-tuned Bilstein Evo R coilovers, and Endless MA45B brake pads.
+
+
+Nürburgring Limited Edition
+On 26 June 2025, Xiaomi released the SU7 Ultra Nürburgring Limited Edition to commemorate the car's record laptimes at the Nürburgring Nordschleife. It features further modifications on top of the Track Professional package to emulate the Nürburgring record setting Prototype version and is limited to 100 units in its lifespan, 10 of which will be produced in 2025. It features an aerodynamic floor and diffuser providing 44 kg (97 lb) of downforce, a half roll cage, removed rear seats to reduce weight by 30 kg (66 lb), Sparco Competition H-2 carbon fiber racing bucket seats with 6-point harnesses, and a custom racing suit.
+
+
+Lap records
+
+On 13 February 2025, the SU7 Ultra set a certified laptime of 2:09.944 at the Shanghai International Circuit, setting the record for fastest mass-produced vehicle and fastest certified lap record after the first certified laptime was recorded by a Porsche Taycan Turbo GT in October 2024.
+On 1 April 2025, the SU7 Ultra driven by Vincent Radermecker set a certified laptime of 7:04.957 on the Nürburgring Nordschleife, setting the record for fastest mass-produced electric vehicle and fastest road legal four-door vehicle, beating the Rimac Nevera and Porsche Taycan Turbo GT, respectively. The time was set in 2–9 °C (36–48 °F) ambient conditions on a dry track on the car's second lap. Xiaomi brought two SU7 Ultras to the Nürburgring for the attempt, which were equipped with the Track Professional package. Additionally, the car was modified with safety equipment including an 80 kg (180 lb) full roll cage and racing seats with a six-point harness, with some interior trim removed to compensate for the additional weight, at the request of track officials. When the record was announced on June 11, Xiaomi said that they will stay at the track and attempt to improve on the record.
+
+
+SU7 Ultra prototype
+
+The SU7 Ultra was previewed by a prototype model, which was unveiled on 19 July 2024, during a 2024 annual speech by Lei Jun. During the event, Xiaomi revealed details on its new HyperEngine V8s motor and battery co-developed with CATL which would be used in the eventual production version. The prototype has the same powertrain as the production version, but is fitted with a fully carbon fiber body and lacks a finished interior, resulting in a weight of slightly under 1,900 kilograms (4,200 lb). At the event, Xiaomi said it intended to set a new record in the four-door electric sedan category at the Nürburgring Nordschleife, which was held by the Porsche Taycan Turbo GT at the time.
+The exterior features a significant aerodynamic overhaul, with large front air vents that lead to large hood exit vents, a significant front splitter and side skirts, along with a large rear wing and diffuser, allowing for up to 2,145 kilograms (4,729 lb) of downforce. Due to the additional aerodynamic bodywork, the vehicle has larger dimensions than the standard SU7, with a length of 5,260 mm (207.1 in), width of 2,064 mm (81.3 in), and height of 1,406 mm (55.4 in), but the wheelbase is maintained. It is equipped with AP Racing fixed six-piston brake calipers designed for racing, and racing brake pads capable of operating at over 800 °C (1,500 °F). In addition, the motors are able to apply 0.6G of reverse torque, for a total of 2.36G of deceleration and a 100–0 km/h (62–0 mph) stopping distance of 25 metres (82 ft).
+On 7 June 2025, Xiaomi and Polyphony Digital announced the collaboration to bring the Xiaomi SU7 Ultra Prototype to the game, Gran Turismo 7. This marks the first Chinese-branded vehicle to the Gran Turismo franchise, along with the upcoming Vision Gran Turismo concept car, which is currently in development.
+
+
+Nürburgring lap record
+On 24 October 2024, the SU7 Ultra Prototype on non-road legal slick tires achieved the official lap record for a four-door car on the Nürburgring Nordschleife at 6:46.874, driven by racing driver David Pittard. On 26 June 2025, Xiaomi announced that the vehicle set a new lap record of 6:22.091 on 1 April 2025, making it the third fastest certified time around the circuit behind the Porsche 919 Evo and Volkswagen ID. R.
+
+
+Long-wheelbase version
+Spy shots of a long-wheelbase SU7 prototype first appeared on August 24, 2025. It is one of 3 planned Xiaomi models mentioned in an online document, with the codename MS11-L. CarNewsChina editor Adrian Leung stated that the design is similar to that of the Porsche Panamera Executive, which is a China-exclusive long-wheelbase version of the Porsche Panamera.
+
+
+Powertrain
+
+
+Safety
+
+The C-NCAP safety testing results for the SU7 were published in March 2025. The model tested was the SU7 Max equipped with the Xiaomi Pilot Max ADAS system as standard, which was purchased anonymously from a random store with the test agency's funds. At the time the results were released, the SU7 has the highest overall score for any vehicle tested with the 2024 standards, with a 8.7 percentage point higher overall score and 13.14 point higher vulnerable road user score than the average tested vehicle. The subscores for all tests except for whiplash are in the 80th percentile of all vehicles tested using the 2024 protocol.
+
+
+Sales
+Xiaomi targeted 100,000 deliveries in 2024 and had 70,000 orders by April of 2024. By mid-2024, Xiaomi became the 8th largest automotive startup in China, measured by sales quantity. Since the launch of SU7 in March 2024, Xiaomi has rolled out 100,000 units of the model by November 2024, a short 230 days gap.  According to CEO Lei Jun, the SU7 received over 248,000 confirmed orders by the end of 2024. In February 2025, Xiaomi continued a five month streak of exceeding 20,000 deliveries per month, allowing total deliveries to surpass 180,000 units. The 200,000th vehicle was delivered on March 18 2025, 348 days after launch. At the YU7 reveal on 22 May 2025, Xiaomi said that they had delivered over 258,000 SU7s.
+In November 2024, the Xiaomi SU7 Ultra received 3,680 refundable pre-orders within 10 minutes of its announcement. In February 2025, Xiaomi announced the price of the SU7 Ultra. It received over 6,900 firm pre-orders within 10 minutes of opening, 10,000 within two hours, 15,000 by the end of the following day, and over 19,000 the day deliveries started on March 3. Pre-orders can be placed by either paying a 20,000 yuan (2,700 USD) deposit with a one-week refund period, or a non-refundable 40,000 yuan (5,500 USD) deposit to receive delivery sooner. At an earnings call in late May 2025, Xiaomi revealed that the SU7 Ultra had achieved over 23,000 firm orders, far exceeding their expectations and yearly sales target of 10,000.
+
+
+Crash
+Xiaomi has acknowledged that its SU7 electric car was involved in a fatal crash on a Chinese highway.  At 22:44 on March 29, 2025, a Xiaomi SU7 electric car hit a highway guardrail and caught fire on the Chi-Qi (池祁) section of Dezhou–Shangrao Expressway (德上高速) in Anhui. Three female college students in the car were killed.  According to Xiaomi, before the crash, the car’s advanced driver assistance function had been engaged and the car was driving at a speed of 116km/h.
+
+
+See also
+Xiaomi YU7
+Xiaomi HyperOS
+
+
+Notes
+
+
+References
+
+
+External links
+
+Official website (in Chinese)

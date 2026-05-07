@@ -1,0 +1,8 @@
+Title: Reciprocity (engineering)
+
+Reciprocity in linear systems is the principle that a response Rab, measured at a location (and direction if applicable) a, when the system has an excitation signal applied at a location (and direction if applicable) b, is exactly equal to Rba which is the response at location b, when that same excitation is applied at a. This applies for all frequencies of the excitation signal. If Hab is the transfer function between a and b then Hab = Hba, if the system is linear.
+In the special case of a modal analysis this is known as Maxwell's reciprocity theorem.  In electromagnetism the concept is known as Lorentz reciprocity, a special case of which is the reciprocity theorem of electrical networks.
+The reciprocity principle is also used in the analysis of structures. When combined with superposition, symmetry and anti-symmetry, it can be used to resolve complex load conditions.
+
+
+References

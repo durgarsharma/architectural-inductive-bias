@@ -1,0 +1,71 @@
+Title: Russian Television and Radio Broadcasting Network
+
+Russian Television and Radio Broadcasting Network (RTRN) (Russian: Российская телевизионная и радиовещательная сеть) is a unitary enterprise created on August 13, 2001, by decree of the president of the Russian Federation. The company is included in the list of Russian strategic enterprises.
+RTRN operates Russia's digital terrestrial television (DTT) network — the largest operating broadcasting network in the world. It consists of 5040 transmission sites and 10,080 transmitters. Almost 75% out of the 5040 transmission sites were built from scratch.
+RTRN's DTT services cover 98,4% of the Russian population. RTRN provides terrestrial transmission of 20 must-carry public television channels and three radio stations broadcasting over the territory of the Russian Federation. RTRN also serves other radio and television channels of both all-Russian and regional types distributing the programs of the latter. Multichannel terrestrial radio and television broadcasting in Russia is provided by 78 broadcasting centers functioning as RTRN regional branches. Moscow broadcasting signal reaches the regions through satellite and land communication channels.
+RTRN was appointed to execute the deployment of the DTT network in the DVB-T2 standard according to the federal target programme "Development of TV and Radio Broadcasting in the Russian Federation in 2009-2018".
+RTRN is a member of DVB consortium, and was a member of the European Broadcasting Union (EBU) before withdrawal from the union in February 2022.
+
+
+Organization's activities
+
+
+The Digital Switchover
+Since 2010, in accordance with the federal target program "Development of Television and Radio Broadcasting in the Russian Federation for 2009-2018," RTRN has begun construction of a digital television network in Russia. In December 2018, the construction of all necessary infrastructure for broadcasting terrestrial television in digital format in all regions of Russia was completed and the last tower, named "Hurrah", was inaugurated.
+The Federal target Program is considered the largest digital television development program in the world.
+In 2012, by Decree of the Government of the Russian Federation No. 287-r dated March 3, 2012, the DVB-T2 standard was recognized as the unified standard for digital terrestrial television in Russia. The transfer of the DVB-T digital terrestrial television network operating since 2010 to the DVB-T2 standard was completed on January 15, 2015 throughout Russia. The DVB-T2 standard is broadcast in Russia only by RTRN.
+RTRN is the only on—air operator of the first, second and subsequent multiplexes of digital terrestrial television in Russia. In digital terrestrial television, the first and second multiplexes are called RTRN-1 and RTRN-2. The signal is transmitted, as a rule, at frequencies in the UHF (Ultra high frequency) range.
+The first and second multiplexes in digital terrestrial television are free for viewers, are not encoded and are open (FTA) for reception without the use of a conditional access system throughout Russia.
+In 2013, RTRN began broadcasting the second multiplex in Russia.
+Until 2019, during the transition period, RTRN conducted parallel digital and analog broadcasts of mandatory publicly available TV channels, as long as broadcasters were willing to pay for broadcasting in both formats.
+In 2019, the broadcasting of federal channels in analog format ceased. RTRN continued to broadcast in analog format only regional and municipal TV channels that were not included in the "digital Twenty". The regions switched to digital television broadcasting without problems thanks to the work of the hotline and volunteers. The audience was assisted by 70,000 volunteers, 30,000 municipal social workers, and 50,000 Russian Post employees.
+By August 2024, the coverage of the RTRN digital television network had increased to 98.6% of Russian residents.
+
+
+Regional digital broadcasting
+In 2017, RTRN, in close cooperation with VGTRK, organized regional digital terrestrial television and radio broadcasting and began broadcasting regional programs everywhere as part of the first multiplex. Regional programs are available on NTV, Russia-1, Russia-24 TV channels and radio stations Radio Rossii, Mayak, Vesti FM.
+Providing the population of the Russian Federation with regional digital terrestrial television and radio broadcasting was the main objective of the federal target program "Development of Television and Radio Broadcasting in the Russian Federation for 2009-2018". To achieve this goal, RTRS created a multiplexing center in each region, developed and patented an original technology for distributed program modification.
+Since November 2019, programs of mandatory publicly available regional channels have been released in digital format also on OTR as part of the first multiplex. Local news and broadcasts are broadcast up to five hours a day: three hours in the morning and two in the evening.
+
+
+Digital TV services
+Through DVB-T2 digital terrestrial television, RTRN provides free-of-charge services: SDTV standard definition television, digital radio, stereo sound, subtitles, teletext, TV guide, time and date synchronization with digital broadcast data, interactive hybrid television in the HbbTV standard.
+
+
+Planned maintenance services
+In the future, RTRN plans to provide services through digital terrestrial television DVB-T2: high-definition HDTV, ultra-high definition UHDTV, Dolby Digital sound, multi-sound (choice of broadcast language), audio transcription, notification system, access to the government portal services ("Electronic Government").
+
+
+Radio broadcasting
+
+
+Analog radio broadcasting
+RTRN conducts analog terrestrial radio broadcasting in two frequency-modulated ultrashort wave (VHF) bands: 65.90-74.00 MHz (VHF OIRT) and 87.5-108.0 MHz (VHF CCIR, FM).
+
+
+Digital radio broadcasting
+RTRN broadcasts the all-Russian radio stations Radio of Russia, Mayak and Vesti FM in digital quality as part of the first RTRN-1 multiplex. In the 2010s, RTRN tested digital radio broadcasting standards with the assistance of the Ministry of Digital Communications of Russia, including the DRM standard.
+In 2018, for the introduction of this technology, RTRN received the Zvorykin Award in the nomination "For the creation and/or improvement of equipment/technology in the field of television and radio production".
+
+
+Unique TV towers
+The tallest TV tower in RTRN's network is the Ostankino Tower in Moscow. Ostankino was designed by Nikolai Nikitin. It was erected in 1967. Ostankino was built to mark the 50th anniversary of the October Revolution. It is named after the surrounding Ostankino district of Moscow.
+The tower is the tallest free-standing building in Russia and a symbol of Russian broadcasting. It is currently the tallest free-standing structure in Europe and 11th tallest in the world. Between 1967 and 1974, it was the tallest in the world. With 1,771 feet tall (540 m), Ostankino tower is one of the most famous landmarks of Moscow attracting thousands of tourists per year.
+The TV tower is a member of the World Federation of Great Towers (WFGT).
+The other concrete structure in RTRN's network is Novorossiysk TV Tower. The tower is used for FM and TV transmission in Novorossiysk in Krasnodar Krai. It was completed in 1996 and is 261 metres tall.
+Saint Petersburg Television Tower is the second-tallest tower after the concrete Ostankino Tower and the tallest lattice tower in Russia, possessing a total height of 326 m (1,070 ft).
+It was the first dedicated television tower in the Soviet Union and now is utilized for transmitting for FM-/TV-broadcasting throughout the federal city.
+The Saint Petersburg TV Tower ranks as the eleventh-tallest lattice tower in the world, the second-tallest television tower, and the tallest lattice television tower in the whole of the Russian Federation.
+
+
+See also
+Russian Satellite Communications Company
+
+
+References
+
+
+External links
+ Media related to Russian Television and Radio Broadcasting Network at Wikimedia Commons
+
+Official website (in Russian)

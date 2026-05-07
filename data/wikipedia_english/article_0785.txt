@@ -1,0 +1,22 @@
+Title: Mercury(I) nitrate
+
+Mercury(I) nitrate is an inorganic compound, a salt of mercury and nitric acid with the formula Hg2(NO3)2. A yellow solid, the compound is used as a precursor to other Hg22+ complexes. The structure of the hydrate has been determined by X-ray crystallography. It consists of a [H2O-Hg-Hg-OH2]2+ center, with a Hg-Hg distance of 254 pm.
+It was first mentioned by Indian chemist Acharya Prafulla Chandra Ray in 1896.
+
+
+Reactions
+Mercury(I) nitrate is formed when elemental mercury is combined with dilute nitric acid (concentrated nitric acid will yield mercury(II) nitrate). Mercury(I) nitrate is a reducing agent which is oxidized upon contact with air.
+Mercuric(II) nitrate reacts with elemental mercury(0) to form mercurous(I) nitrate (comproportionation reaction):
+
+Hg(NO3)2 + Hg ⇌ Hg2(NO3)2
+Solutions of mercury(I) nitrate are acidic due to slow reaction with water:
+
+Hg2(NO3)2 + H2O ⇌ Hg2(NO3)(OH) + HNO3
+Hg2(NO3)(OH) forms a yellow precipitate.
+If the solution is boiled, or exposed to light, mercury(I) nitrate undergoes a disproportionation reaction yielding elemental mercury and mercury(II) nitrate:
+
+Hg2(NO3)2 ⇌ Hg + Hg(NO3)2
+These reactions are reversible; the nitric acid formed can redissolve the basic salt.
+
+
+References

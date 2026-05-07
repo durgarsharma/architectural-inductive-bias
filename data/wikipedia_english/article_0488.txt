@@ -1,0 +1,64 @@
+Title: Sopwith B.1
+
+The Sopwith B.1 was an experimental British bomber aircraft of the First World War. A single-seat, single-engined biplane, the B.1 was built by the Sopwith Aviation Company for the Royal Navy.  Although only two were built, one was used for bombing raids over France.
+
+
+Development and design
+In late 1916, Sopwith, whose earlier 1½ Strutter had proved successful as a light bomber (particularly when operated as a single seater), designed a new, single-engined bomber aircraft. The new bomber was developed in parallel with the Cuckoo carrier-based torpedo bomber and closely resembled the Cuckoo. It, like the Cuckoo, was a compact tractor biplane, powered by a 200 hp (149 kW) Hispano-Suiza water-cooled engine. Unlike the Cuckoo, the bomber's two-bay wings did not fold. It was designed as a single-seat aircraft, with the pilot sitting in a cockpit under the wing centre section to give a good view forwards and downwards for bombing.  The aircraft bombload of up to 560 lb (255 kg) was carried vertically within the fuselage, in cells behind the pilot.
+While no orders followed from either the Admiralty, whose needs for a single-engined bomber had been met by the Airco DH.4 or the Royal Flying Corps, Sopwith obtained a license to build a prototype of the new bomber, designated Sopwith B.1 as a private venture, probably hoping for orders from the French Aéronautique Militaire. This prototype first flew in early April 1917, being tested officially later that month, where it demonstrated good performance, but was tail heavy when carrying a bomb load and nose heavy without, and was tiring to fly.
+It was sent to France following these tests, in the mistaken belief that the French wanted to test the aircraft.  Once in France, the unwanted B.1 was acquired by the British Royal Naval Air Service, given the serial number N.50 and issued to 5 Squadron, RNAS, on 16 May 1917 for operational evaluation. Fitted with a single forward-firing Lewis gun, the B.1 was flown on a number of bombing raids against targets in German-occupied Belgium. While its performance was praised, it was again noted that the B.1 was tiring to fly, and that the lack of manoeuvrability or any useful defensive armament meant that it was vulnerable to hostile fighters.
+The prototype B.1 was sent to the Marine Experimental Aircraft Depot on the Isle of Grain in autumn 1917 for reconstruction as a two-seat carrier-based reconnaissance aircraft with folding wings. The initial attempts at modifying the aircraft were not successful, but the B.1 formed the basis of the Port Victoria Grain Griffin, a major redesign of the B.1 with new wings and a wider fuselage.
+A second B.1 was built in early 1918, being fitted with the elevator control cables routed outside the fuselage in an attempt to improve control.  This aircraft was purchased by the RNAS and tested at Martlesham Heath in April–May 1918.
+
+
+Operators
+ United Kingdom
+Royal Naval Air Service
+5 Squadron, RNAS
+
+
+Specifications (B.1)
+Data from The British Bomber since 1914 General characteristics
+Crew: 1
+Length: 27 ft 0 in (8.23 m)
+Wingspan: 38 ft 6 in (11.73 m)
+Height: 9 ft 6 in (2.90 m)
+Wing area: 460 sq ft (43 m2)
+Empty weight: 1,700 lb (771 kg)
+Max takeoff weight: 3,055 lb (1,386 kg)
+Powerplant: 1 × Hispano-Suiza 8B V-8 water-cooled piston engine, 200 hp (150 kW)
+Propellers: 2-bladed fixed-pitch propeller
+Performance
+
+Maximum speed: 118.5 mph (191 km/h, 103 kn)
+Endurance: 33⁄4 hours
+Service ceiling: 19,000 ft (5,800 m)
+Time to altitude: 10,000 ft (3,048 m) in 15 minutes 30 seconds
+Wing loading: 6.64 lb/sq ft (32.4 kg/m2)
+Power/mass: 0.065 hp/lb (0.107 kW/kg)
+Armament
+
+Guns: 1x forward-firing .303 in Lewis gun
+Bombs: Up to 560 lb (255 kg) bombs including twenty 28 lb (13 kg) bombs or twenty French 10 kg (22 lb) bombs in fuselage bomb bay
+
+
+See also
+
+Related development
+
+Sopwith Cuckoo
+Grain Griffin
+Aircraft of comparable role, configuration, and era
+
+Sunbeam Bomber
+
+Related lists
+
+List of aircraft of the Royal Naval Air Service
+
+
+References
+
+Bruce, J. M. British Aeroplanes 1914-18. London:Putnam, 1957.
+Bruce, J. M. Sopwith B.1 & T.1 Cuckoo: Windsock Datafile 90. Berkhamsted, Hertfordshire, UK: Albatros Publications, 2001. ISBN 1-902207-41-6.
+Mason, Francis K. The British Bomber since 1914. London:Putnam, 1994. ISBN 0-85177-861-5.

@@ -1,0 +1,12 @@
+Title: Jean-Jacques Quisquater
+
+Jean-Jacques Quisquater (born 13 January 1945) is a Belgian cryptographer and a professor at the University of Louvain (UCLouvain). He received, with Claus P. Schnorr, the RSA Award for Excellence in Mathematics and the ESORICS Outstanding Research Award in 2013.
+On Saturday, 1 February 2014, Flemish public news agency VRT reported that about 6 months earlier, Quisquater's personal computer had been hacked. Since the same hacking technique was used at Belgium's public/private telecom provider Belgacom, VRT makes links to the NSA hacking scandal. Still according to VRT, a week before the article went out Edward Snowden warned about the NSA also targeting companies and private persons, in an interview with German television channel ARD. Belgian newspaper De Standaard mentions GCHQ and says the authorities are investigating the case. Reporters write Quisquater's computer was infected with malware after clicking a bogus invitation to join a social network—"that allowed the intruders to follow all of the professor's digital movements, including his work for international conferences on security".
+
+
+References
+
+
+External links
+Jean-Jacques Quisquater at the Mathematics Genealogy Project
+Quisquater's page, UCLouvain

@@ -1,0 +1,44 @@
+Title: Jalonen
+
+Jalonen was a Finnish firearms manufacturer in Sastamala from 1990 to 2016. The company is known for making silhouette pistols and rifles for hunting og sport shooting based on their own series of action designs called "JJ-aktio". The firearms were built to order, and customers could choose from a selection of chamberings.
+
+
+History
+In 1990, Jyri Jalonen started producing firearms. In the early 2000s it became difficult to export receivers-only from Finland, and Jalonen therefore switched to delivering barreled actions by combining their action with locally produced hunting barrels from Mäkinen for a few years until Mäkinen retired. Stocks and other accessories were ordered from other manufacturers. By 2007, the company had produced approximately thousand firearms, and was in the process of calming down its activity.
+In 2016 Juri Jalonen retired, and the manufacturing plant was sold to Ensio Firearms. The production of silhouette pistols then gradually ceased, and Ensio switched to producing rifles based on a further development of the JJ action as well as constructing new models of modern rifles.
+
+
+Models
+Jalonen's actions were lapped and made to tight tolerances, and can therefore be heavy to cycle. The actions have had a reputation for having a good finish and being very straight, and have been used for benchrest shooting, often in combination with aftermarket barrels.
+The triggers are proprietary, and only Jalonen's triggers can be used on their actions. These have been made in several different versions for hunting and competition either with or without a manual safety. Several of the triggers have an adjustable distance.
+The extractor is placed in front of the breechface, and must be ground if a close fit between the barrel and breech is desired. The extractor is sharp from the factory and can cause chips from the cases during cycling. Like the TAP-375, the angle and location of the lever arm (that is perpendicular to the axis of the bolt sleeve) means that a deep cut for the lever arm in the stock is necessary.
+
+
+Overview
+In the following table, the mass is given for the complete action with bolt, trigger, trigger guard and magazine as shown on the manufacturer's website. All the actions have a 90 degree bolt opening. List of mechanisms:
+
+JJ-90
+Magazine action in blued steel. 2-position safety.
+JJ-900
+Single-shot action in blued steel. 2-position safety.
+JJ-91
+Magazine action in blued steel. Trigger pull weight 700-1500 grams.
+JJ-910
+Single-shot action in blued steel. Trigger pull weight 700-1500 grams.
+JJ-92
+Single-shot action in steel. JJ-92 has many similarities with Tikka M55, but is a different design. It can cycle cartridges up to 85 mm total length or .308 Winchester. Trigger pull weight 700-1500 grams.
+JJ-92A
+Single-shot action of aluminium with steel insert (the A in the model name stands for aluminium). Trigger with a manual safety or a 100 grams trigger without a manual safety. Adjustable distance to the trigger. Wooden or fiberglass stock. Available in many different chamberings. 17 mm dovetail rail milled on the top of the action for attaching sights. Was used in the pistol Silhouette 92A which was Jalonen's base model for the IMSSU production class. Being a long action it is somewhat long for PPC/BR cartridges. The stock is attached to the action's rear tang, and the maximum barrel length is 215 mm.
+JJ-93
+Magazine action in blued steel, with trigger pull weight 700-1500 g, safety with 2 positions and adjustable trigger distance.
+JJ-930
+Single-shot action in blued steel, and with a 2-position safety.
+JJ-50
+12.7×99 mm rifle in blued steel, and with a 2-position safety in front of the trigger.
+
+
+See also
+Loppo, another Finnish firearms manufacturer
+
+
+References

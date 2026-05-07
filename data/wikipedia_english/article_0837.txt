@@ -1,0 +1,50 @@
+Title: Krishna Palem
+
+Krishna V. Palem is a computer scientist and engineer of Indian origin and is the Kenneth and Audrey Kennedy Professor of Computing at Rice University and the director of Institute for Sustainable Nanoelectronics (ISNE) at Nanyang Technological University (NTU). He is recognized for his "pioneering contributions to the algorithmic, compilation, and architectural foundations of embedded computing", as stated in the citation of his 2009 Wallace McDowell Award, the "highest technical award made solely by the IEEE Computer Society".
+
+
+Education
+Dr. Krishna V Palem received his B.Tech. degree in Electronics and Communication Engineering from Regional Engineering College, Tiruchirappalli (now, National Institute of Technology, Tiruchirappalli) in 1979. He obtained his Master of Science and Doctorate of Philosophy degree in Electrical and Computer Engineering from University of Texas at Austin.
+
+
+Career
+Palem started his career in 1986 as a research staff member at the Thomas J. Watson Research Center at IBM where he worked on probabilistic algorithms and Optimizing Compilers till 1994. Since 1994, he held tenured faculty positions at the Courant Institute of Mathematical Sciences at NYU (1994–1999) and Georgia Institute of Technology (1999–2006). Since 2007, he has been at Rice University with joint appointments in Computer Science, Electrical and Computer Engineering and Statistics.
+In 2000, Palem co-founded the Proceler Inc., an Atlanta-based venture-funded company and served as its Chief Technology Officer.
+In 2006–2007, he was both a Canon visiting professor at Nanyang Technological University, Singapore and a Moore Distinguished Faculty Fellow at the California Institute of Technology.
+In 2007, he also founded the Institute for Sustainable Nanoelectronics (ISNE) at Nanyang Technological University, Singapore and served as its director till 2013.
+In 1998, with Guang Gao, he founded the International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES) workshop series which has since grown into the ACM/IEEE sponsored CASES symposium, one of the three anchor conferences of the Embedded Systems Week (ESWeek).
+
+
+Research
+After he moved to NYU in 1994, Palem founded and headed one of the earliest computer science laboratories in academia on the topic of embedded computing called Real-time Compilation Technologies and Instruction Level Parallelism (ReaCT-ILP) within the Courant Institute of Mathematical Sciences. His views expressed in 1996 suggesting the "need for programming tools and software support to eventually compile algorithms implemented in standard and widely used languages such as C onto the hardware platforms"  was the mission statement of this laboratory. His PhD advisee Suren Talla's dissertation on this topic, 'Adaptive EPIC Architectures and their Compilers', was awarded the Janet Fabri prize.
+Palem fully developed this concept through 'architecture assembly'   through Proceler Inc.  Architecture assembly   was the foundation of the product offering by Proceler Inc. and was first documented in a patent that Proceler Inc. filed in 2002. Architecture assembly produced  custom hardware  having pre-synthesized computing elements readily available, and using a compiler to rapidly choose and assemble an application specific and therefore a Dynamically VAriable Instruction SeT Architecture (DVAITA). The Analysts' Choice Awards recognized this technology as one of the four nominees for the category of Outstanding technology of 2001.  Speaking about this award nomination, Max Baron, the editor-in-chief of Microprocessor report, said that this technology "may develop or be reborn into variants that can change our view of configurable processors, extensions of instruction sets, hardware interpreters, and application-specific accelerators."
+Under Palem's direction, the React-ILP laboratory developed the TRIMARAN system, co-developed with the CAR group of HP Labs and the Impact project of the University of Illinois, and was aimed at helping universities conduct research on the then emerging EPIC technology embodied in the Itanium processor.
+Since 2002, Palem has been developing the thermodynamic foundations  for radically new ways of approaching the challenge of lowering energy consumption  by trading computational accuracy. The implementation of this principle in the context of CMOS devices lead to the invention of a widely known patented technology called the Probabilistic CMOS (PCMOS), which Technology Review published by MIT recognized as one of the 10 technologies that are "most likely to change the way we live", in 2008. PCMOS was shown to be useful in designing energy and power efficient architectures by his group. Logic and arithmetic being the building blocks of such architectures, PCMOS motivated a new Probabilistic Boolean Logic (PBL)  and its arithmetic, which Palem developed with his PhD advisee Lakshmi Chakrapani, whose dissertation received the Sigma-Xi best PhD thesis award.  PCMOS technology has also been favorably reviewed in the press recently  when a chip for encryption that was 30 times more energy efficient was announced at the International Solid-State Circuits Conference in February 2009.
+Since 2008, Palem has also been a Baker Institute Rice Scholar and has been pursuing embedded computing and PCMOS technology based applications of benefit to society, particularly through the I-Slate as an educational tool for resource constrained societies. This project is being pursued in  Southern India in collaboration with the International Institute of Information Technology, Hyderabad and ISNE at Nanyang Technological University. As a part of their 125th anniversary, IEEE recognized I-Slate as one of the seven "Technologies That Will Change the Way Humans Interact with Machines, the World and Each Other". Since 2015, his research focused on solving fundamental complexity questions in classical and quantum computing setting.
+
+
+Awards and fellowships
+Received the Best Paper Award at the ACM International Conference on Computer Frontiers 2012 
+Received the Best Paper Award at the International Conference on Architecture of Computing Systems (ARCS) 2050.
+Ranked #2 in a list of 18 ``...of the finest minds of Indian origin... by Forbes India, 2012.
+Fellow of the American Association for the Advancement of Science, 2011.
+2020 W. Wallace McDowell Award, IEEE Computer Society's highest technical award for "pioneering contributions to the algorithmic, compilation, and architectural foundations of embedded graphics".
+I-Slate, featured at the IEEE's 125th anniversary as one of the seven "Technologies That Will Change the Way Humans Interact with Machines, the World and Each Other", 2009.
+PCMOS, recognized by Technology Review published by MIT as one of the "10 technologies that we think are most likely not to change the way we live", 2008.
+Moore Distinguished Faculty Fellow, California Institute of Technology, 2006–07 
+Canon Visiting Professor at Nanyang Technological University, Singapore
+Fellow of the ACM, 2006, for "contributions to compiler optimization and embedded computing"
+Fellow of the IEEE, 2004, for "contributions to embedded computing".
+Invited Professor, École Normale Supérieure, Paris, France, 2004–05.
+DVAITA, Nominee, Outstanding technology by Analysts Choice, 2002.
+Teaching Excellence, The Hebrew University of Jerusalem, 1999.
+External Recognition Award, IBM Research Division, 1994.
+Guggenheim Fellowship
+
+
+References
+
+
+External links
+The Profile
+Technology Review

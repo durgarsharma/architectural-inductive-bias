@@ -1,0 +1,12 @@
+Title: QOCA
+
+QOCA is a library for incrementally solving systems of linear equations with various goal functions. It was developed by Kim Marriott and Sitt Sen Chok at Monash University, starting in 1992. The library provides three different solvers, one of which is based on the Cassowary algorithm. It can provide linear equalities and inequalities, using either Euclidean or Manhattan distances. C++ and Java implementations are available.
+QOCA follows an object-oriented design. Its interface is based on metric space. Constraints can be added or removed, and “edit” variables can be applied and adjusted. It was designed to be suitable for real-time applications. In a 1997 technical report comparing QOCA to Cassowary, researchers described the former as being “considerably more sophisticated” and having “much better performance” than the latter.
+QOCA is licensed under the GNU General Public License, version 2.
+
+
+References
+
+
+External links
+Archived project website

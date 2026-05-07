@@ -1,0 +1,302 @@
+Title: Taxonomy of the Cactaceae
+
+In 1984, the International Organization for Succulent Plant Study set up a working party, now called the International Cactaceae Systematics Group, to produce a consensus classification of the cactus family, down to the level of genus. Their classification has been used as the basis for systems published since the mid-1990s. Treatments in the 21st century have generally divided the family into around 125–130 genera and 1,400–1,500 species, which are then arranged in a number of  tribes and subfamilies. However, subsequent molecular phylogenetic studies have shown that a very high proportion of the higher taxa (genera, tribes and subfamilies) are not monophyletic, i.e. they do not contain all of the descendants of a common ancestor. As of August 2023, the internal classification of the family Cactaceae remained uncertain and subject to change. A classification incorporating many of the insights from the molecular studies was produced by Nyffeler and Eggli in 2010.
+
+
+Overview
+The classification of the family Cactaceae remains uncertain as of August 2023. Since the mid-1990s, the system produced by the International Cactaceae Systematics Group (ICSG) of the International Organization for Succulent Plant Study has been used as the basis of many published classifications. Detailed treatments produced in the 21st century have divided the family into around 125–130 genera and 1,400–1,500 species, which are then arranged into a number of tribes and subfamilies.
+The ICSG classification of the family recognizes four subfamilies: Pereskioideae (consisting only of the genus Pereskia), Opuntioideae, Maihuenioideae (consisting only of the genus Maihuenia) and Cactoideae. Molecular phylogenetic studies suggest that Pereskia is not monophyletic (i.e. its species are not the complete set of descendants of a common ancestor), so that Pereskioideae is not monophyletic although the three other subfamilies are. The Bayesian consensus cladogram from a 2005 study is shown below:
+
+Five tribes have been recognized within the subfamily Opuntioideae: Tephrocacteae, Pterocacteae, Austrocylindropuntieae, Cylindropuntieae and Opuntieae. All but the first, Tephrocacteae, were shown to be "essentially monophyletic" in molecular phylogenetic study in 2009. A summary of the consensus Bayesian tree is shown below (tribes are bold; the number of species in the study is shown in parentheses).
+
+Many of the genera within the Opuntioideae are not monophyletic. Maihueniopsis is highly polyphyletic, appearing in four separate lineages. The two largest genera within the subfamily, Opuntia and Cylindropuntia are also not monophyletic. The classification of the Opuntioideae is thus uncertain as of March 2012; Griffith and Porter say that changes in classification will require "broad information (of multiple data types) regarding all species of opuntioid cacti".
+The ICSG classification divides the subfamily Cactoideae into nine tribes. However, phylogenetic research has not supported most of these tribes, nor even the genera of which they are composed. A 2011 study found that "an extraordinarily high proportion of genera" were not monophyletic, including 22 (61%) of the 36 genera in the subfamily Cactoideae sampled in the research. Of the nine tribes recognized within Cactoideae, one, Calymmantheae, comprises a single genus, Calymmanthium. Of the remaining eight, only two (Cacteae and Rhipsalideae) have been shown to be monophyletic. A summary of the cladograms for the Cactoideae presented in a 2011 paper is shown below (ICSG tribes in bold).
+
+The classification of the Cactaceae thus remains subject to change, from the genus level upwards. In 2016, David Hunt wrote that "the advent of molecular systematic studies in the past two decades will hopefully have a stabilizing effect on classification in due course, but has so far had the opposite effect".
+
+
+Nyffler and Eggli (2010) classification
+In 2010, Nyffler and Eggli produced a classification based on an explicit phylogeny. The broad outlines of their cladogram agree with that of Hern et al. (2011), shown above, although some details are different. Their classification corresponds to the cladogram shown below.
+
+The table below shows how the genera recognized by Nyffler and Eggli are placed into their subfamilies and tribes (they also use some subtribes, not shown here). The column headed "Older tribe (if different)" shows the ICSG classification of the subfamily Cactoideae (as presented by Anderson in 2001) with a 2002 classification of the subfamily Opuntioideae. There are differences in the genera recognized in the systems; where the older system does not recognize the genus, "–" is shown.
+
+
+Earlier classification
+Unless otherwise indicated, the subfamily placement of the genera listed here is based on Anderson's 2001 presentation of the ICSG classification, as is the tribal placement of the genera of the subfamily Cactoideae. The division of the subfamily Opuntioideae into tribes is additional to the ICSG system.
+
+
+Subfamily Pereskioideae
+
+Pereskia Mill.
+synonyms: Peirescia Zucc. (orth. var.), Peireskia Steud. (orth. var.), Perescia Lem. (orth. var.), Rhodocactus (A.Berger) F.M.Knuth
+
+
+Subfamily Opuntioideae
+
+
+Tribe Austrocylindropuntieae
+Austrocylindropuntia Backeb.
+Cumulopuntia F.Ritter
+
+
+Tribe Cylindropuntieae
+Cylindropuntia (Engelm.) F.M.Knuth – chollas
+Grusonia F.Rchb. ex Britton & Rose
+including Corynopuntia F.M.Knuth, Micropuntia Daston
+Pereskiopsis Britton & Rose
+synonyms: Peireskiopsis Vaupel (orth. var.)
+Quiabentia Britton & Rose
+
+
+Tribe Opuntieae
+
+Brasiliopuntia (K.Schum.) A.Berger
+Consolea Lem.
+Miqueliopuntia Fric ex F.Ritter
+Opuntia Mill. – prickly pears
+synonyms: Airampoa Fric, Cactodendron Bigelow, nom. inval., Cactus Lem., Chaffeyopuntia Fric & Schelle, Clavarioidia Kreuz. (nom. inval.), Ficindica St.-Lag., Nopalea Salm-Dyck, Parviopuntia Soulaire & Marn.-Lap. (nom. inval.), Phyllarthus Neck. ex M.Gómez (nom. inval.), Salmiopuntia Fric (nom. inval.), Subulatopuntia Fric & Schelle, Tunas Lunell, Weberiopuntia Fric
+including Nopalea Salm-Dyck
+Salmonopuntia P.V.Heath
+Tacinga Britton & Rose
+Tunilla D.R.Hunt & Iliff
+
+
+Tribe Pterocacteae
+Pterocactus K.Schum.
+
+
+Tribe Tephrocacteae
+Maihueniopsis Speg.
+including Puna R.Kiesling
+Tephrocactus Lem.
+synonyms: Pseudotephrocactus Fric
+
+
+Subfamily Maihuenioideae
+
+Maihuenia (Phil. ex F.A.C.Weber) K.Schum.
+
+
+Subfamily Cactoideae
+
+
+Tribe Browningieae
+Armatocereus Backeb.
+Browningia Cárdenas, Gymnocereus Rauh & Backeb.
+Jasminocereus Britton & Rose
+Neoraimondia Britton & Rose
+synonyms: Neocardenasia Backeb.
+Stetsonia Britton & Rose
+
+
+Tribe Cacteae
+Acharagma (N.P.Taylor) Glass
+Ariocarpus Scheidw. – living rock
+synonyms: Anhalonium Lem., Neogomesia Castañeda, Neogomezia Buxb. (orth. var.), Roseocactus A.Berger, Stromatocactus Karw. ex Rümpler (nom. inval.)
+
+Astrophytum Lem.
+synonyms: Astrophyton Lawr. (orth. var.), Maierocactus E.C.Rost
+Aztekium Boed.
+Chichimecactus Bárcenas, H.M.Hern. & P.Hern.-Led.
+Cochemiea (K.Brandegee) Walton – see Mammillaria
+Coryphantha (Engelm.) Lem. – beehive cactus
+synonyms: Aulacothele Monv. (nom. inval.), Cumarinia Buxb., Glandulifera (Salm-Dyck) Fric, Lepidocoryphantha Backeb., Roseia Fric (nom. inval.)
+Echinocactus Link & Otto – barrel cactus
+synonyms: Brittonrosea Speg., Echinofossulocactus Lawr., Homalocephala Britton & Rose
+Echinomastus Britton & Rose
+Epithelantha F.A.C.Weber ex Britton & Rose – pingpong ball cactus
+Escobaria Britton & Rose – foxtail cactus, pincushion cactus
+synonyms: Cochiseia W.H.Earle, Escobesseya Hester, Fobea Fric (nom. inval.), Neobesseya Britton & Rose
+Ferocactus Britton & Rose – barrel cactus
+synonyms: Bisnaga Orcutt, Brittonia C.A.Armstr. (nom. inval.)
+Geohintonia Glass & W.A.Fitz Maur.
+Leuchtenbergia Hook.
+Lophophora J.M.Coult. – peyote
+
+Mammillaria Haw. – fishhook cactus, globe cactus, pincushion cactus, bird's-nest cactus
+synonyms: Bartschella Britton & Rose, Cactus L., Chilita Orcutt, Cochemiea (K.Brandegee) Walton, Dolichothele (K.Schum.) Britton & Rose, Ebnerella Buxb., Haagea Fric, Krainzia Backeb., Lactomammillaria Fric (nom. inval.), Leptocladia Buxb., Leptocladodia Buxb., Mamillaria F.Rchb. (orth. var.), Mamillopsis (E.Morren) F.A.C.Weber ex Britton & Rose, Mammariella Shafer (nom. inval.), Mammilaria Torr. & A.Gray (orth. var.), Neomammillaria Britton & Rose, Oehmea Buxb., Phellosperma Britton & Rose, Porfiria Boed., Pseudomammillaria Buxb., Solisia Britton & Rose
+Neolloydia Britton & Rose
+synonyms: Napina Fric (nom. inval.), Pseudosolisia Y.Itô (nom. inval.)
+Obregonia Fric
+Ortegocactus Alexander
+Pediocactus Britton & Rose – hedgehog cactus
+synonyms: Navajoa Croizat, Pilocanthus B.W.Benson & Backeb.
+Pelecyphora C.Ehrenb.
+synonyms: Encephalocarpus A.Berger
+
+Sclerocactus Britton & Rose – fishhook cactus
+synonyms: Ancistrocactus Britton & Rose, Coloradoa Boissev. & C.Davidson, Glandulicactus Backeb., Toumeya Britton & Rose
+Stenocactus (K.Schum.) A.W.Hill
+synonyms: Echinofossulocactus Britton & Rose, Efossus Orcutt (orth. var.)
+Strombocactus Britton & Rose
+Thelocactus (K.Schum.) Britton & Rose
+synonyms: Hamatocactus Britton & Rose, Thelomastus Fric (nom. inval.)
+Turbinicarpus (Backeb.) Buxb. & Backeb. – top cactus
+synonyms: Gymnocactus Backeb., Normanbokea Kladiwa & Buxb., Rapicactus Buxb. & Oehme
+
+
+Tribe Calymmantheae
+Calymmanthium F.Ritter
+synonyms: Diploperianthium F.Ritter (nom. inval.)
+
+
+Tribe Cereeae
+Aylostera Speg.
+synonyms: Digitorebutia Frič & Kreuz. ex Buining, Mediolobivia Backeb.
+Arrojadoa Britton & Rose
+synonyms: Pierrebraunia Esteves
+Brasilicereus Backeb.
+Cereus Mill. – sweet potato cactus
+synonyms: Mirabella F.Ritter, Piptanthocereus (A.Berger) Riccob., Subpilocereus Backeb.
+Cipocereus F.Ritter
+synonyms: Floribunda F.Ritter
+Coleocephalocereus Backeb.
+synonyms: Buiningia Buxb.
+
+Melocactus Link & Otto
+synonyms: Cactus Britton & Rose
+Micranthocereus Backeb.
+synonyms: Austrocephalocereus Backeb., Siccobaccatus P.J.Braun & Esteves
+Pilosocereus Byles & G. D. Rowley – tree cactus
+synonyms: Pilocereus K.Schum., Pseudopilocereus Buxb.
+Praecereus Buxb.
+Reicheocactus Backeb.
+Serrulatocereus Guiggi
+Stephanocereus A.Berger
+Uebelmannia Buining
+
+
+Tribe Hylocereeae
+Disocactus Lindl.
+synonyms: Aporocactus Lem., Aporocereus Fric & Kreuz. (orth. var.), Bonifazia Standl. & Steyerm., Chiapasia Britton & Rose, Disisocactus Kunze (orth. var.), Disocereus Fric & Kreuz. (orth. var.), Heliocereus (A.Berger) Britton & Rose, Lobeira Alexander, Mediocereus Fric & Kreuz. (orth. var.), Nopalxochia Britton & Rose, Pseudonopalxochia Backeb., Trochilocactus Linding., Wittia K.Schum., Wittiocactus Rauschert
+
+Epiphyllum Haw. – climbing cactus
+synonyms: Phyllocactus Link, Phyllocereus Miq.
+Hylocereus (A.Berger) Britton & Rose – nightblooming cactus
+synonyms: Wilmattea Britton & Rose
+Pseudorhipsalis Britton & Rose
+Selenicereus (A.Berger) Britton & Rose – moonlight cactus, nightblooming cereus
+synonyms: Cryptocereus Alexander, Deamia Britton & Rose, Marniera Backeb., Mediocactus Britton & Rose, Strophocactus Britton & Rose, Strophocereus Fric & Kreuz. (orth. var.)
+Weberocereus Britton & Rose
+synonyms: Eccremocactus Britton & Rose, Eccremocereus Fric & Kreuz. (orth. var.), Werckleocereus Britton & Rose
+
+
+Tribe Notocacteae
+Austrocactus Britton & Rose
+Blossfeldia Werderm.
+Cintia Kníže & Říha
+Copiapoa Britton & Rose
+synonyms: Pilocopiapoa F.Ritter
+
+Eriosyce Phil.
+synonyms: Ceratistes Labour. (nom. inval.), Chileniopsis Backeb., Chileocactus Fric (nom. inval.), Chileorebutia Fric (nom. inval.), Chiliorebutia Fric (orth. var.), Delaetia Backeb., Dracocactus Y.Itô (nom. inval.), Euporteria Kreuz. & Buining, Hildmannia Kreuz. & Buining, Horridocactus Backeb., Islaya Backeb., Neochilenia Backeb. ex Dölz, Neoporteria Britton & Rose, Neoporteria Backeb., Neotanahashia Y.Itô, Nichelia Bullock (nom. inval.), Pyrrhocactus (A.Berger) A.W.Hill, Rodentiophila F.Ritter ex Backeb., Thelocephala Y.Itô
+Eulychnia Phil.
+synonyms: Philippicereus Backeb.
+Frailea Britton & Rose
+Neowerdermannia Fric
+Parodia Speg.
+synonyms: Acanthocephala Backeb., Brasilicactus Backeb., Brasiliparodia F.Ritter, Brasilocactus Fric (nom. inval.), Chrysocactus Y.Itô (nom. inval.), Dactylanthocactus Y.Itô, Eriocactus Backeb., Eriocephala Backeb., Friesia Fric (nom. inval.), Hickenia Britton & Rose, Malacocarpus Salm-Dyck, Microspermia Fric, Neohickenia Fric, Notocactus (K.Schum.) Fric, Sericocactus Y.Itô, Wigginsia D.M.Porter
+Yavia R.Kiesling & Piltz 
+
+
+Tribe Pachycereeae
+Acanthocereus (Engelm. ex A.Berger) Britton & Rose – triangle cactus
+synonyms: Dendrocereus Britton & Rose, Monvillea Britton & Rose
+Bergerocactus Britton & Rose – snake cactus
+synonyms: Bergerocereus Fric & Kreuz. (orth. var.)
+
+Carnegiea Britton & Rose – saguaro
+Cephalocereus Pfeiff. – old man cactus
+synonyms: Haseltonia Backeb., Neodawsonia Backeb., Pilocereus Lem.
+Corryocactus Britton & Rose
+synonym: Corryocereus Fric & Kreuz. (orth. var.), Erdisia Britton & Rose, Eulychnocactus Backeb. (nom. inval.)
+Dendrocereus Britton & Rose – see Acanthocereus
+Echinocereus Engelm. – hedgehog cactus
+synonyms: Morangaya G.D.Rowley, Wilcoxia Britton & Rose
+Escontria Rose
+Isolatocereus Backeb. – see Stenocereus
+Leptocereus (A.Berger) Britton & Rose
+synonyms: Neoabbottia Britton & Rose
+×Myrtgerocactus Moran
+[= Myrtillocactus × Bergerocactus]
+Myrtillocactus Console
+synonyms: Myrtillocereus Fric & Kreuz. (orth. var.)
+
+Neobuxbaumia Backeb.
+synonyms: Pseudomitrocereus Bravo & Buxb., Rooksbya Backeb.
+×Pacherocactus G.D.Rowley
+[= Pachycereus × Bergerocactus]
+Pachycereus (A.Berger) Britton & Rose
+synonyms: Backebergia Bravo, Lemaireocereus Britton & Rose, Lophocereus (A.Berger) Britton & Rose, Marginatocereus (Backeb.) Backeb., Mitrocereus (Backeb.) Backeb., Pterocereus T.MacDoug. & Miranda
+Peniocereus (A.Berger) Britton & Rose
+synonyms: Cullmannia Distefano, Neoevansia W.T.Marshall, Nyctocereus (A.Berger) Britton & Rose
+Polaskia Backeb.
+synonyms: Chichipia Backeb. (nom. inval.), Heliabravoa Backeb.
+Pseudoacanthocereus F.Ritter
+Stenocereus (A.Berger) Riccob.
+synonyms: Hertrichocereus Backeb., Isolatocereus Backeb., Isolatocereus (Backeb.) Backeb., Machaerocereus Britton & Rose, Marshallocereus Backeb., Neolemaireocereus Backeb., Rathbunia Britton & Rose, Ritterocereus Backeb.
+
+
+Tribe Rhipsalideae
+
+Hatiora Britton & Rose
+synonyms: Epiphyllopsis Backeb. & F.M.Knuth, Hariota DC., Pseudozygocactus Backeb., Rhipsalidopsis Britton & Rose
+Lepismium Pfeiff.
+synonyms: Acanthorhipsalis (K.Schum.) Britton & Rose, Acanthorhipsalis Kimnach, Pfeiffera Salm-Dyck
+Rhipsalis Gaertn.
+synonyms: Cassytha Mill., Erythrorhipsalis A.Berger, Hariota Adans., Lymanbensonia Kimnach
+Schlumbergera Lem. – Christmas cactus, Easter cactus
+synonyms: Epiphyllanthus A.Berger, Epiphyllum Pfeiff., Opuntiopsis Knebel (nom. inval.), Zygocactus K.Schum., Zygocereus Fric & Kreuz. (orth. var.)
+
+
+Tribe Trichocereeae
+Acanthocalycium Backeb.
+synonyms: Spinicalycium Fric (nom. inval.)
+Arthrocereus A.Berger
+Brachycereus Britton & Rose
+
+Cleistocactus Lem.
+synonyms: Akersia Buining, Bolivicereus Cárdenas, Borzicactella H.Johnson ex F.Ritter, Borzicactus Riccob, Borzicereus Fric & Kreuz. (orth. var.), Cephalocleistocactus F.Ritter, Cleistocereus Fric & Kreuz. (orth. var.), Clistanthocereus Backeb., Demnosa Fric, Gymnanthocereus Backeb., Hildewintera F.Ritter, Loxanthocereus Backeb., Maritimocereus Akers, Pseudoechinocereus Buining (nom. inval.), Seticereus Backeb., Seticleistocactus Backeb., Winteria F.Ritter, Winterocereus Backeb.
+Cephalocleistocactus F.Ritter – see Cleistocactus
+Denmoza Britton & Rose
+Discocactus Pfeiff.
+Echinopsis Zucc. – San Pedro cactus
+synonyms: Acantholobivia Backeb., Acanthopetalus Y.Itô, Andenea Fric (nom. inval.), Aureilobivia Fric, nom. inval., Chamaecereus Britton & Rose, Chamaelobivia Y. Itô (nom. inval.), Cinnabarinea Fric ex F.Ritter, Echinolobivia Y.Itô (nom. inval.), Echinonyctanthus Lem., Furiolobivia Y.Itô (nom. inval.), Helianthocereus Backeb, Heterolobivia Y.Itô (nom. inval.), Hymenorebulobivia Fric (nom. inval.), Hymenorebutia Fric ex Buining, Leucostele Backeb., Lobirebutia Fric (nom. inval.), Lobivia Britton & Rose, Lobiviopsis Fric (nom. inval.), Megalobivia Y.Itô (nom. inval.), Mesechinopsis Y.Itô, Neolobivia Y.Itô, Pilopsis Y.Itô (nom. inval.), Pseudolobivia (Backeb.) Backeb., Rebulobivia Fric (nom. inval.), Salpingolobivia Y.Itô, Scoparebutia Fric & Kreuz. ex Buining, Setiechinopsis (Backeb.) de Haas, Soehrensia Backeb., Trichocereus (A.Berger) Riccob.
+Espostoa Britton & Rose
+synonyms: Binghamia Britton & Rose, Pseudoespostoa Backeb., Thrixanthocereus Backeb.,
+Espostoopsis Buxb.
+synonyms: Gerocephalus F.Ritter
+Facheiroa Britton & Rose
+synonyms: Zehntnerella Britton & Rose
+
+Gymnocalycium Pfeiff. ex Mittler – chin cactus
+synonyms: Brachycalycium Backeb.
+Haageocereus Backeb.
+synonyms: Floresia Krainz & F.Ritter ex Backeb. (nom. inval.), Haageocactus Backeb. (nom. inval.), Lasiocereus F.Ritter, Neobinghamia Backeb., Peruvocereus Akers
+× Haagespostoa G.D.Rowley
+[= Haageocereus × Espostoa]
+Harrisia Britton – apple cactus
+synonyms: Eriocereus (A.Berger) Riccob., Roseocereus Backeb.
+Lasiocereus F.Ritter – see Haageocereus
+Leocereus Britton & Rose – see Facheiroa
+Matucana Britton & Rose
+synonyms: Eomatucana F.Ritter
+Mila Britton & Rose
+Oreocereus (A.Berger) Riccob.
+synonyms: Arequipa Britton & Rose, Arequipiopsis Kreuz. & Buining, Morawetzia Backeb., Submatucana Backeb.
+Oroya Britton & Rose
+Pygmaeocereus H.Johnson & Backeb.
+Rauhocereus Backeb.
+
+Rebutia K.Schum.
+synonyms: Aylostera Speg., Bridgesia Backeb., Cylindrorebutia Fric & Kreuz., Digitorebutia Fric & Kreuz., Echinorebutia Fric (nom. inval.), Eurebutia Fric (nom. inval.), Gymnantha Y.Itô, Mediolobivia Backeb., Mediorebutia Fric (nom. inval.), Neogymnantha Y.Itô, Reicheocactus Backeb., Setirebutia Fric & Kreuz. (nom. inval.), Spegazzinia Backeb., Sulcorebutia Backeb., Weingartia Werderm.
+Weberbauerocereus Backeb.
+synonyms: Meyenia Backeb.
+Vatricania Backeb.
+
+
+Notes and references
+
+
+Bibliography
+Anderson, Edward F. (2001), The Cactus Family, Pentland, Oregon: Timber Press, ISBN 978-0-88192-498-5

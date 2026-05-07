@@ -1,0 +1,53 @@
+Title: Potyviridae
+
+Potyviridae is a family of positive-strand RNA viruses that encompasses more than 30% of known plant viruses, many of which are of great agricultural significance. The family contains 13 genera that contain 259 species.
+
+
+Structure
+
+Potyvirid virions are nonenveloped, flexuous filamentous, rod-shaped  particles. The diameter is around 11–20 nm, with a length of 650–950 nm.
+
+
+Genome
+Genomes are linear and usually nonsegmented, around 8–12kb in length, consisting of positive-sense RNA, which is surrounded by a protein coat made up of a single viral encoded protein called a capsid. All induce the formation of virus inclusion bodies called cylindrical inclusions (‘pinwheels’) in their hosts. These consist of a single protein (about 70 kDa) made in their hosts from a single viral genome product.
+Member viruses encode large polypeptides that are cleaved into mature proteins. In 5'–3' order these proteins are
+
+P1 (a serine protease): 83 kDa
+HC (a protease): 51 kDa
+P3: 34 kDa
+6K1: 5 kDa
+Cl (helicase): 71 kDa
+6K2: 6 kDa
+VPg (the 5' binding protein): 20 kDa
+NIa-Pro (a protease): 27 kDa
+NIb (RNA dependent RNA polymerase): 57 kDa
+Capsid protein: 34 kDa
+There may be some variation in the number of the proteins depending on the genera and species. For instance some genera lack P1, some virus of the genus Ipomovirus lack HC and have a P1 tandem. Pretty interesting sweet potato potyviral ORF (PISPO), alkylation B (AlkB), and inosine triphosphate pyrophosphatase (known as ITPase or HAM1) are protein domains identified in atypical members.
+
+
+Life cycle
+
+Viral replication is cytoplasmic. Entry into the host cell is achieved by penetration. Replication follows the positive-stranded RNA virus replication model. Positive-stranded RNA virus transcription is the method of transcription. Translation takes place by −1 ribosomal frameshifting. The virus exits the host cell by tubule-guided viral movement. Plants serve as the natural host. The virus is transmitted via a vector (often an insect or mite). Transmission routes are vector and mechanical.
+
+
+Transmission
+Potyvirus is the largest genus in the family, with 183 known species. These viruses are 720–850 nm in length and are transmitted by aphids. They can also be easily transmitted by mechanical means. These viruses shared a common ancestry 6,600 years ago and are transmitted by over 200 species of aphids.
+The species in the genus Macluravirus are 650–675 nm in length and are also transmitted by aphids. The plant viruses in the genus Ipomovirus are transmitted by whiteflies and they are 750–950 nm long. Tritimovirus and the Rymovirus viruses are 680–750 nm long and are transmitted by eriophydid mites. (The rymoviruses are closely related to the potyviruses and may eventually be merged with the potyviruses.) The Bymovirus genome consists of two particles instead of one (275 and 550 nm) and these viruses are transmitted by the chytrid fungus, Polymyxa graminis.
+
+
+Taxonomy
+
+The family contains the following genera:
+
+
+See also
+Longan witches broom-associated virus
+
+
+References
+
+
+External links
+
+ICTV Online (10th) Report: Potyviridae
+Viralzone: Potyviridae

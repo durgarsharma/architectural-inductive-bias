@@ -1,0 +1,36 @@
+Title: TEM cell
+
+A TEM or transverse electromagnetic cell is a type of test chamber used to perform electromagnetic compatibility (EMC) or electromagnetic interference (EMI) testing. It allows for the creation of far field electromagnetic fields in a small enclosed setting, or the detection of electromagnetic fields radiated within the chamber.
+
+
+Description
+A TEM cell is an enclosure acting as an electromagnetic transducer that is shielded to provide isolation from external electromagnetic fields. Within the enclosure lies conductive material, forming a section of transmission stripline that can be connected to standard coaxial cables. The interior of the cell acts as a waveguide and converts electric signals into homogeneous electromagnetic fields with approximately transverse mode distribution, similar to free space. The electric and magnetic field inside the cell can be accurately predicted using numerical methods. The original design of the cell is rectangular in shape, although many variations and improvements have been made since its creation in the early 1970's.
+
+
+Principles of operation
+The cell acts to either receive internal emissions or transmit emissions within the chamber.
+
+When measuring radiated emissions, one end of the stripline is connected to a spectrum analyzer. The other end is terminated with an RF load.
+When performing radiated immunity, one end of the stripline is connected to a source of radiation (e.g. a signal generator). The other end is terminated with an RF load.
+In operation, emitted radiation (whether from an antenna or from the DUT) travels along the length of the chamber and is absorbed by the absorbent load at the end.
+For immunity tests, the field uniformity and the cross-polar coupling of the cell have to be within certain limits set by IEC 61000-4-20.
+
+
+Variations
+
+
+GTEM cell
+A GTEM cell is a design variation of the TEM Cell that allows the cell to operate in the Gigahertz frequency range. The external enclosure forms a long rectangular base pyramid. The GTEM is terminated on a lined surface made of radiation-absorbent material such as carbon-loaded foam, and absorbers line the side walls. A slightly spherical wave propagates from the source to the tapered waveguide, and since the solid opening angle is small, the undistorted spherical wave can be considered a plane wave. The termination load section uses absorbing material for an electromagnetic wave and a distributed resistive load for current termination. At low frequencies, it operates as a circuit 50 Ohm load; at high frequencies, the absorbers attenuate the incident waves as in an anechoic chamber, In this way, a termination from DC to several Gigahertz is achieved. Some restrictions and compromises limit the applications such as:
+
+The DUT dimension is limited to 1/3 – 1/2 of the internal cell height to maintain a safe distance that doesn't interfere with measurements of immunity and emissions ensuring uniformity of the EM-Field volume within +/-3dB or +/-5dB respectively.
+Surface resistivity of the conductive metal adopted in the GTEM case (stainless steel is not suitable in the GHz range due to its surface resistivity being too high).
+Choice and quality of the type of the absorber material (carbon foam is inefficient under 80MHz, while a combination of hybrid absorbers is able to cover the frequency range from DC to over 20GHz)
+Increasing the operating frequency of the cell over GHz increases the percentage of non-transverse mode components (Not TEM Mode) that decrease the quality of the measure introducing complex and cross-polarization mode.
+
+
+References
+
+
+Bibliography
+Nothofer, A, Alexander, M J, Bozec, D, Marvin, A and McCormack, L; Measurement Good Practice Guide No. 65: The use of GTEM cells for EMC measurements, National Physics laboratory, 2003. ISSN 1368-6550.
+Using GTEM cells for immunity testing - Evaluation Engineering

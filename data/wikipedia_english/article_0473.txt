@@ -1,0 +1,53 @@
+Title: DWCP-DTV
+
+DWCP-DTV (channel 21) is a television station in Metro Manila, Philippines, serving as the flagship of the SolarFlix network. The station is owned by Southern Broadcasting Network through its licensee and subsidiary of Solar Entertainment Corporation. Its studios are located at the Third Floor Worldwide Corporate Center, Shaw Boulevard corner EDSA, Mandaluyong (shares facilities with Solar's former subsidiary Nine Media), while its hybrid digital transmitting facility is located at the Solar Entertainment Complex, along Nuestra Señora Dela Paz Subdivision, Barangay Sta. Cruz, Antipolo, Rizal.
+DWCP-TV became the first local UHF TV station in Metro Manila that began broadcast in May 1992 as World TV 21. It operates daily from 8:00am to 12:00mn on terrestrial television, with programming available 24 hours daily across cable and satellite providers.
+
+
+History
+The Southern Broadcasting Network (SBN) of Davao launched SBN Channel 21, marking it as the first local UHF TV station in Metro Manila since 1992. Initially, it was known as World TV 21 and operated by the Kampana Television Corporation. This corporation provided programming content sourced from ABC, CNN, and ESPN. The station's founding vision was to offer similar content to that of the FEN Channel 17 of the former Clark US Air Base, which had been forcibly shut down a year earlier following the Eruption of Mt. Pinatubo.
+A significant shift occurred on January 1, 2008, when Solar Entertainment began leasing airtime on SBN and chose to broadcast programming from its entertainment channel, ETC. This initial partnership concluded on March 2, 2011, as Solar transferred ETC to RPN after the network's privatization. Consequently, SBN and Solar Entertainment renewed their collaboration to create the news network Talk TV. The channel's identity evolved again on October 30, 2012, when it was renamed the Solar News Channel (SNC).
+A subsequent major programming move took place on December 1, 2013, when SNC's programming was moved to RPN to achieve wider national coverage. As a result, ETC returned to SBN the day before.
+In 2015, SBN upgraded its transmission infrastructure. It ceased using its old analog transmitter tower located at the Strata 2000 building in Pasig. This move was particularly notable, as the old tower had remained in use even after Solar's purchase of SBN, a fact evident in the old sign-on and sign-off sequences. The network began utilizing Solar's newly constructed tower in Antipolo, resulting in clearer and better signal reception for both its analog and digital broadcasts.
+Finally, on September 12, 2019, SBN concluded its analog signal transmission, transitioning fully in favor of digital TV broadcast.
+
+
+Areas of coverage
+
+
+Primary areas
+Metro Manila
+Bulacan
+Cavite
+Rizal
+
+
+Secondary areas
+Portion of Pampanga
+Portion of Batangas
+Portion of Laguna
+Portion of Bataan
+
+
+Technical information
+
+SBN launched its digital television broadcast in 2015, alongside another digital signal from Byers Communications. Solar Entertainment supplies its DTV channels through the new platform, allowing the company to launch the Easy TV DTT service. For unknown reasons, the transmitter's encryption system was activated throughout its run, making two of the station's subchannels receivable only on set-top boxes with this capability. The technical issue was fixed by September 25, 2017.
+The station remained on the air, despite Easy TV's close of operations on September 30, 2019 but it ceases all of its freemium channels and remaining its free-to-air channels.
+
+
+Digital television
+
+
+Subchannels
+DWCP-TV operates on UHF Channel 21 (515.143 MHz), and is multiplexed into the following subchannels:
+
+
+Analog-to-digital transition
+DWCP-TV terminated its analog signal on UHF channel 21, on September 12, 2019, as preparation for the Philippines' transition to digital terrestrial television. The station then flashcut its digital signal from its pre-transition channel 22 to the analog-era channel 21 for post-transition operations.
+
+
+See also
+Southern Broadcasting Network
+
+
+References

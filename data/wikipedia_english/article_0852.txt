@@ -1,0 +1,163 @@
+Title: List of artiodactyls
+
+Artiodactyla is an order of placental mammals composed of even-toed ungulates – hooved animals which bear weight equally on two of their five toes with the other toes either present, absent, vestigial, or pointing posteriorly – as well as their descendants, the aquatic cetaceans. Members of this order are called artiodactyls. The order is sometimes named Cetartiodactyla, in reference to the inclusion of cetaceans in the order beginning in the 1990s. Artiodactyla currently comprises 349 extant species, which are grouped into 132 genera. Artiodactyls live on every major landmass and throughout the oceans and in a variety of habitats, including forests, grasslands, and deserts. They come in a wide array of body plans in contrasting shapes and sizes, ranging from the 38 cm (15 in) long and 2.5 kg (5.5 lb) royal antelope to the 27 m (89 ft) long and 120 ton blue whale. Some artiodactyls, such as cattle, goats, sheep, pigs, water buffalo, camels, and llamas, have been domesticated, resulting in a worldwide distribution and population sizes for some animals of over one billion.
+Artiodactyla is divided into four suborders: Ruminantia, Suina, Tylopoda, and Whippomorpha. The suborders are further subdivided into clades and families. Ruminantia contains six families, Antilocapridae, Bovidae, Cervidae, Giraffidae, Moschidae, and Tragulidae, and includes ruminant animals such as cattle, antelope, deer, and sheep. Suina contains two, Suidae and Tayassuidae, and includes pigs and peccaries; Tylopoda comprises only Camelidae, the camels and llamas; and Whippomorpha contains fourteen, Balaenidae, Balaenopteridae, Cetotheriidae, Delphinidae, Iniidae, Kogiidae, Lipotidae, Monodontidae, Phocoenidae, Physeteridae, Platanistidae, Pontoporiidae, Ziphiidae, and Hippopotamidae, and includes the aquatic whales and dolphins as well as hippopotamuses. The exact organization of the species is not fixed, with many recent proposals made based on molecular phylogenetic analysis. Three species have gone extinct since 1500 CE: the aurochs and the bluebuck in Bovidae and Schomburgk's deer in Cervidae. Additionally, the red gazelle in Bovidae is considered either extinct or to have never existed; the kouprey in Bovidae is potentially extinct, with no sightings since 1969; and so is the baiji in Lipotidae, last seen in 2002. Several other species are extinct in the wild or critically endangered.
+
+
+Conventions
+The author citation for the species or genus is given after the scientific name; parentheses around the author citation indicate that this was not the original taxonomic placement. Range maps are provided wherever possible; if a range map is not available, a description of the collective range of species in that genera is provided. Ranges are based on the International Union for Conservation of Nature (IUCN) Red List of Threatened Species unless otherwise noted. All extinct genera or species listed alongside extant species went extinct after 1500 CE, and are indicated by a dagger symbol "†".
+
+
+Classification
+The order Artiodactyla consists of 349 extant species belonging to 132 genera. This does not include hybrid species or extinct prehistoric species. Modern molecular studies indicate that the 132 genera can be grouped into 23 families; these families are grouped into named suborders and many are further grouped into named clades, and some of these families are subdivided into named subfamilies.
+
+
+Artiodactyls
+The following classification is based on the taxonomy described by Mammal Species of the World (2005), with augmentation by generally accepted proposals made since using molecular phylogenetic analysis.
+
+
+Suborder Ruminantia
+
+
+Infraorder Pecora
+
+
+Family Antilocapridae
+Members of the Antilocapridae family are called antilocaprids; the family is composed of a single extant species, the pronghorn.
+
+
+Family Bovidae
+
+Members of the Bovidae family are bovids and include sheep, cattle, goats, antelope, and others. Bovidae comprises 144 extant species, divided into 52 genera. These genera are grouped into eight subfamilies: Aepycerotinae, or the impala; Alcelaphinae, containing the bontebok, hartebeest, wildebeest, and relatives; Antilopinae, containing several antelope, gazelles, and relatives; Bovinae, containing cattle, buffalos, bison, and other antelopes; Caprinae, containing goats, sheep, ibex, serows and relatives; Cephalophinae, or duikers; Hippotraginae, containing the addax, oryx, and relatives; and Reduncinae, or reedbuck and kob antelopes.
+
+
+Family Cervidae
+
+Members of the Cervidae family are cervids, or colloquially deer. Cervidae comprises 53 extant species, divided into 19 genera. These genera are grouped into two subfamilies: Capreolinae, or New World deer, and Cervinae, or Old World deer.
+
+
+Family Giraffidae
+
+Members of the Giraffidae family are giraffids, and are the giraffes and the okapi. Giraffidae comprises five extant species in two genera.
+
+
+Family Moschidae
+
+Members of the Moschidae family are moschids, or colloquially musk deer. Moschidae contains seven extant species in a single genus.
+
+
+Family Tragulidae
+
+Members of the Tragulidae family are tragulids, or colloquially chevrotains or mouse-deer. Tragulidae contains 10 extant species in 3 genera.
+
+
+Suborder Suina
+
+
+Family Suidae
+Members of the Suidae family are suids, or colloquially pigs, hogs, or boars. Suidae comprises 17 extant species, divided into 6 genera, and is not split into subfamilies.
+
+
+Family Tayassuidae
+Members of the Tayassuidae family are tayassuids, or colloquially peccaries. Tayassuidae comprises 3 extant species in 3 genera, and is not split into subfamilies.
+
+
+Suborder Tylopoda
+
+
+Family Camelidae
+
+Members of the Camelidae family are camelids, and include camels, llamas, and alpacas. Camelidae contains 7 extant species in 2 genera.
+
+
+Suborder Whippomorpha
+
+
+Infraorder Cetacea
+
+
+Parvorder Mysticeti
+
+
+Family Balaenidae
+
+Members of the Balaenidae family are balaenids, or colloquially right whales. Balaenidae contains four species in two genera.
+
+
+Family Balaenopteridae
+
+Members of the Balaenopteridae family are balaenopterids, or colloquially rorquals. Balaenopteridae contains eleven species in three genera.
+
+
+Family Cetotheriidae
+
+Members of the Cetotheriidae family are cetotheriids; the only extant species is the pygmy right whale.
+
+
+Parvorder Odontoceti
+
+
+Family Delphinidae
+
+Members of the Delphinidae family are delphinids, or colloquially oceanic dolphins. Delphinidae contains 37 species in 19 genera, which are grouped into four named subfamilies: Delphininae, Lissodelphininae, Globicephalinae, and Orcininae, as well as one unnamed group.
+
+
+Family Iniidae
+
+Members of the Iniidae family are inniids, and are part of a grouping colloqially termed river dolphins along with Lipotidae, Platanistidae and Pontoporiidae. Iniidae contains four species in one genus.
+
+
+Family Kogiidae
+
+Members of the Kogiidae family are kogiids, and are part of the sperm whale superfamily Physeteroidea; the family contains two species in one genus.
+
+
+Family Lipotidae
+
+Members of the Lipotidae family are lipotids and are part of the river dolphin grouping along with Iniidae, Platanistidae and Pontoporiidae; the only extant species is the baiji.
+
+
+Family Monodontidae
+
+Members of the Monodontidae family are monodontids and comprises two living whale species in two genera, the narwhal and the beluga whale.
+
+
+Family Phocoenidae
+
+Members of the Phocoenidae family are phocoenids, or colloquially porpoises. Phocoenidae contains eight species in three genera.
+
+
+Family Physeteridae
+
+Members of the Physeteridae family are physeterids, and are part of the sperm whale superfamily Physeteroidea; the only extant species is the sperm whale.
+
+
+Family Platanistidae
+
+Members of the Platanistidae family are platanistids, and are part of a grouping colloqially termed river dolphins along with Iniidae, Lipotidae, and Pontoporiidae. Platanistidae contains two species in one genus.
+
+
+Family Pontoporiidae
+
+Members of the Pontoporiidae family are pontoporiids, and are part of a grouping colloqially termed river dolphins along with Iniidae, Lipotidae, and Platanistidae. The only extant species is the La Plata dolphin.
+
+
+Family Ziphiidae
+
+Members of the Ziphiidae family are ziphiids, or colloquially beaked whales. Ziphiidae contains 23 species in 6 genera, which are grouped into three named subfamilies: Berardiinae, Hyperoodontinae, and Ziphiinae.
+
+
+Family Hippopotamidae
+
+Members of the Hippopotamidae family are hippopotamids, or colloquially hippopotamuses or hippos. Hippopotamidae contains 2 species in 2 genera.
+
+
+See also
+Mammal classification
+List of bovids
+
+
+References
+
+
+Sources
