@@ -1,0 +1,23 @@
+Title: IPO13
+
+Importin-13 is a protein encoded by the IPO13 gene in humans. Importin-13 is a member of the importin-β family of nuclear transport receptors (NTRs) and was first identified as a transport receptor in 2000. According to PSI-blast based secondary structure PREDiction (PSIPRED), importin-13 contains 38 α-helices. Importin-13 accommodates a range of cargoes due to its flexible superhelical structure and a cargo binding and release system that is distinct from other importin-like transport receptors. IPO13 is broadly expressed in a variety of tissues in the human body, including the heart, cornea, fetal lung, brain, endometrial carcinoma, and testes.
+
+
+Nucleocytoplasmic transport
+In eukaryotic cells, macromolecules larger than ~40 kDa are actively transported between the nuclear and cytosolic compartment through nuclear pore complexes (NPCs) via soluble transport receptors. Importin-β-like factors are the largest class of NTRs and are classified as importins or exportins based on the direction of cargo transport and their response to the RanGTP gradient across the nuclear envelope. Importins load their cargoes in the cytoplasm in the absence of RanGTP and release their cargoes in the nucleus upon binding RanGTP. Exportins bind their cargoes in the nucleus in the presence of RanGTP and release their cargoes in the cytoplasm upon RanGTP hydrolysis. Unlike other importins, importin-13 is a versatile nuclear transport receptor with a bidirectional transport capacity, such that it mediates the nuclear import of certain cargoes and the nuclear export of other cargoes. Other nuclear transport receptors reported to facilitate both the nuclear import and export of macromolecules are exportin 5 (Msn5 in yeast) and exportin 4.
+The C-terminal arch of most importins is the primary binding site for cargoes. Due to its bidirectional transport capacity, different regions of importin-13 interact with cargoes to facilitate import or export. For example, ubiquitin-conjugation enzyme 9 (Ubc9) primarily interacts with the N-terminal region, and characterization of crystal structures of importin-13 indicates that almost all known nuclear import cargoes bind to its N-terminal regions. Low total or active concentrations of importin-13 in the nucleus show that importin-13 is a rate-limiting factor for nuclear import and export of cargo proteins.
+
+
+Interactions
+At least 255 importin-13 substrates have been identified. According to Baade et al., the major import cargoes of importin-13 are Ubc9, CHRAC1, and POLE3. Other known importin-13 import cargoes are MAGOH, NFYB, DR1, DRAP1, RBM8, paired type homeodomain transcription factors (TFs), myopodinm, the glucocorticoid receptor (GR), RFPL3, and the RBM8-MGN complex. The major export cargo of importin-13 is EIF1A. Other known importin-13 export cargoes include HMG20A and E1F4G2. Additionally, importin-13 regulates the nuclear export of the transcription factors SPI and KLF4 under conditions of oxidative stress.
+Several importin-13 import cargoes bind to importin-13 only as heterodimers and no interaction is observed with the monomers alone. such as with the nuclear import of the NF-YB/NF-YC complex. Walter et al. demonstrated that importin-13 mediates the nuclear import of the histone fold pairs CHRAC-15/17 and p12/CHRAC-17 only in the heterodimerized forms of these substrates. Furthermore, the importin-13 binding platform involves positively charged amino acids conserved between the histone fold subunits, suggesting that the binding and transportation of the heterodimers via importin-13 are driven by electrostatic interactions.
+
+
+Function
+Importin-13 plays an important role in the regulation of brain and lung development, spermatogenesis and spermiogenesis, embryonic stem cell differentiation, the nuclear import of c-Jun in melanoma cells, and the transcriptional response to oxidative stress.
+
+
+References
+
+
+Further reading

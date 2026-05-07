@@ -1,0 +1,227 @@
+Title: Transall C-160
+
+The Transall C-160 is a military transport aircraft, produced as a joint venture between France and Germany.  "Transall" is a German abbreviation of the manufacturing consortium Transporter Allianz, comprising the companies of MBB, Aérospatiale, and VFW-Fokker.
+The C-160 was developed during the late 1950s and 1960s with the initial goal of fulfilling the requirements for a modern transport aircraft for both the French and German Air Forces. On 25 February 1963, the first prototype performed its maiden flight; the type entered service four years later. Production was divided between the German and French consortium members; early on, multiple production lines were operated, but this was reorganised to use a single assembly line in Toulouse during the late 1970s. In addition to the type's domestic sales, the C-160 achieved some success on the export market; such customers included the South African Air Force and Turkish Air Force as well as a number of civilian operators.
+The C-160 has had a lengthy service life, during which it has provided logistical support during numerous overseas operations, including the invasion of Cyprus, the South African Border War, and the Gulf War. Furthermore, it has adapted to fulfil several specialist roles, such as an aerial refueling tanker, electronic intelligence gathering, and as a communications platform. In French and German service, the C-160 has been replaced by the larger and newer Airbus A400M Atlas, and a small number of Lockheed-Martin C-130J Super Hercules during the early twenty-first century. Nevertheless, the C-160 remains in active service more than 60 years after the type's first flight in 1963.
+
+
+Development
+
+
+Origins
+In the late 1950s, a requirement arose to replace the piston-engined Nord Noratlas transports operated by the air forces of both France (Armée de l'Air) and Germany (Luftwaffe). Keen to encourage industrial co-operation between the two countries, as had happened under a previous arrangement in which Noratlases for German service had been built under license by Weser Flugzeugbau, France and Germany signed an agreement for the development of a Noratlas successor on 28 November 1957. The Italian government also became involved in the project early on to meet their own requirements, however Italy's participation in the fledgling program was soon terminated in favour of the smaller and locally-built Fiat G.222.
+The consortium, "Transporter-Allianz" or Transall, was formed in January 1959 between the French company Nord Aviation and the German companies Weser Flugzeugbau (which became Vereinigte Flugtechnische Werke (VFW) in 1964) and Hamburger Flugzeugbau (HFB) to design and build the new transport. The new aircraft was required to carry a 16,000 kilograms (35,000 lb) cargo over a range of 1,720 kilometres (930 nmi; 1,070 mi) or a load of 8,000 kg (18,000 lb) over a range of 4,540 km (2,450 nmi; 2,820 mi) and be able to operate out of semi-prepared airstrips. One prototype was built by each of the production partners, with the first (built by Nord) flying on 25 February 1963, with the VFW and HFB-built prototypes following on 25 May 1963 and 19 February 1964. These were followed by six pre-production examples, stretched by 51 centimetres (20 in) compared with the prototypes, which flew between 1965 and 1966.
+
+
+Production
+Production orders were delayed by attempts by Lockheed to sell its C-130 Hercules transport to Germany; these attempts were rebuffed, and a contract was signed for 160 C-160s (110 for Germany and 50 for France) on 24 September 1964. Manufacturing work was split between Germany and France in line with the number of orders placed; Nord built the wings and engine nacelles, VFW the centre fuselage and horizontal tail, and HFB the forward and rear fuselage. The aircraft's tail fin was to be built by Dornier. Three production lines were set up to assemble these components at each of the three main partners.
+The first production airframes were delivered to France and Germany from 1967. The first batch included 110 C-160Ds for the German Air Force (Luftwaffe), 50 C-160Fs for the French Air Force, and nine C-160Zs for the South African Air Force. Four C-160Fs were converted to C-160P air mail transport aircraft, and were operated by Air France. Production continued until October 1972. Britain expressed interest in both procuring and manufacturing C-160s; while talks took place between Transall, the British Aircraft Corporation, and the British Government, the C-130 was opted for instead.
+In July 1977, France placed an order for 25 aircraft to be built to an improved standard. Production work for the new variant was split 50-50 between Aérospatiale (the successor to Nord) and MBB (which had absorbed VFW and HFB), with a single assembly line in Toulouse. The cargo loading door on the port side of the fuselage was replaced by provision for additional fuel tanks in the wing centre section. When fitted these tanks increased fuel capacity from 19,000 litres (4,190 imp gal) to 28,000 litres (6,170 imp gal). The aircraft were also fitted with updated avionics. The first second generation C-160 took flight in 1981. Aircraft produced in this batch included 29 for France (an additional four non-standard aircraft were constructed for special missions), and 6 for Indonesia.
+
+
+Design
+
+
+Overview
+
+The Transall C-160 is a twin-engine tactical transport featuring a cargo hold, a rear-access ramp beneath an upswept tail, a high-mounted wing and turboprop engines. The C-160 is designed to perform cargo and troop transport duties, aerial delivery of supplies and equipment and is designed to be compatible with international railway loading gauges to simplify cargo logistics and loading. In flight the cargo area is pressurised and kept at a constant temperature by integrated air conditioning systems.
+
+Additionally, the landing gear can be partially retracted while on the ground. This lowers the C-160, making it easier to move vehicles into the hold as they don't need to climb a ramp.
+One aspect of the C-160 that made the type well suited to tactical operations is its short airfield performance, including the ability to perform steep descents of up to 20 degrees and perform landings on airstrips as short as 400 meters. In the airlift role, a later production C-160 could carry up to 8.5 tons across a distance of 5,000 kilometers, and take off from airstrips as short as 700 meters. Dependent upon aircraft configuration, a single aircraft could airdrop as many as 88 paratroopers or transport up to 93 equipped troops.
+The C-160 is powered by a pair of Rolls-Royce Tyne turboprop engines, which drive a pair of four-bladed Dowty Rotol propellers. Advantages of the twin-engine configuration over four include reduced unit and production cost, lower weight and fuel consumption, simplified design and reliability. Each engine is equipped with an auxiliary generator system, providing the aircraft with both electricity and hydraulic pressure. An auxiliary power unit (General Electric CJ610) is used to power the aircraft while on the ground, and for rare use in mid-air emergencies.
+
+
+Upgrades and improvements
+An updated second generation of the C-160 was produced during the 1980s. Amongst changes made, the new variant was equipped with additional fuel tankage, aerial refuelling probes and enhanced avionics. While there were considerable changes to instrumentation, including the navigational and autopilot systems, the second generation C-160 retained the original operating characteristics to simplify crew transfers between types. The second generation C-160s were also designed for potential adaptation to other roles such as maritime patrol and aerial fire fighting.
+
+The C-160 proved to be a versatile aircraft, leading to a long operational service life. Between its introduction and 1999, approximately 2000 modifications and upgrades were incorporated upon the type, split 60/40 between the structure and equipment respectively. Many changes were made over time in regards to the aircraft's avionics, incorporating new features such as GPS and laser inertial navigation systems, modern autopilot and crew management systems.
+Other improvements and additions to the type include kevlar armour, electronic warfare management systems, chaff/flare dispensers, missile approach warning systems and TCAS collision warning system. Extensive efforts have been made by both France and Germany to extend the aircraft's operating lifespan up to and if necessary beyond 55 years to 2018. In 2003–2004, Germany signed separate contracts with Terma A/S and Northrop Grumman to upgrade the aircraft's electronic warfare self-protection and missile approach warning systems.
+
+
+Operational history
+
+In July 1974, the Turkish Air Force used 7 C-160Ds during the invasion of Cyprus, to transport troops, drop paratroopers and carry supplies. Having entered service with the Turkish armed forces in 1971, these aircraft provided a great amount of lift during the operation.
+In April 1976, the French Air Force used 12 C-160s in support of Operation Verveine, airlifting Moroccan troops and equipment to Zaïre during a border conflict with Angola.  In May 1978, several C-160s dropped paratroopers of the French Foreign Legion during the Battle of Kolwezi.
+In 1977, the French Air Force ordered an updated version designated C-160NG, for Nouvelle Génération ("New Generation"). From 1981, 29 of these aircraft were delivered, half of them configured as tanker aircraft for aerial refuelling. Another four were configured as C-160H Astarté TACAMO aircraft for communication with submerged submarines, a vital component of France's nuclear deterrent system.
+In a final conversion, two aircraft were furnished for SIGINT electronic surveillance, designated C-160G Gabriel, replacing the Noratlases that had been in this role previously. In routine operations, the C-160Gs would often supplement France's Boeing E-3 Sentry AWACS aircraft. In 1991, a SIGINT-equipped C-160G was deployed as part of France's contribution to Coalition forces during and after the Gulf War to support a no-fly zone and embargoing of Iraq.
+
+C-160s were in continuous use to support French bases in sub-Saharan Africa; the tanker variants also proved valuable in supporting African operations. The C-160 fleet was the staple of the French military airlift capability for many years, supplemented by small numbers of McDonnell Douglas DC-8s, CASA/IPTN CN-235 and Lockheed C-130 Hercules as of 1990.
+During the South African Border War during the late 1980s, the South African Air Force's C-160s were vital for deploying and supplying troops in the border region and into positions in southern Angola due to the otherwise-impassable terrain. The importance of airpower in the war led to a great deal of the fighting being centred upon remote airstrips, both sides trying to gain or deny the same advantageous positions and place stress upon the opposing force's logistical efforts. In one particular mission, a C-160 was used to move a captured SA-8 from Angola to South Africa. The C-160 was chosen for this task over the C-130 because of its larger cargo hold and its ability to lower its hull while on the ground, which facilitated the loading of the heavy vehicle.
+The C-160 has been a prominent component of several other international efforts. Germany's C-160 fleet has been used to support peacekeeping efforts in Sudan, a regular detachment of C-160s was also dispatched in support of the multinational International Security Assistance Force presence in the Afghanistan. Both French and German C-160s were used in supporting Operation Serval, the French-led intervention in the Northern Mali conflict. For either humanitarian or military purposes, C-160s have conducted extensive operations in a number of nations, including Mauritania, Niger, Chad, Ethiopia, Bosnia, and Lebanon.
+
+Starting in 1984 onwards, German airframes underwent LEDA I and LEDA II life extension measures, which were focused on the wings. Subsequent programs carried out in the 1990s, such as LEDA III, concentrated on the whole structure of the aircraft; raising the airframe life from 8,000 flights to 12,000 flights, and introducing new avionics systems such as a self-defence system and a replacement flight management system.
+From 1994 to 1999, all French C-160s underwent an avionics upgrade and the addition of new anti-missile countermeasures. The C-160Fs and NGs so updated were redesignated C-160R (Renové—"renovated"). In 2009, the French Defence Ministry announced a modernisation of the C-160 fleet, enabling it to continue in service until 2018 if required.
+In late 2011, it was announced that Germany's Transall fleet had accumulated a combined total of one million flight hours. As of 2012, the global C-160 fleet was approaching the end of its service life; all South African C-160s have already been retired, while the Turkish Air Force continued to operate 20 aircraft obtained from Germany (C-160T). To replace the Transall, the German, French and South African Air Forces ordered 60, 50 and eight Airbus A400Ms, respectively; the South African order was later cancelled.
+In 2015, it was announced that the retirement of Germany's Transall fleet had been pushed back from 2018 to 2021 due to delays with the Airbus A400M; until 2021, a decreasing number of aircraft shall remain in service to perform missions that require the Transall's self-protection suite. The last German Transall wing was disbanded in December 2021.
+
+
+Variants
+
+Prototypes
+Three prototypes were built, one by each production company.
+V1 was built by Nord Aviation at Bourges, France and first flew on 25 February 1963.
+V2 was built by VFW at Lemwerder, Germany and first flew on 25 May 1963
+V3 was built by HFB at Hamburg-Finkenwerder and first flew on 19 February 1964.
+Pre-production
+C-160A
+Six pre-production aircraft were built for Franco-German trials.
+Proposed versions
+C-160C
+Proposed commercial derivative, including a stretched 150-passenger version.
+
+
+First-generation production
+
+The initial production run of 169 aircraft were built by the three companies in France and Germany; Nord built 56 aircraft, VFW built 57 aircraft and HFB/MBB 56 (HFB became part of Messerchmitt-Bolkow-Blohm in 1969 during the production run). All three production lines produced a mixture of aircraft for France and Germany but the South African aircraft were all built by Nord.
+
+C-160D
+Production aircraft for the West German Air Force; 110 were built. Twenty of these aircraft were delivered to Turkish Air Force in 1971 as C-160T. A few of the remaining German C-160 were fitted with the self-protection suite called ESS.
+C-160F
+Production aircraft for the French Air and Space Force; 50 were built.
+C-160P
+Conversion of four C-160Fs for use by the French Postal Service.
+C-160Z
+Production aircraft for the South African Air Force; nine were built.
+
+
+Second-generation production
+From 1981 on, some new C-160 versions reached the wings of Armee de l'Air. The now C-160NG (Nouvelle Generation, New Generation) called aircraft has a fifth fuel tank in the middle of the wing above the fuselage, a refueling probe while the left side cargo door was removed. Some first-production series C-160F were fitted with the NG-versions changes and renamed C-160R (Renové).
+Beside these changes, in 1989, the French Air Force introduced the C-160G Gabriel variant, a SIGINT aircraft easily to distinguish because of the antennas fitted to the aircraft.
+Until the early 2000s, also the C-160H Astarte was used, while Astarté (Avion Station Relais de Transmissions Exceptionelles), meaning "airborne relay station for special transmissions", was used for communication with submerged French nuclear submarines.
+
+
+Operators
+
+
+Military operators
+ Turkey
+Turkish Air Force – 20 former West German Air Force C-160Ds delivered in 1971. Only 8 remain in service as of 2023.
+221 Filo at Erkilet
+
+
+Civil operators
+ Australia
+Wieland Aviation Group Pty Ltd, Warnervale, New South Wales: 3 C-160D ex-Luftwaffe aircraft bought in September 2022 and registered VH-RFW, VH-RPR, VH-TIT. The company intends to convert these planes into water bombers for firefighting.
+
+
+Former operators
+Military
+
+ France
+French Air and Space Force – 78
+50 C-160F (+ 3 pre-production aircraft) :
+61e Escadre de Transport at Orléans – Bricy Air Base (the wing used a centralised aircraft maintenance system and the Transalls did not carry individual squadron markings)
+Escadron de Transport 1/61 Touraine was the first French squadron which operated the C-160F, from November 1967 to 2012. Now has received its first A-400Ms;
+Escadron de Transport 2/61 Franche-Comté operated the C-160F from August 1969 to 1988. Now uses the C-130H Hercules;
+Escadron de Transport 3/61 Poitou has been operating the C-160F since October 1970, and still has some aging planes, due to delays in the development program of the new Airbus A-400M transport aircraft.
+25 C-160NG :
+64e Escadre de Transport at Évreux-Fauville Air Base
+Escadron de Transport 1/64 Béarn, has been operating its aircraft since December 1981 until unknown;
+Escadron de Transport 2/64 Anjou, has been operating its aircraft since April 1982;
+Two of these NG variant aircraft have been transformed into the electronic warfare variant C-160G "Gabriel", used in the "Escadron électronique aéroporté 1/54 Dunkerque" (Airborne Electronic Squadron);
+Four NGs have been converted into the C-160H communications relay variant, in use in the "Escadron avion 1/59 Bigorre" (Châteaudun Air Base) between 1988 and 2001. They are now retired and used as spare parts providers;
+Between 1973 and 1985, four C-160F have been converted to a C-160P variant, which was used by the Aéropostale company. These are now retired and used as wreckages for firemen training. Since 1999, all the F and NG aircraft operated in French air forces have been converted to the last upgraded C-160R standard. Last aircraft retired in May 2022.
+ Germany
+German Air Force (Luftwaffe) – total: 110; after 20 were sold to Turkey: 90; October 2011 (before introduction of the Airbus A400M): 80; August 2014: 56; the last wing (4 aircraft) was disbanded on 15 December 2021 and Replaced with C-130J-30 Super Hecules and Airbus A400M Atlas.
+Air Transport Wing 61 at Landsberg-Lech Air Base (disbanded 31 December 2017)
+Air Transport Wing 62 at Wunstorf Air Base (transitioned to A400M)
+Air Transport Wing 63 at Hohn Air Base (disbanded 15 December 2021)
+ South Africa
+South African Air Force – Nine new C-160Z delivered in 1969 and 1970, all except one scrapped, the survivor is now at the South African Air Force Museum
+28 Squadron SAAF at Waterkloof
+Civil
+ France
+Air France on behalf of French Postal Service (retired)
+ Gabon
+Air Affaires Gabon – former V3 prototype modified to C-160G standard was sold to Gabonese company in July 1976. Retired in France in 1987 and scrapped.
+ Indonesia
+Manunggal Air Service (defunct)
+Pelita Air (retired)
+ Switzerland
+Balair – pre-production aircraft C-160V was leased in 1968 to the International Red Cross Committee and operated for them by Balair. Returned in 1970
+
+
+Accidents and incidents
+9 February 1975 – German Air Force C-160D 50+63 en route to a NATO base on Crete entered a heavy storm, causing it to crash into a mountain. All 42 people on board were killed.
+11 May 1990 – During a routine flight from Wunstorf German Air Force 50+39 Air Transport Squadron 62 crashed into a hillside near Lohr during bad weather. The ten crew on board were all killed.
+22 October 1995 – A German Air Force C-160 50+43 crashed after takeoff in the Azores when it collided with a telegraph pole; all seven crew on board were killed.
+15 June 2001 – PK-VTQ being operated by Manunggal Air Services experienced engine problems and performed an emergency landing in Indonesia; during the forced landing the C-160 ran off the runway, one of the 16 passengers on board was killed.
+3 November 2021 – A civilian C-160 EY-560 burned up after landing at Dolow in Somalia.
+25 January 2024 - Turkish Air Force C-160D made an emergency landing during a training exercise in Kayseri due to a technical malfunction. While the crew managed to emerge unscratched from the emergency landing the aircraft sustained substantial damage.
+
+
+Specifications (C-160)
+
+Data from Jane's All The World's Aircraft 1982–83 General characteristics
+Crew: 3 flight crew + loadmasters
+Capacity: 16,000 kg (35,274 lb)
+93 troops or
+61–88 paratroops or
+62 stretchers
+cargo compartment: length 17.20 m (56.4 ft); width 3.15 m (10.3 ft); height 2.98 m (9 ft 9.3 in) 
+Length: 32.4 m (106 ft 4 in)
+Wingspan: 40 m (131 ft 3 in)
+Height: 11.65 m (38 ft 3 in)
+Wing area: 160 m2 (1,700 sq ft)
+Aspect ratio: 10
+Empty weight: 27,782 kg (61,249 lb) empty equipped
+Gross weight: 46,000 kg (101,413 lb) with 17,000 kg (37,479 lb) payload
+Max takeoff weight: 51,000 kg (112,436 lb)
+Powerplant: 2 × Rolls-Royce RTy.20 Tyne Mk 22 turboprop engines, 4,549 kW (6,100 hp) each
+Propellers: 4-bladed Ratier Forest-built BAe Type 4/8000/6 fully feathering constant-speed reversible-pitch propellers, 5.486 m (18 ft 0 in) diameter
+Performance
+
+Maximum speed: 513 km/h (319 mph, 277 kn) at 4,875 m (16,000 ft)
+Stall speed: 177 km/h (110 mph, 96 kn) flaps down
+Never exceed speed: 593 km/h (368 mph, 320 kn)
+Range: 1,853 km (1,151 mi, 1,001 nmi) with 16,000 kg (35,274 lb) payload, 30 min reserves
+Service ceiling: 8,230 m (27,000 ft)
+Rate of climb: 6.6 m/s (1,300 ft/min)
+Wing loading: 319 kg/m2 (65 lb/sq ft)
+Power/mass: 0.18 kW/kg (0.11 hp/lb)
+
+
+See also
+Military transport aircraft
+
+Aircraft of comparable role, configuration, and era
+
+Aeritalia G.222
+Antonov An-12
+Kawasaki C-1
+Lockheed C-130 Hercules
+Shaanxi Y-8
+
+Related lists
+
+List of military aircraft of France
+List of military aircraft of Germany
+List of aircraft of the South African Air Force
+
+
+References
+
+
+Notes
+
+
+Citations
+
+
+Bibliography
+Aid, Matthew M.; Wiebes, Cees (2001). Secrets of Signals Intelligence During the Cold War. Routledge. ISBN 0-7146-5176-1.
+Blumschein, P. (1999). Transall C-160 Life Extension and Avionics Upgrade Programs (PDF) (Report). NATO – RTO MP-44.
+Chant, Chris (1987). Compendium of Armaments and Military Hardware. Routledge. ISBN 0-7102-0720-4.
+Chillon, Jacques; Dubois, Jean-Pierre & Wegg, John (1980). French Post-War Transport Aircraft. Tonbridge, UK: Air-Britain. ISBN 0-85130-078-2.
+Johnson, David Eugene; Grissom, Adam; Oliker, Olga (2008). In the Middle of the Fight: An Assessment of Medium-Armored Forces in Past Military Operations. Rand Corporation. ISBN 0-8330-4413-3.
+Pletschacher, Peter (June 1981). "Transall Resurgent". Air International. Vol. 20, no. 6. pp. 284–289. ISSN 0306-5634.
+Taylor, John W. R. (1982). Jane's All The World's Aircraft 1982–83. London: Jane's Yearbooks. ISBN 0-7106-0748-2.
+Rouvez, Alain; Coco, Michael; Jean-Paul Paddack (1994). Disconsolate Empires: French, British and Belgian Military Involvement in Post–Colonial Sub–Saharan Africa. University Press of America. ISBN 0-8191-9643-6.
+Wache, Siegfried (2004). Transall C-160 D. Buchholz. ISBN 3-9357-6147-3. {{cite book}}: |work= ignored (help)
+Wilson, Michael (25 April 1968). "Transall C-160: An Exercise in Multi-national Transport Design". Flight International. Vol. 93, no. 3085. pp. 614–620.
+
+
+External links
+
+Official Luftwaffe site
+SAAF-Museums – C-160Z
