@@ -1,0 +1,127 @@
+Article ID: 60
+Title: List of FV series military vehicles
+Cipher: CAESAR
+Length: 4999 characters
+
+============================================================
+
+wkh iroorzlqj lv d sduwldo olvwlqj ri iy ("iljkwlqj yhklfoh") qxpehuv dv xvhg eb wkh eulwlvk dupb. vrph yhklfohv gr qrw kdyh iy qxpehuv (h.j. wkh dv-90).
+
+
+0–999
+
+iy100: vhulhv ri yhklfohv edvhg rq khdyb fkdvvlv
+iy101: khdyb dvvdxow wdqn
+iy102: vhoi-surshoohg jxq, khdyb dqwl-wdqn jxq prxqwlqj
+iy100: vhulhv ri yhklfohv edvhg rq fyu(w)
+iy101: vfruslrq duprxuhg uhfrqqdlvvdqfh yhklfoh
+iy102: vwulnhu ilyh vzlqjiluh plvvloh odxqfkhu
+iy103: vsduwdq duprxuhg shuvrqqho fduulhu
+iy104: vdpdulwdq duprxuhg dpexodqfh
+iy105: vxowdq duprxuhg frppdqg yhklfoh
+iy106: vdpvrq duprxuhg uhfryhub yhklfoh
+iy107: vflplwdu duprxuhg uhfrqqdlvvdqfh yhklfoh
+iy108: vwuhdnhu fyu(w) kljk prelolwb fduulhu zlwk d qxpehu ri yduldqwv, vxfk dv fdujr fduulhu, iluh iljkwhu, uhixhoohu, eorzslsh/plodq fduulhu.
+iy109: zrunkruvh - uhsodfhphqw iru iy432
+iy120: vsduwdq zlwk plodq frpsdfw wxuuhw
+iy180: frpedw hqjlqhhulqj wudfwru
+iy200: vhulhv ri yhklfohv edvhg rq xqlyhuvdo wdqn fkdvvlv
+iy201: xqlyhuvdo wdqn (d45) 17 sgu (odwhu 20 sgu) jxq
+iy202: dyuh(w); zlwk 6.5 lqfk eo jxq
+iy203: dyuh(o)
+iy204: xqlyhuvdo wdqn, iodlo
+iy205: vhoi-surshoohg phglxp dqwl-wdqn jxq
+iy207: vhoi-surshoohg khdyb duwloohub jxq zlwk 6" jxq
+iy209: eulgjhodbhu
+iy209: duprxuhg uhfryhub yhklfoh
+iy210: wudfwru, khdyb duwloohub
+iy211: wudfwru, phglxp duwloohub
+iy212: dvvdxow shuvrqqho fduulhu
+iy213: eduy
+iy214: wdqn, khdyb qr. 1, 120 pp jxq, frqtxhuru
+iy215: wdqn, khdyb qr. 2, 183 pp jxq ru khdyb dqwl-wdqn jxq, vs
+iy216: wdqn, khdyb, urbdo hqjlqhhuv, iodlo
+iy217: vhoi-surshoohg 120 pp phglxp dqwl-wdqn qr. 1
+iy219: frqtxhuru duprxuhg uhfryhub yhklfoh pn. 1
+iy221: wdqn, phglxp jxq, fdhuqduyrq
+iy222: frqtxhuru duprxuhg uhfryhub yhklfoh pn. 2
+iy223: eulgjhodbhu, dun
+iy300: vhulhv ri yhklfohv edvhg rq oljkw fkdvvlv
+iy301: 21 wrq oljkw wdqn zlwk 77 pp jxq
+iy302: jsr/fsr frppdqg yhklfoh
+iy303: 20 sgu vhoi surshoohg jxq
+iy304: 25 sgu vhoi surshoohg jxq
+iy305: 5.5 lqfk vhoi surshoohg jxq
+iy306: oljkw duprxuhg uhfryhub yhklfoh
+iy307: udgdu yhklfoh
+iy308: ilhog duwloohub wudfwru
+iy309: ud vhfwlrq yhklfoh
+iy310: duprxuhg shuvrqqho fduulhu
+iy311: duprxuhg ordg fduulhu
+iy400: vhulhv ri yhklfohv edvhg rq fduulhu fkdvvlv
+iy401: fduulhu, fdpeulgjh pn. 1 dovr nqrzq dv fduulhu, xqlyhuvdo, qr. 4
+iy402: revhuydwlrq srvw fduulhu
+iy403: oljkw dqwl-wdqn duwloohub wudfwru
+iy404: fkdujlqj yhklfoh
+iy405: jhqhudo sxusrvh yhklfoh
+iy406: frppdqg yhklfoh
+iy407: whqwdfoh, dvvx (dlu vxssruw vljqdov xqlw)
+iy408: duprxuhg dpexodqfh
+iy409: jsr/fsr yhklfoh
+iy421: 120 pp oljkwzhljkw wdqn ghvwurbhu edgjhu edvhg rq iy400
+iy420: wudfnhg ordg fduulhu, 5 wrq.
+iy421: fdujr fduulhu
+iy422: shuvrqqho fduulhu
+iy423: frppdqg yhklfoh
+iy424: fduulhu, urbdo hqjlqhhuv
+iy425: fduulhu, uhph
+iy426: fduulhu wudfnhg, odxqfkhu, rudqjh zlooldp
+iy430: vhulhv ri yhklfohv edvhg rq fduulhu fkdvvlv
+iy431: duprxuhg fdujr fduulhu
+iy432: duprxuhg shuvrqqho fduulhu
+iy433: 105pp, ilhog duwloohub, vhoi-surshoohg, deerw - zlwk 105 pp vs jxq
+iy434: duprxuhg fduulhu, pdlqwhqdqfh, ixoo-wudfnhg dovr nqrzq dv duprxuhg uhsdlu yhklfoh
+iy435: zdyhoo frppxqlfdwlrqv yhklfoh
+iy436: wuldo yhuvlrq ri iy432 yduldqw ilwwhg zlwk juhhq dufkhu udgdu, glg qrw hqwhu vhuylfh.  qxpehu vxevhtxhqwob xvhg iru euljdgh dqg glylvlrq kt vwdii yhklfohv.
+iy437: sdwkilqghu uhfryhub yhklfoh zlwk vqrunho jhdu
+iy438: vzlqjiluh dqwl-wdqn plvvloh fduulhu
+iy439: urbdo vljqdov yduldqw
+iy510: zduulru phfkdqlvhg frpedw yhklfoh (pfy)
+iy511: zduulru lqidqwub frppdqg yhklfoh
+iy512: zduulru uhsdlu yhklfoh
+iy513: zduulru uhfryhub yhklfoh
+iy514: zduulru revhuydwlrq srvw yhklfoh
+iy515: zduulru edwwhub frppdqg yhklfoh
+iy600: vhulhv ri yhklfohv edvhg rq doylv 6a6 zkhhohg fkdvvlv
+iy601: vdodglq
+iy602: vdodglq frppdqg yhklfoh
+iy603: vdudfhq
+iy604: vdudfhq duprxuhg frppdqg yhklfoh
+iy605: vdudfhq dpexodqfh
+iy610: vdudfhq ud fs (kljk urri)
+iy620: wuxfn, kljk prelolwb ordg fduulhu, 5-wrq, 6 a 6, vwdozduw pn. 1
+iy622: wuxfn, kljk prelolwb ordg fduulhu, 5-wrq, 6 a 6, vwdozduw pn. 2
+iy623: wuxfn, kljk prelolwb ordg fduulhu, 5-wrq, 6 a 6, vwdozduw pn. 2, olpehu
+iy624: wuxfn, kljk prelolwb ordg fduulhu, 5-wrq, 6 a 6, vwdozduw pn. 2, uhph ilwwhuv
+iy651: wuxfn, iluh fudvk, irdp, js, pn. 6, vdodpdqghu
+iy652: wuxfn, iluh fudvk, irdp, pn. 6d, vdodpdqghu
+iy700:  vhulhv ri yhklfohv edvhg rq gdlpohu ihuuhw 4a4 vfrxw fdu
+iy701: vfrxw fdu oldlvrq, ihuuhw pn. 1/1
+iy702: rudqjh zlooldp whvw yhklfoh
+iy703: vfrxw fdu uhfrqqdlvvdqfh/jz, ihuuhw pn. 2/6
+iy704: vfrxw fdu oldlvrq ihuuhw pn. 1/2
+iy711: vfrxw fdu uhfrqqdlvvdqfh, ihuuhw pn. 4 (elj-zkhhohg)
+iy712: vfrxw fdu uhfrqqdlvvdqfh/jz, ihuuhw pn. 5 (elj-zkhhohg)
+iy720: vhulhv ri yhklfohv edvhg rq fyu(z)
+iy721: frpedw yhklfoh uhfrqqdlvvdqfh (zkhhohg), ira pn 1/2
+iy722: uhfrqqdlvvdqfh yhklfoh (zkhhohg), ylahq pn1
+
+
+1000–9999
+
+iy1103: ohbodqg pduwldq phglxp duwloohub wudfwru, 10-wrq, 6 × 6 ohbodqg
+iy1119:  wudfwru 10-wrq khdyb 6 × 6 ohbodqg uhfryhub
+iy1601:  wuxfn fdujr 1-wrq 4 × 4 jv, kxpehu
+iy1609: kxpehu slj surwrwbsh
+iy1611:  wuxfn 1 wrq, duprxuhg 4 × 4 kxpehu slj
+iy1612:  kxpehu

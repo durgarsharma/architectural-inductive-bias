@@ -1,0 +1,68 @@
+Article ID: 488
+Title: Sopwith B.1
+Length: 4304 characters
+
+============================================================
+
+the sopwith b.1 was an experimental british bomber aircraft of the first world war. a single-seat, single-engined biplane, the b.1 was built by the sopwith aviation company for the royal navy.  although only two were built, one was used for bombing raids over france.
+
+
+development and design
+in late 1916, sopwith, whose earlier 1½ strutter had proved successful as a light bomber (particularly when operated as a single seater), designed a new, single-engined bomber aircraft. the new bomber was developed in parallel with the cuckoo carrier-based torpedo bomber and closely resembled the cuckoo. it, like the cuckoo, was a compact tractor biplane, powered by a 200 hp (149 kw) hispano-suiza water-cooled engine. unlike the cuckoo, the bomber's two-bay wings did not fold. it was designed as a single-seat aircraft, with the pilot sitting in a cockpit under the wing centre section to give a good view forwards and downwards for bombing.  the aircraft bombload of up to 560 lb (255 kg) was carried vertically within the fuselage, in cells behind the pilot.
+while no orders followed from either the admiralty, whose needs for a single-engined bomber had been met by the airco dh.4 or the royal flying corps, sopwith obtained a license to build a prototype of the new bomber, designated sopwith b.1 as a private venture, probably hoping for orders from the french aéronautique militaire. this prototype first flew in early april 1917, being tested officially later that month, where it demonstrated good performance, but was tail heavy when carrying a bomb load and nose heavy without, and was tiring to fly.
+it was sent to france following these tests, in the mistaken belief that the french wanted to test the aircraft.  once in france, the unwanted b.1 was acquired by the british royal naval air service, given the serial number n.50 and issued to 5 squadron, rnas, on 16 may 1917 for operational evaluation. fitted with a single forward-firing lewis gun, the b.1 was flown on a number of bombing raids against targets in german-occupied belgium. while its performance was praised, it was again noted that the b.1 was tiring to fly, and that the lack of manoeuvrability or any useful defensive armament meant that it was vulnerable to hostile fighters.
+the prototype b.1 was sent to the marine experimental aircraft depot on the isle of grain in autumn 1917 for reconstruction as a two-seat carrier-based reconnaissance aircraft with folding wings. the initial attempts at modifying the aircraft were not successful, but the b.1 formed the basis of the port victoria grain griffin, a major redesign of the b.1 with new wings and a wider fuselage.
+a second b.1 was built in early 1918, being fitted with the elevator control cables routed outside the fuselage in an attempt to improve control.  this aircraft was purchased by the rnas and tested at martlesham heath in april–may 1918.
+
+
+operators
+ united kingdom
+royal naval air service
+5 squadron, rnas
+
+
+specifications (b.1)
+data from the british bomber since 1914 general characteristics
+crew: 1
+length: 27 ft 0 in (8.23 m)
+wingspan: 38 ft 6 in (11.73 m)
+height: 9 ft 6 in (2.90 m)
+wing area: 460 sq ft (43 m2)
+empty weight: 1,700 lb (771 kg)
+max takeoff weight: 3,055 lb (1,386 kg)
+powerplant: 1 × hispano-suiza 8b v-8 water-cooled piston engine, 200 hp (150 kw)
+propellers: 2-bladed fixed-pitch propeller
+performance
+
+maximum speed: 118.5 mph (191 km/h, 103 kn)
+endurance: 33⁄4 hours
+service ceiling: 19,000 ft (5,800 m)
+time to altitude: 10,000 ft (3,048 m) in 15 minutes 30 seconds
+wing loading: 6.64 lb/sq ft (32.4 kg/m2)
+power/mass: 0.065 hp/lb (0.107 kw/kg)
+armament
+
+guns: 1x forward-firing .303 in lewis gun
+bombs: up to 560 lb (255 kg) bombs including twenty 28 lb (13 kg) bombs or twenty french 10 kg (22 lb) bombs in fuselage bomb bay
+
+
+see also
+
+related development
+
+sopwith cuckoo
+grain griffin
+aircraft of comparable role, configuration, and era
+
+sunbeam bomber
+
+related lists
+
+list of aircraft of the royal naval air service
+
+
+references
+
+bruce, j. m. british aeroplanes 1914-18. london:putnam, 1957.
+bruce, j. m. sopwith b.1 & t.1 cuckoo: windsock datafile 90. berkhamsted, hertfordshire, uk: albatros publications, 2001. isbn 1-902207-41-6.
+mason, francis k. the british bomber since 1914. london:putnam, 1994. isbn 0-85177-861-5.

@@ -1,0 +1,126 @@
+Article ID: 60
+Title: List of FV series military vehicles
+Length: 4999 characters
+
+============================================================
+
+the following is a partial listing of fv ("fighting vehicle") numbers as used by the british army. some vehicles do not have fv numbers (e.g. the as-90).
+
+
+0–999
+
+fv100: series of vehicles based on heavy chassis
+fv101: heavy assault tank
+fv102: self-propelled gun, heavy anti-tank gun mounting
+fv100: series of vehicles based on cvr(t)
+fv101: scorpion armoured reconnaissance vehicle
+fv102: striker five swingfire missile launcher
+fv103: spartan armoured personnel carrier
+fv104: samaritan armoured ambulance
+fv105: sultan armoured command vehicle
+fv106: samson armoured recovery vehicle
+fv107: scimitar armoured reconnaissance vehicle
+fv108: streaker cvr(t) high mobility carrier with a number of variants, such as cargo carrier, fire fighter, refueller, blowpipe/milan carrier.
+fv109: workhorse - replacement for fv432
+fv120: spartan with milan compact turret
+fv180: combat engineering tractor
+fv200: series of vehicles based on universal tank chassis
+fv201: universal tank (a45) 17 pdr (later 20 pdr) gun
+fv202: avre(t); with 6.5 inch bl gun
+fv203: avre(l)
+fv204: universal tank, flail
+fv205: self-propelled medium anti-tank gun
+fv207: self-propelled heavy artillery gun with 6" gun
+fv209: bridgelayer
+fv209: armoured recovery vehicle
+fv210: tractor, heavy artillery
+fv211: tractor, medium artillery
+fv212: assault personnel carrier
+fv213: barv
+fv214: tank, heavy no. 1, 120 mm gun, conqueror
+fv215: tank, heavy no. 2, 183 mm gun or heavy anti-tank gun, sp
+fv216: tank, heavy, royal engineers, flail
+fv217: self-propelled 120 mm medium anti-tank no. 1
+fv219: conqueror armoured recovery vehicle mk. 1
+fv221: tank, medium gun, caernarvon
+fv222: conqueror armoured recovery vehicle mk. 2
+fv223: bridgelayer, ark
+fv300: series of vehicles based on light chassis
+fv301: 21 ton light tank with 77 mm gun
+fv302: gpo/cpo command vehicle
+fv303: 20 pdr self propelled gun
+fv304: 25 pdr self propelled gun
+fv305: 5.5 inch self propelled gun
+fv306: light armoured recovery vehicle
+fv307: radar vehicle
+fv308: field artillery tractor
+fv309: ra section vehicle
+fv310: armoured personnel carrier
+fv311: armoured load carrier
+fv400: series of vehicles based on carrier chassis
+fv401: carrier, cambridge mk. 1 also known as carrier, universal, no. 4
+fv402: observation post carrier
+fv403: light anti-tank artillery tractor
+fv404: charging vehicle
+fv405: general purpose vehicle
+fv406: command vehicle
+fv407: tentacle, assu (air support signals unit)
+fv408: armoured ambulance
+fv409: gpo/cpo vehicle
+fv421: 120 mm lightweight tank destroyer badger based on fv400
+fv420: tracked load carrier, 5 ton.
+fv421: cargo carrier
+fv422: personnel carrier
+fv423: command vehicle
+fv424: carrier, royal engineers
+fv425: carrier, reme
+fv426: carrier tracked, launcher, orange william
+fv430: series of vehicles based on carrier chassis
+fv431: armoured cargo carrier
+fv432: armoured personnel carrier
+fv433: 105mm, field artillery, self-propelled, abbot - with 105 mm sp gun
+fv434: armoured carrier, maintenance, full-tracked also known as armoured repair vehicle
+fv435: wavell communications vehicle
+fv436: trial version of fv432 variant fitted with green archer radar, did not enter service.  number subsequently used for brigade and division hq staff vehicles.
+fv437: pathfinder recovery vehicle with snorkel gear
+fv438: swingfire anti-tank missile carrier
+fv439: royal signals variant
+fv510: warrior mechanised combat vehicle (mcv)
+fv511: warrior infantry command vehicle
+fv512: warrior repair vehicle
+fv513: warrior recovery vehicle
+fv514: warrior observation post vehicle
+fv515: warrior battery command vehicle
+fv600: series of vehicles based on alvis 6x6 wheeled chassis
+fv601: saladin
+fv602: saladin command vehicle
+fv603: saracen
+fv604: saracen armoured command vehicle
+fv605: saracen ambulance
+fv610: saracen ra cp (high roof)
+fv620: truck, high mobility load carrier, 5-ton, 6 x 6, stalwart mk. 1
+fv622: truck, high mobility load carrier, 5-ton, 6 x 6, stalwart mk. 2
+fv623: truck, high mobility load carrier, 5-ton, 6 x 6, stalwart mk. 2, limber
+fv624: truck, high mobility load carrier, 5-ton, 6 x 6, stalwart mk. 2, reme fitters
+fv651: truck, fire crash, foam, gp, mk. 6, salamander
+fv652: truck, fire crash, foam, mk. 6a, salamander
+fv700:  series of vehicles based on daimler ferret 4x4 scout car
+fv701: scout car liaison, ferret mk. 1/1
+fv702: orange william test vehicle
+fv703: scout car reconnaissance/gw, ferret mk. 2/6
+fv704: scout car liaison ferret mk. 1/2
+fv711: scout car reconnaissance, ferret mk. 4 (big-wheeled)
+fv712: scout car reconnaissance/gw, ferret mk. 5 (big-wheeled)
+fv720: series of vehicles based on cvr(w)
+fv721: combat vehicle reconnaissance (wheeled), fox mk 1/2
+fv722: reconnaissance vehicle (wheeled), vixen mk1
+
+
+1000–9999
+
+fv1103: leyland martian medium artillery tractor, 10-ton, 6 × 6 leyland
+fv1119:  tractor 10-ton heavy 6 × 6 leyland recovery
+fv1601:  truck cargo 1-ton 4 × 4 gs, humber
+fv1609: humber pig prototype
+fv1611:  truck 1 ton, armoured 4 × 4 humber pig
+fv1612:  humber

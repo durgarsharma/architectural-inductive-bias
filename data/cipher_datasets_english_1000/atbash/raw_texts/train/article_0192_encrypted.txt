@@ -1,0 +1,281 @@
+Article ID: 192
+Title: Poynting's theorem
+Cipher: ATBASH
+Length: 4988 characters
+
+============================================================
+
+rm vovxgilwbmznrxh, klbmgrmt'h gsvlivn rh z hgzgvnvmg lu xlmhviezgrlm lu vmvitb uli vovxgilnztmvgrx urvowh gszg dzh wvevolkvw yb yirgrhs ksbhrxrhg qlsm svmib klbmgrmt. rg hgzgvh gszg rm z trevm elofnv, gsv hglivw vmvitb xszmtvh zg z izgv trevm yb gsv dlip wlmv lm gsv xszitvh drgsrm gsv elofnv, nrmfh gsv izgv zg dsrxs vmvitb ovzevh gsv elofnv. rg rh lmob hgirxgob gifv rm nvwrz gszg rh mlg wrhkvihrev, yfg xzm yv vcgvmwvw uli gsv wrhkvihrev xzhv.
+gsv gsvlivn rh zmzoltlfh gl gsv dlip-vmvitb gsvlivn rm xozhhrxzo nvxszmrxh, zmw nzgsvnzgrxzoob hrnrozi gl gsv xlmgrmfrgb vjfzgrlm.
+
+
+wvurmrgrlm
+klbmgrmt'h gsvlivn hgzgvh gszg gsv izgv lu vmvitb gizmhuvi kvi fmrg elofnv uiln z ivtrlm lu hkzxv vjfzoh gsv izgv lu dlip wlmv lm gsv xszitv wrhgiryfgrlm rm gsv ivtrlm, kofh gsv vmvitb uofc ovzermt gszg ivtrlm.
+nzgsvnzgrxzoob:
+
+dsviv:
+
+  
+    
+      
+        −
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              g
+            
+          
+        
+      
+    
+    {\wrhkozbhgbov -{\uizx {\kzigrzo f}{\kzigrzo g}}}
+  
+ rh gsv izgv lu xszmtv lu gsv vmvitb wvmhrgb rm gsv elofnv.
+∇ ⋅ h rh gsv vmvitb uold lfg lu gsv elofnv, trevm yb gsv wrevitvmxv lu gsv klbmgrmt evxgli h.
+q ⋅ v rh gsv kldvi wvmhrgb lu gsv urvow wlrmt dlip lm xszitvh (q rh gsv xfiivmg wvmhrgb xliivhklmwrmt gl gsv nlgrlm lu xszitv, v rh gsv vovxgirx urvow, zmw ⋅ rh gsv wlg kilwfxg).
+
+
+rmgvtizo ulin
+fhrmt gsv wrevitvmxv gsvlivn, klbmgrmt'h gsvlivn xzm zohl yv dirggvm rm rmgvtizo ulin:
+
+dsviv
+
+h rh gsv vmvitb uold, trevm yb gsv klbmgrmt evxgli
+f rh gsv vmvitb wvmhrgb
+
+  
+    
+      
+        ∂
+        e
+        
+      
+    
+    {\wrhkozbhgbov \kzigrzo e\!}
+  
+ rh gsv ylfmwzib lu gsv elofnv. gsv hszkv lu gsv elofnv rh ziyrgizib yfg urcvw.
+
+
+xlmgrmfrgb vjfzgrlm zmzolt
+rm zm vovxgirxzo vmtrmvvirmt xlmgvcg gsv gsvlivn rh hlnvgrnvh dirggvm drgs gsv vmvitb wvmhrgb gvin f vckzmwvw zh hsldm. gsrh ulin ivhvnyovh gsv xlmgrmfrgb vjfzgrlm:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          h
+        
+        +
+        
+          ϵ
+          
+            0
+          
+        
+        
+          v
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                v
+              
+            
+            
+              ∂
+              g
+            
+          
+        
+        +
+        
+          
+            
+              y
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                y
+              
+            
+            
+              ∂
+              g
+            
+          
+        
+        +
+        
+          q
+        
+        ⋅
+        
+          v
+        
+        =
+        0
+        ,
+      
+    
+    {\wrhkozbhgbov \mzyoz \xwlg \nzgsyu {h} +\vkhrolm _{0}\nzgsyu {v} \xwlg {\uizx {\kzigrzo \nzgsyu {v} }{\kzigrzo g}}+{\uizx {\nzgsyu {y} }{\nf _{0}}}\xwlg {\uizx {\kzigrzo \nzgsyu {y} }{\kzigrzo g}}+\nzgsyu {q} \xwlg \nzgsyu {v} =0,}
+  
+
+dsviv
+
+ε0 rh gsv ezxffn kvinrggrergb zmw μ0 rh gsv ezxffn kvinvzyrorgb.
+
+  
+    
+      
+        
+          ϵ
+          
+            0
+          
+        
+        
+          v
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                v
+              
+            
+            
+              ∂
+              g
+            
+          
+        
+      
+    
+    {\wrhkozbhgbov \vkhrolm _{0}\nzgsyu {v} \xwlg {\uizx {\kzigrzo \nzgsyu {v} }{\kzigrzo g}}}
+  
+ rh gsv wvmhrgb lu ivzxgrev kldvi wirermt gsv yfrow-fk lu vovxgirx urvow,
+
+  
+    
+      
+        
+          
+            
+              y
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                y
+              
+            
+            
+              ∂
+              g
+            
+          
+        
+      
+    
+    {\wrhkozbhgbov {\uizx {\nzgsyu {y} }{\nf _{0}}}\xwlg {\uizx {\kzigrzo \nzgsyu {y} }{\kzigrzo g}}}
+  
+ rh gsv wvmhrgb lu ivzxgrev kldvi wirermt gsv yfrow-fk lu nztmvgrx urvow, zmw
+
+  
+    
+      
+        
+          q
+        
+        ⋅
+        
+          v
+        
+      
+    
+    {\wrhkozbhgbov \nzgsyu {q} \xwlg \nzgsyu {v} }
+  
+ rh gsv wvmhrgb lu vovxgirx kldvi wrhhrkzgvw yb gsv olivmga ulixv zxgrmt lm xszitv xziirvih.
+
+
+wvirezgrlm
+gsv izgv lu dlip wlmv yb gsv vovxgilnztmvgrx urvow lm gsv rmurmrgvhrnzo xszitv
+
+  
+    
+      
+        w
+        j
+        =
+        ρ
+        
+          w
+          
+            3
+          
+        
+        c
+      
+    
+    {\wrhkozbhgbov wj=\isl w^{3}c}
+  
+
+rh trevm yb gsv olivmga ulixv ozd zh:
+
+  
+    
+      
+        w
+        k
+        =
+        w
+        
+          u
+        
+        ⋅
+        
+          e
+        
+        =
+        (
+        
+          v
+        
+        +
+        
+          e

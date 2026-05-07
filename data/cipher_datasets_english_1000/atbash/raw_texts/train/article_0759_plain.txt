@@ -1,0 +1,29 @@
+Article ID: 759
+Title: Taxonomy of the Cactaceae
+Length: 5000 characters
+
+============================================================
+
+in 1984, the international organization for succulent plant study set up a working party, now called the international cactaceae systematics group, to produce a consensus classification of the cactus family, down to the level of genus. their classification has been used as the basis for systems published since the mid-1990s. treatments in the 21st century have generally divided the family into around 125–130 genera and 1,400–1,500 species, which are then arranged in a number of  tribes and subfamilies. however, subsequent molecular phylogenetic studies have shown that a very high proportion of the higher taxa (genera, tribes and subfamilies) are not monophyletic, i.e. they do not contain all of the descendants of a common ancestor. as of august 2023, the internal classification of the family cactaceae remained uncertain and subject to change. a classification incorporating many of the insights from the molecular studies was produced by nyffeler and eggli in 2010.
+
+
+overview
+the classification of the family cactaceae remains uncertain as of august 2023. since the mid-1990s, the system produced by the international cactaceae systematics group (icsg) of the international organization for succulent plant study has been used as the basis of many published classifications. detailed treatments produced in the 21st century have divided the family into around 125–130 genera and 1,400–1,500 species, which are then arranged into a number of tribes and subfamilies.
+the icsg classification of the family recognizes four subfamilies: pereskioideae (consisting only of the genus pereskia), opuntioideae, maihuenioideae (consisting only of the genus maihuenia) and cactoideae. molecular phylogenetic studies suggest that pereskia is not monophyletic (i.e. its species are not the complete set of descendants of a common ancestor), so that pereskioideae is not monophyletic although the three other subfamilies are. the bayesian consensus cladogram from a 2005 study is shown below:
+
+five tribes have been recognized within the subfamily opuntioideae: tephrocacteae, pterocacteae, austrocylindropuntieae, cylindropuntieae and opuntieae. all but the first, tephrocacteae, were shown to be "essentially monophyletic" in molecular phylogenetic study in 2009. a summary of the consensus bayesian tree is shown below (tribes are bold; the number of species in the study is shown in parentheses).
+
+many of the genera within the opuntioideae are not monophyletic. maihueniopsis is highly polyphyletic, appearing in four separate lineages. the two largest genera within the subfamily, opuntia and cylindropuntia are also not monophyletic. the classification of the opuntioideae is thus uncertain as of march 2012; griffith and porter say that changes in classification will require "broad information (of multiple data types) regarding all species of opuntioid cacti".
+the icsg classification divides the subfamily cactoideae into nine tribes. however, phylogenetic research has not supported most of these tribes, nor even the genera of which they are composed. a 2011 study found that "an extraordinarily high proportion of genera" were not monophyletic, including 22 (61%) of the 36 genera in the subfamily cactoideae sampled in the research. of the nine tribes recognized within cactoideae, one, calymmantheae, comprises a single genus, calymmanthium. of the remaining eight, only two (cacteae and rhipsalideae) have been shown to be monophyletic. a summary of the cladograms for the cactoideae presented in a 2011 paper is shown below (icsg tribes in bold).
+
+the classification of the cactaceae thus remains subject to change, from the genus level upwards. in 2016, david hunt wrote that "the advent of molecular systematic studies in the past two decades will hopefully have a stabilizing effect on classification in due course, but has so far had the opposite effect".
+
+
+nyffler and eggli (2010) classification
+in 2010, nyffler and eggli produced a classification based on an explicit phylogeny. the broad outlines of their cladogram agree with that of hern et al. (2011), shown above, although some details are different. their classification corresponds to the cladogram shown below.
+
+the table below shows how the genera recognized by nyffler and eggli are placed into their subfamilies and tribes (they also use some subtribes, not shown here). the column headed "older tribe (if different)" shows the icsg classification of the subfamily cactoideae (as presented by anderson in 2001) with a 2002 classification of the subfamily opuntioideae. there are differences in the genera recognized in the systems; where the older system does not recognize the genus, "–" is shown.
+
+
+earlier classification
+unless otherwise indicated, the subfamily placement of the genera listed here is based on anderson's 2001 presentation of the icsg classification, as is the tribal placement of the genera of the subfamily cactoideae. the division of the subfamily opuntioideae into tribes is additional to th

@@ -1,0 +1,47 @@
+Article ID: 319
+Title: Degenesis
+Length: 5000 characters
+
+============================================================
+
+degenesis is a fictional setting created by christian günther and marko djurdjevic and that is currently published by sixmorevodka. the only current product currently in existence set in degenesis is a pen-and-paper role-playing game. degenesis was created as an indie project, supported by projekt odyssee. it was originally produced and distributed in 2004 by sighpress-verlag. since 2014, the second and current edition (degenesis: rebirth) was produced and distributed by sixmorevodka. since april 2020 all of its materials are available to download online for free. in october 2021 sixmorevodka announced the end of the rpg product line. in june 2022, along with the relaunch of the company's website, new announcements were made including a teaser for an unspecified product named "the clan wars", which is a direct reference to events in the degenesis lore, presumably resuming the development of products within the setting.
+
+
+setting
+the game is categorized by the designers as "primal punk", a description detailing a world in which humanity struggles for survival in a world filled with perils both alien and human.
+the game is set in the regions of europe and north africa at the end of the 26th century, more than 500 years after a major asteroid event devastated the face of the earth and the ensuing chaos and conflict reset human civilization, when it was just at the edge of transhumanism. from the ashes of the old world, new cultures emerge and fight for survival.
+furthermore, an alien entity travelled within the asteroids, and in its interaction with terrestrial lifeforms it pushes them to mutate and evolve. the primer, as it is called, is a menace to the human species, for when it infects a human embryo it can turn it into something more primal: a homo degenesis.
+characters within the universe are shaped by three different ideals: culture, cult and concept. culture is defined as the home region, the concept as the character's personal background theme and the cult as the player's team or organization. the story universe spans 13 different cults, which represent the major organizations within the world, and the clanners, encompassing all the minor organizations which conform the majority of the world's population and allow for player customization.
+
+
+rebirth edition
+
+noted points of departure from the first edition include the whole revamping of the game system, and lore-wise, a more lax and intertwined relationship between the cults.
+
+
+system
+the revamped katharsys game system uses a d6 pool system where players roll a number of d6 equal to the sum of the relevant attribute and the specific skill, plus or minus circumstantial modifiers. character's stats consist of 6 primary attributes - body, agility, charisma, intellect, psyche, and instinct - and each one of these has six specific skills. primal and focus, faith and willpower, secondary stats and backgrounds.
+
+
+free to play
+in april 2020 a revamped website and business model was announced, with all pdfs of the game's publications being available for free download indefinitely.
+a donation system was set up for fans to support the game via one-time or monthly subscriptions, and physical media, including the aforementioned books in print and other merchandise, are still available for purchase.
+the website is the nexus for the game and under the new model it is updated regularly with new content that expands upon the lore of degenesis in the form of short stories, art, and character entries, among other types of media.
+the free to play experiment failed to boost sales in any meaningful way. on october 22, 2021, the product line was brought to an end, and the project is no longer in active development. however, the community still makes active contributions to the project.
+
+
+first edition
+
+
+rules
+the gaming system is based on five attributes (mentality, mobility, body, expression and psyche). players add skill and attributes to get the "action value" and rolls two 10-sided (2d10) die below it.
+difficulties are described by numbers the players must "beat".
+fighting is an expansion of the basic rules of the game by which the characters are "action points". the action points are modifiers within the game that either set initiative or other actions within the battle scenario. players do damage by rolling a number of d10 under a specified number (defined by the weapon stats). there are also experience points that can be collected via battles or free experience points that can be freely distributed amongst the players.
+generally, however, players strive to roll as little as possible.
+
+
+publications and special editions
+
+
+reception and awards
+in a review of degenesis in black gate, john oneill said "the setting is marvelously imaginative and original, and there's a great deal about the system that appeals to me. [...] the degenesis books are gorgeous, and the detailed maps and artwork within fire the imagination. they're printed in full cover and on heavy stock, and th

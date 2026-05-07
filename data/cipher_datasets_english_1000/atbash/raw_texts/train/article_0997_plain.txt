@@ -1,0 +1,123 @@
+Article ID: 997
+Title: List of American exchange-traded funds
+Length: 5000 characters
+
+============================================================
+
+this is a table of notable american exchange-traded funds, or etfs. as of 2020, the number of exchange-traded funds worldwide was over 7,600, representing about 7.74 trillion u.s. dollars in assets. the largest etf, as of april 2021, was the spdr s&p 500 etf trust (nyse arca: spy), with about $353.4 billion in assets.  the second-largest was the ishares core s&p 500 etf with around $270.0 billion (nyse arca: ivv), and third-largest was the vanguard total stock market etf (nyse arca: vti) with $213.1 billion.
+
+
+stock etfs
+
+
+broad market etfs
+ishares core s&p total us stock mkt (nyse arca: itot)
+ishares msci acwi index (nasdaq: acwi)
+ishares russell 3000 index (nyse arca: iwv)
+schwab us broad market etf (nyse arca: schb)
+schwab fundamental u.s. broad market index etf (nyse arca: fndb)
+vanguard total world stock (nyse arca: vt), tracks the ftse all-world index
+vanguard total stock market (nyse arca: vti), tracks the msci us broad market index
+vanguard total international stock (nyse arca: vxus), tracks the msci all country world ex-usa investable market index
+vanguard russell 3000 (nyse arca: vthr), tracks 98% of the us market
+
+
+index-tracking etfs
+diamonds trust, series 1 (nyse arca dia), tracks the dow jones industrial average
+guggenheim s&p 500 equal weight (nyse arca rsp)
+ishares s&p global 100 index (nyse arca ioo), tracks the s&p global 100
+ishares s&p 500 index (nyse arca ivv), tracks the s&p 500
+spdr s&p 500 (nyse arca spy), tracks the s&p 500
+vanguard s&p 500 (nyse arca voo)
+ishares russell 2000 index (nyse arca iwm), tracks the russell 2000
+ishares s&p 100 index (nyse arca oef), tracks the s&p 100
+powershares qqq ("cubes") (nasdaq|qqq), tracks the nasdaq-100
+
+
+style etfs
+
+
+large-cap etfs
+guggenheim multi-asset income (nyse arca cvy)
+guggenheim s&p 500 pure growth etf (nyse arca rpg)
+guggenheim s&p 500 pure value etf (nyse arca rpv)
+ishares russell 1000 index (nyse arca iwb)
+ishares russell 1000 growth index (nyse arca iwf)
+ishares russell 1000 value index (nyse arca iwd)
+ishares s&p 500 index (nyse arca ivv)
+ishares s&p 500 growth index (nyse arca ivw)
+ishares s&p 500 value index (nyse arca ive)
+powershares buyback achievers (nyse arca pkw)
+powershares ftse rafi us 1000 (nyse arca prf)
+powershares s&p 500 low volatility (nyse arca splv)
+schwab us large-cap etf (nyse arca schx)
+schwab us large-cap growth etf (nyse arca schg)
+schwab us large-cap value etf (nyse arca schv)
+schwab us dividend equity etf (nyse arca schd)
+schwab fundamental u.s. large company index etf (nyse arca fndx)
+spdr s&p dividend etf (nyse arca sdy)
+vanguard s&p 500 (nyse arca voo)
+vanguard s&p 500 growth (nyse arca voog)
+vanguard s&p 500 value (nyse arca voov)
+vanguard large-cap (nyse arca vv)
+vanguard growth (nyse arca vug)
+vanguard value (nyse arca vtv)
+vanguard mega-cap 300 (nyse arca mgc)
+vanguard mega-cap 300 growth (nyse arca mgk)
+vanguard mega-cap 300 value (nyse arca mgv)
+vanguard russell 1000 (nyse arca vone)
+vanguard russell 1000 growth (nyse arca vong)
+vanguard russell 1000 value (nyse arca vonv)
+vanguard dividend appreciation (nyse arca vig)
+vanguard high dividend yield (nyse arca vym)
+wisdomtree dividend ex-financials (nyse arca dtn)
+wisdomtree largecap dividend (nyse arca dln)
+
+
+mid-cap etfs
+midcap 400 spdr (nyse arca mdy)
+ishares select dividend (nyse arca dvy)
+ishares russell midcap index (nyse arca iwr)
+ishares russell midcap growth index (nyse arca iwp)
+ishares russell midcap value index (nyse arca iws)
+ishares s&p midcap 400 index (nyse arca ijh)
+ishares s&p midcap 400 growth index (nyse arca ijk)
+ishares s&p midcap 400 value index (nyse arca ijj)
+powershares dwa mom port (nyse arca pdp)
+schwab us mid-cap (nyse arca schm)
+vanguard s&p mid-cap 400 (nyse arca ivoo)
+vanguard s&p mid-cap 400 growth (nyse arca ivog)
+vanguard s&p mid-cap 400 value (nyse arca ivov)
+vanguard mid-cap (nyse arca vo)
+vanguard mid-cap growth (nyse arca vot)
+vanguard mid-cap value (nyse arca voe)
+vanguard extended market (nyse arca vxf), tracks the s&p completion index, i.e., s&p total market index minus the s&p 500 index
+wisdomtree midcap dividend etf (nyse arca don)
+
+
+small-cap etfs
+ishares micro-cap (nyse arca iwc)
+ishares russell 2000 index (nyse arca iwm)
+ishares russell 2000 growth index (nyse arca iwo)
+ishares russell 2000 value index (nyse arca iwn)
+ishares s&p smallcap 600 index (nyse arca ijr)
+ishares s&p smallcap 600 growth index (nyse arca ijt)
+ishares s&p smallcap 600 value index (nyse arca ijs)
+schwab us small-cap etf (nyse arca scha)
+schwab fundamental u.s. small company index etf (nyse arca fnda)
+vanguard s&p small-cap 600 (nyse arca vioo)
+vanguard s&p small-cap 600 growth (nyse arca viog)
+vanguard s&p small-cap 600 value (nyse arca viov)
+vanguard small-cap (nyse arca vb)
+vanguard small-cap growth (nyse arca vbk)
+vanguard small-cap value (nyse arca vbr)
+vanguard russell 2000 (nyse arca vtwo)
+vanguard russell 2000 growth (nyse arca vtwg)
+vanguard russell 2000 value (nyse arca vtwv)
+
+
+international etfs
+
+
+broad ex-us etfs
+("ex-u

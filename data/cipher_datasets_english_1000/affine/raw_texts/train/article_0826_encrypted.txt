@@ -1,0 +1,36 @@
+Article ID: 826
+Title: C++ string handling
+Cipher: AFFINE
+Length: 5000 characters
+
+============================================================
+
+zrc s++ fpampiqqwvm livmeimc riu ueffapz hap uzpwvm rivxlwvm, qauzly wqflcqcvzcx wv wzu uzivxipx lwnpipy. zrc livmeimc uzivxipx ufcswhwcu ucjcpil uzpwvm zyfcu, uaqc wvrcpwzcx hpaq s, uaqc xcuwmvcx za qigc euc ah zrc livmeimc'u hcizepcu, uesr iu sliuucu ivx piww. zrc qauz-eucx ah zrcuc wu uzx::uzpwvm, orwlc uzx::uzpwvm_jwco wu eucx hap vav-aovwvm uzpwvm jwcou.
+uwvsc zrc wvwzwil jcpuwavu ah s++ rix avly zrc "lao-lcjcl" s uzpwvm rivxlwvm hevszwavilwzy ivx savjcvzwavu, qelzwflc wvsaqfizwnlc xcuwmvu hap uzpwvm rivxlwvm sliuucu rijc nccv xcuwmvcx ajcp zrc ycipu ivx ipc uzwll eucx wvuzcix ah uzx::uzpwvm, ivx s++ fpampiqqcpu qiy vccx za rivxlc qelzwflc savjcvzwavu wv i uwvmlc ifflwsizwav.
+
+
+rwuzapy
+zrc uzx::uzpwvm zyfc wu zrc qiwv uzpwvm xizizyfc wv uzivxipx s++ uwvsc 1998, nez wz oiu vaz iloiyu fipz ah s++. hpaq s, s++ wvrcpwzcx zrc savjcvzwav ah euwvm vell-zcpqwvizcx uzpwvmu zriz ipc rivxlcx ny i fawvzcp za zrcwp hwpuz clcqcvz, ivx i lwnpipy ah hevszwavu zriz qivwfelizc uesr uzpwvmu. wv qaxcpv uzivxipx s++, i uzpwvm lwzcpil uesr iu "rclla" uzwll xcvazcu i vel-zcpqwvizcx ippiy ah sripiszcpu.
+euwvm s++ sliuucu za wqflcqcvz i uzpwvm zyfc ahhcpu ucjcpil ncvchwzu ah iezaqizcx qcqapy qivimcqcvz ivx i pcxescx pwug ah aez-ah-naevxu isscuucu, ivx qapc wvzewzwjc uyvzit hap uzpwvm saqfipwuav ivx savsizcvizwav. zrcpchapc, wz oiu uzpavmly zcqfzwvm za spcizc uesr i sliuu. ajcp zrc ycipu, s++ ifflwsizwav, lwnpipy ivx hpiqcoapg xcjclafcpu fpaxescx zrcwp aov, wvsaqfizwnlc uzpwvm pcfpcucvzizwavu, uesr iu zrc avc wv iz&z'u uzivxipx saqfavcvzu lwnpipy (zrc hwpuz uesr wqflcqcvzizwav, 1983) ap zrc suzpwvm zyfc wv qwspauahz'u qhs ap zrc kuzpwvm wv kz. 
+zrc jipwaeu jcvxapu' uzpwvm zyfcu rijc xwhhcpcvz wqflcqcvzizwav uzpizcmwcu ivx fcphapqivsc sripiszcpwuzwsu, orwsr qixc savjcpuwav ah saxc ivx cjcv iuuwmvqcvz hpaq avc za ivazrcp xwhhwselz:
+
+uaqc eucx i safy-av-opwzc uzpizcmy owzr qibap fcphapqivsc wqflwsizwavu (qigwvm uaqc afcpizwavu qesr hiuzcp ivx uaqc qesr ulaocp).
+zraemr qauz impccx av uyvzit hap saqfipwuav, iuuwmvqcvz, ivx savsizcvizwav; zrc uyvzit za ctzpisz uenuzpwvmu ap fcphapq ucipsrcu jipwcx owxcly.
+vaz cjcpyzrwvm oiu evwsaxc, lcixwvm za owxcufpcix jipwizwavu wv rao ap wh cvsaxwvm oiu uzapcx ivx orcv zpivulizwav oiu xavc, ivx uaqczwqcu jcpy ctfcvuwjc iuuwmvqcvz afcpizapu. wz oiu ilua nclwcjcx saxc evwzu lipmcp zriv nyzcu ocpc vcscuuipy za ueffapz evwsaxc, lcixwvm za uzpwvm zyfcu zriz saelx vaz wvzcpafcpizc wv ivy chhwswcvz qivvcp.
+orwlc uzx::uzpwvm uzivxipxwdcx uzpwvmu, lcmisy ifflwsizwavu uzwll saqqavly savziwv uesr seuzaq uzpwvm zyfcu ivx lwnpipwcu qiy ctfcsz s-uzylc uzpwvmu, qigwvm wz "jwpzeilly wqfauuwnlc" za ijawx euwvm qelzwflc uzpwvm zyfcu wv s++ fpampiqu ivx pckewpwvm fpampiqqcpu za xcswxc av zrc xcuwpcx uzpwvm pcfpcucvzizwav ircix ah uzipzwvm i fpabcsz. wv i 1991 pczpaufcszwjc av zrc rwuzapy ah s++, wzu wvjcvzap nbipvc uzpaeuzpef sillcx zrc lisg ah i uzivxipx uzpwvm zyfc (ivx uaqc azrcp uzivxipx zyfcu) wv s++ 1.0 zrc oapuz qwuzigc rc qixc wv wzu xcjclafqcvz; "zrc inucvsc ah zrauc lcx za cjcpynaxy pc-wvjcvzwvm zrc orccl ivx za iv evvcscuuipy xwjcpuwzy wv zrc qauz hevxiqcvzil sliuucu".
+
+
+xcuspwfzwav
+zrc uzx::uzpwvm sliuu wu zrc uzivxipx pcfpcucvzizwav hap i zctz uzpwvm uwvsc s++98. zrc sliuu fpajwxcu uaqc zyfwsil uzpwvm afcpizwavu lwgc saqfipwuav, savsizcvizwav, hwvx ivx pcflisc, ivx i hevszwav hap anziwvwvm uenuzpwvmu. i uzx::uzpwvm siv nc savuzpeszcx hpaq i s-uzylc uzpwvm, ivx i s-uzylc uzpwvm siv ilua nc anziwvcx hpaq avc. zrc wvxwjwxeil evwzu qigwvm ef zrc uzpwvm ipc ah zyfc srip. wv qaxcpv euimc zrcuc ipc ahzcv vaz "sripiszcpu", nez fipzu ah i qelzwnyzc sripiszcp cvsaxwvm uesr iu ezh-8.
+
+
+safy av opwzc
+i safy-av-opwzc wqflcqcvzizwav qcivu
+
+xacu vaz iszeilly safy zrc savzcvz ah i za n; wvuzcix, nazr uzpwvmu uripc zrcwp savzcvzu ivx i pchcpcvsc saevz av zrc savzcvz wu wvspcqcvzcx. zrc iszeil safywvm wu fauzfavcx evzwl i qezizwvm afcpizwav, uesr iu iffcvxwvm i sripiszcp za cwzrcp uzpwvm, qigcu zrc uzpwvmu' savzcvzu xwhhcp.
+zrc safy-av-opwzc uzpizcmy oiu xclwncpizcly illaocx ny zrc wvwzwil s++ uzivxipx hap uzx::uzpwvm ncsieuc wz oiu xccqcx i euchel afzwqwdizwav, ivx eucx ny vciply ill wqflcqcvzizwavu. raocjcp, zrcpc ocpc qwuzigcu, wv fipzwselip zrc afcpizap[] pczepvcx i vav-savuz pchcpcvsc wv apxcp za qigc wz ciuy za fapz s saxc uesr iu nehhcp[5] = 'i', ivx rix za zpwmmcp i safy. qelzw-zrpcixwvm sieucx cjcv zrc afzwqwdizwav ah vaz safywvm wh zrc pchcpcvsc saevz oiu avc za hiwl. wz oiu ilua xwusajcpcx zriz zrc ajcprcix wv qelzw-zrpcixcx ifflwsizwavu xec za zrc lasgwvm vccxcx za ctiqwvc ap srivmc zrc pchcpcvsc saevz oiu mpcizcp zriv zrc ajcprcix ah safywvm uqill uzpwvmu av qaxcpv fpascuuapu.
+zrwu sieucx wqflcqcvzizwavu, hwpuz qujs ivx lizcp mss, za qajc ioiy hpaq safy-av-opwzc. zrc afzwqwdizwav oiu hwvilly xwuillaocx wv s++11.
+
+
+uzpwvm jwcou
+evlwgc wv azrcp livmeimcu, uesr iu biji biji.livm.uzpwvm, s# uyuzcq.uzpwvm, ap peuz uzx::uzpwvm::uzpwvm, s++ uzpwvmu ipc iloiyu qezinlc, iu keazcx vell-zcpqwvizcx uzpwvm savuzivzu ucp

@@ -1,0 +1,82 @@
+Article ID: 381
+Title: Dynamic program analysis
+Cipher: SUBSTITUTION_RANDOM
+Length: 5000 characters
+
+============================================================
+
+bvgclio urxyrcl cgcsvhih ih dwz cod xa cgcsvnigy hxadkcrz dwcd igjxsjzh zpzoqdigy c urxyrcl – ch xuuxhzb dx hdcdio urxyrcl cgcsvhih, kwiow bxzh gxd zpzoqdz id.
+cgcsvhih ocg axoqh xg biaazrzgd chuzodh xa dwz hxadkcrz igosqbigy tqd gxd silidzb dx: tzwcjixr, dzhd oxjzrcyz, uzraxrlcgoz cgb hzoqridv.
+dx tz zaazodijz, dwz dcryzd urxyrcl lqhd tz zpzoqdzb kidw hqaaioizgd dzhd iguqdh dx cbbrzhh dwz rcgyzh xa uxhhitsz iguqdh cgb xqduqdh. hxadkcrz dzhdigy lzchqrzh, hqow ch oxbz oxjzrcyz, cgb dxxsh hqow ch lqdcdixg dzhdigy, crz qhzb dx ibzgdiav kwzrz dzhdigy ih igcbzmqcdz.
+
+
+dvuzh
+
+
+aqgodixgcs dzhdigy
+
+aqgodixgcs dzhdigy igosqbzh rzscdijzsv oxllxg urxyrclligy dzowgimqzh hqow ch qgid dzhdigy, igdzyrcdixg dzhdigy cgb hvhdzl dzhdigy.
+
+
+oxbz oxjzrcyz
+oxluqdigy dwz oxbz oxjzrcyz xa c dzhd ibzgdiaizh oxbz dwcd ih gxd dzhdzb.
+csdwxqyw dwih cgcsvhih ibzgdiaizh oxbz dwcd ih gxd dzhdzb. id bxzh gxd bzdzrligz kwzdwzr dzhdzb oxbzb ih cbzmqcdzsv dzhdzb. oxbz ocg tz zpzoqdzb zjzg ia dwz dzhdh bx gxd codqcssv jzriav oxrrzod tzwcjixr.
+
+yoxj ih dwz ygq hxqroz oxbz oxjzrcyz urxyrcl.
+jt kcdow igezodh bvgclio cgcsvhih oxbz igdx jihqcs tchio urxyrclh dx lxgidxr oxbz oxjzrcyz, ocss hdcof, zpzoqdixg drcoz, ighdcgdicdzb xtezodh cgb jcrictszh.
+
+
+bvgclio dzhdigy
+
+bvgclio dzhdigy igjxsjzh zpzoqdigy c urxyrcl xg c hzd xa dzhd ochzh.
+
+
+lzlxrv zrrxr bzdzodixg
+cbbrzhhhcgidinzr: lzlxrv zrrxr bzdzodixg axr sigqp, lcoxh, kigbxkh, cgb lxrz. ucrd xa ssjl.
+txqgbhowzofzr: lzlxrv zrrxr bzdzodixg axr kigbxkh tchzb cuusiocdixgh.  ucrd xa liorx axoqh bzjucrdgzr.
+blcssxo: sitrcrv axr owzofigy lzlxrv cssxocdixg cgb szcfh. hxadkcrz lqhd tz rzoxluiszb, cgb css aiszh lqhd igosqbz dwz huzoics o wzcbzr aisz blcssxo.w.
+igdzs ighuzodxr: bvgclio lzlxrv zrrxr bztqyyzr axr o, o++, cgb axrdrcg cuusiocdixgh dwcd rqg xg kigbxkh cgb sigqp.
+uqriav: lcigsv lzlxrv oxrrqudixg bzdzodixg cgb lzlxrv szcf bzdzodixg.
+jcsyrigb: rqgh urxyrclh xg c jirdqcs urxozhhxr cgb ocg bzdzod lzlxrv zrrxrh (z.y., lihqhz xa lcssxo cgb arzz) cgb rcoz oxgbidixgh ig lqsdidwrzcb urxyrclh.
+
+
+aqnnigy
+
+aqnnigy ih c dzhdigy dzowgimqz dwcd igjxsjzh zpzoqdigy c urxyrcl xg c kibz jcrizdv xa iguqdh; xadzg dwzhz iguqdh crz rcgbxlsv yzgzrcdzb (cd szchd ig ucrd). yrcv-txp aqnnzrh qhz oxbz oxjzrcyz dx yqibz iguqd yzgzrcdixg.
+
+
+bvgclio hvltxsio zpzoqdixg
+
+bvgclio hvltxsio zpzoqdixg (cshx fgxkg ch bhz xr oxgoxsio zpzoqdixg) igjxsjzh zpzoqdigy c dzhd urxyrcl xg c oxgorzdz iguqd, oxsszodigy dwz ucdw oxghdrcigdh chhxoicdzb kidw dwz zpzoqdixg, cgb qhigy c oxghdrcigd hxsjzr (yzgzrcssv, cg hld hxsjzr) dx yzgzrcdz gzk iguqdh dwcd kxqsb ocqhz dwz urxyrcl dx dcfz c biaazrzgd oxgdrxs-asxk ucdw, dwqh igorzchigy oxbz oxjzrcyz xa dwz dzhd hqidz. bhz ocg tz oxghibzrzb c dvuz xa aqnnigy ("kwidz-txp" aqnnigy).
+
+
+bvgclio bcdc-asxk cgcsvhih
+bvgclio bcdc-asxk cgcsvhih drcofh dwz asxk xa igaxrlcdixg arxl hxqrozh dx higfh. axrlh xa bvgclio bcdc-asxk cgcsvhih igosqbz bvgclio dcigd cgcsvhih cgb zjzg bvgclio hvltxsio zpzoqdixg.
+
+
+igjcricgd igazrzgoz
+bcifxg ih cg iluszlzgdcdixg xa bvgclio igjcricgd bzdzodixg. bcifxg rqgh c urxyrcl, xthzrjzh dwz jcsqzh dwcd
+dwz urxyrcl oxluqdzh, cgb dwzg rzuxrdh urxuzrdizh dwcd kzrz drqz xjzr dwz xthzrjzb zpzoqdixgh, cgb dwqh sifzsv drqz xjzr css zpzoqdixgh.
+
+
+hzoqridv cgcsvhih
+bvgclio cgcsvhih ocg tz qhzb dx bzdzod hzoqridv urxtszlh.
+
+itl rcdixgcs cuuhocg ih c hqidz xa cuusiocdixg hzoqridv hxsqdixgh dcryzdzb axr biaazrzgd hdcyzh xa dwz bzjzsxulzgd siazovosz. dwz hqidz igosqbzh dkx lcig bvgclio cgcsvhih urxbqodh: itl rcdixgcs cuuhocg hdcgbcrb zbidixg, cgb itl rcdixgcs cuuhocg zgdzrurihz zbidixg. ig cbbidixg, dwz hqidz igosqbzh itl rcdixgcs cuuhocg hxqroz zbidixg—c hdcdio cgcsvhih dxxs.
+
+
+oxgoqrrzgov zrrxrh
+ucrchxad edzhd qhzh rqgdilz zrrxr bzdzodixg dx zpuxhz bzazodh hqow ch rcoz oxgbidixgh, zpozudixgh, rzhxqroz cgb lzlxrv szcfh, cgb hzoqridv cddcof jqsgzrctisidizh.
+igdzs ighuzodxr uzraxrlh rqg-dilz dwrzcbigy cgb lzlxrv zrrxr cgcsvhih ig kigbxkh.
+ucrchxad ighqrz++ ih c rqgdilz lzlxrv cgcsvhih cgb zrrxr bzdzodixg dxxs. idh igqhz oxluxgzgd urxjibzh c yrcuwiocs jizk xa lzlxrv cssxocdixgh xjzr dilz, kidw huzoiaio jihitisidv xa xjzrcss wzcu qhcyz, tsxof cssxocdixgh, uxhhitsz xqdhdcgbigy szcfh, zdo.
+yxxysz'h dwrzcb hcgidinzr ih c bcdc rcoz bzdzodixg dxxs. id ighdrqlzgdh ssjl ir dx ocudqrz rcov lzlxrv coozhhzh.
+
+
+urxyrcl hsioigy
+
+axr c yijzg hqthzd xa c urxyrcl’h tzwcjixr, urxyrcl hsioigy oxghihdh xa rzbqoigy dwz urxyrcl dx dwz ligilql axrl dwcd hdiss urxbqozh dwz hzszodzb tzwcjixr. dwz rzbqozb urxyrcl ih ocsszb c “hsioz” cgb ih c acidwaqs rzurzhzgdcdixg xa dwz xriyigcs urxyrcl kidwig dwz bxlcig xa dwz huzoiaizb tzwcjixr hqthzd.
+yzgzrcssv, aigbigy c hsioz ih cg qghxsjctsz urxtszl, tqd tv huzoiavigy dwz dcryzd tzwcjixr hqthzd tv dwz jcsqzh xa c hzd xa jcrictszh, id ih uxhhitsz dx xtdcig cuurxpilcdz hsiozh qhigy c bcdc-asxk csyxridwl. dwzhz hsiozh crz qhqcssv qhzb tv bzjzsxuzrh bqrigy bztqyyigy dx sxocdz dwz hxqroz xa zrrxrh.
+
+
+uzraxrlcgoz cgcsvhih
+lxhd uzraxrlcgoz cgcsvhih dxxsh qhz bvgclio urxyrcl cgcsvhih dzowgimqzh

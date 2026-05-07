@@ -1,0 +1,47 @@
+Article ID: 463
+Title: Pyrgiscus
+Length: 2825 characters
+
+============================================================
+
+pyrgiscus is a genus of sea snails, marine gastropod mollusks in the subfamily turbonillinae of the family pyramidellidae, the pyrams and their allies.
+
+
+species
+species within the genus pyrgiscus include:
+
+the following species were brought into synonymy
+
+pyrgiscus aulicus (dall & bartsch, 1906): synonym of turbonilla aulica dall & bartsch, 1906
+pyrgiscus bisculpta [sic]: synonym of pyrgiscus bisculptus (nomura, 1937)
+pyrgiscus bowensis [sic]: synonym of turbonilla bowenensis laseron, 1959
+† pyrgiscus discors p. a. maxwell, 1988 : synonym of † turriscala discors (p. a. maxwell, 1988)
+pyrgiscus erna (thiele, 1925): synonym of pyrgiscus thielei van aartsen & corgan, 1996 (invalid: based on junior homonym of turbonilla erna bartsch, 1915; pyrgiscus thielei is a replacement name)
+pyrgiscus flexicosta laseron, 1951: synonym of turbonilla flexicosta (laseron, 1951)
+pyrgiscus fulvizonatus  (melvill, 1910): synonym of turbonilla fulvizonata nomura, 1938
+pyrgiscus gravicosta laseron, 1951: synonym of turbonilla gravicosta (laseron, 1951)
+pyrgiscus hataiana [sic]: synonym of pyrgiscus hataianus (nomura, 1937)
+pyrgiscus hedleyi laseron, 1951: synonym of turbonilla hedleyi (laseron, 1951)
+pyrgiscus infans laseron, 1951: synonym of graphis infans (laseron, 1951) (original combination)
+pyrgiscus microscopica (laseron, 1959): synonym of turbonilla mumia (a. adams, 1861)
+pyrgiscus mirandus saurin, 1959: synonym of turbonilla funiculata de folin, 1868
+pyrgiscus mumia (a. adams, 1861): synonym of turbonilla mumia (a. adams, 1861)
+pyrgiscus optima [sic]: synonym of pyrgiscus optimus (nomura, 1936)
+pyrgiscus pacifica [sic]: synonym of pyrgiscus pacificus (yokoyama, 1922)
+pyrgiscus pinguis laseron, 1951: synonym of turbonilla pinguis (laseron, 1951)
+pyrgiscus sumneri (bartsch, 1909): synonym of turbonilla sumneri bartsch, 1909
+
+
+references
+
+robba, e. (2013). tertiary and quaternary fossil pyramidelloidean gastropods of indonesia. scripta geologica. 144: 1-191.
+landau b.m. & lafollette p.i. (2015). the pyramidellidae (mollusca: gastropoda) from the miocene cantaure formation of venezuela. cainozoic research. 15(1-2): 13-54.
+
+
+external links
+
+world register of marine species
+philippi r.a. (1841). zoologische bemerkungen. archiv für naturgeschichte, berlin : 7(1): 42-59; pl. 5
+monterosato, t. a. di. (1884). nomenclatura generica e specifica di alcune conchiglie mediterranee. virzi, printed for the author, palermo, 152 pp.
+laws c.r. 1937. review of the tertiary and recent neozelanic pyramidellid molluscs. no. 3 — further turbonillid genera. transactions and proceedings of the royal society of new zealand, 67: 166-184, pl. 34-35
+arnold, r. (1903). the paleontology and stratigraphy of the marine pliocene and pleistocene of san pedro, california. memoirs of the california academy of sciences. 3: 1-420

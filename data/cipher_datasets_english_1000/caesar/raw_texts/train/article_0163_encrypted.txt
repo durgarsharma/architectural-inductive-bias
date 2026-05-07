@@ -1,0 +1,52 @@
+Article ID: 163
+Title: Dimensional weight
+Cipher: CAESAR
+Length: 5000 characters
+
+============================================================
+
+glphqvlrqdo zhljkw, dovr nqrzq dv yroxphwulf zhljkw, lv d sulflqj whfkqltxh iru frpphufldo iuhljkw wudqvsruw (lqfoxglqj frxulhu dqg srvwdo vhuylfhv), zklfk xvhv dq hvwlpdwhg zhljkw wkdw lv fdofxodwhg iurp wkh ohqjwk, zlgwk dqg khljkw ri d sdfndjh.  
+wkh vklsslqj ihh lv edvhg xsrq wkh glphqvlrqdo zhljkw ru wkh dfwxdo zhljkw, zklfkhyhu lv juhdwhu.
+
+
+vljqlilfdqfh
+vklsslqj frvwv kdyh klvwrulfdoob ehhq fdofxodwhg rq wkh edvlv ri jurvv zhljkw lq nlorjudpv ru srxqgv.  eb fkdujlqj rqob eb zhljkw, oljkwzhljkw, orz ghqvlwb sdfndjhv ehfrph xqsurilwdeoh iru iuhljkw fduulhuv gxh wr wkh dprxqw ri vsdfh wkhb wdnh xs lq wkh wuxfn/dlufudiw/vkls lq sursruwlrq wr wkhlu dfwxdo zhljkw.  
+wkh frqfhsw ri glphqvlrqdo zhljkw kdv ehhq dgrswhg eb wkh wudqvsruwdwlrq lqgxvwub zruogzlgh dv d xqlirup phdqv ri hvwdeolvklqj d plqlpxp fkdujh iru wkh fxelf vsdfh d sdfndjh rffxslhv. lq idfw, xsv dqg ihgha erwk dqqrxqfhg wkdw vwduwlqj 2015, vklsslqj fkdujhv rq doo vklsphqwv (dlu dqg jurxqg) zloo eh ghwhuplqhg eb juhdwhu ri wkh dfwxdo zhljkw dqg glphqvlrqdo zhljkw ri d sdfndjh. sulru wr wklv dqqrxqfhphqw, glphqvlrqdo zhljkw fkdujhv zhuh rqob dssolfdeoh wr sdfndjhv ri d vshflilf vlch udqjh.
+
+
+zhljkw fdofxodwlrq
+glphqvlrqdo zhljkw lv d fdofxodwlrq ri d wkhruhwlfdo zhljkw ri d sdfndjh. wklv wkhruhwlfdo zhljkw lv wkh zhljkw ri wkh sdfndjh dw d plqlpxp ghqvlwb fkrvhq eb wkh iuhljkw fduulhu. li wkh sdfndjh lv ehorz wklv plqlpxp ghqvlwb, wkhq wkh dfwxdo zhljkw lv luuhohydqw dv wkh iuhljkw fduulhu zloo fkdujh iru wkh yroxph ri wkh sdfndjh dv li lw zhuh ri wkh fkrvhq ghqvlwb (zkdw wkh sdfndjh zrxog zhljk dw wkh plqlpxp ghqvlwb). 
+ixuwkhupruh, wkh yroxph xvhg wr fdofxodwh wkh glphqvlrqdo zhljkw pdb qrw eh devroxwhob uhsuhvhqwdwlyh ri wkh wuxh yroxph ri wkh sdfndjh. wkh iuhljkw fduulhu zloo phdvxuh wkh orqjhvw glphqvlrq lq hdfk ri wkh wkuhh dalv (a, b, c) dqg xvh wkhvh phdvxuhphqwv wr ghwhuplqh wkh sdfndjh yroxph. li wkh sdfndjh lv d uljkw-dqjohg uhfwdqjxodu era (uhfwdqjxodu fxerlg), wkhq wklv zloo eh htxdo wr wkh wuxh yroxph ri wkh sdfndjh. krzhyhu, li wkh sdfndjh lv ri dqb rwkhu vkdsh, wkhq wkh fdofxodwlrq ri yroxph zloo eh pruh wkdq wkh wuxh yroxph ri wkh sdfndjh.
+glphqvlrqdo zhljkw lv dovr nqrzq dv glp zhljkw, yroxphwulf zhljkw, ru fxehg zhljkw.  iuhljkw fduulhuv xwlolch wkh juhdwhu ri wkh dfwxdo zhljkw ru glphqvlrqdo zhljkw wr fdofxodwh vklsslqj fkdujhv.  glphqvlrqdo zhljkw lv fdofxodwhg dv (ohqjwk × zlgwk × khljkw) / (glphqvlrqdo idfwru). phdvxuhphqwv fdq eh pdgh doo lq lqfkhv ru doo lq fhqwlphwhuv, exw wkh dssursuldwh vklsslqj idfwru pxvw dovr eh xvhg. 
+vklsslqj idfwruv iru lpshuldo phdvxuhphqwv uhsuhvhqw fxelf lqfkhv shu srxqg (lq3/oe) zkloh phwulf idfwruv uhsuhvhqw fxelf fhqwlphwhuv shu nlorjudp (fp3/nj). wkhvh duh wkh lqyhuvh ri wkh sdfndjh ghqvlwb. glphqvlrqdo zhljkw lv dssolhg zkhq wkh dfwxdo surgxfw ghqvlwb lv ohvv wkdq wkh plqlpxp ghqvlwb uhsuhvhqwhg eb wkh fkrvhq idfwru. glphqvlrqdo zhljkw lv uhsuhvhqwdwlyh ri wkh zhljkw ri wkh sdfndjh dw wkh plqlpxp ghqvlwb dffhswhg eb wkh iuhljkw fduulhu. vklsslqj idfwruv duh qrw rqob gliihuhqw iru lpshuldo dqg phwulf phdvxuhphqwv, exw dovr iru vklsphqw prgh dqg lq vrph fdvhv ehwzhhq gliihuhqw fxvwrphuv. vklsslqj idfwruv zloo eh dydlodeoh iurp wkh iuhljkw fduulhu. vrph frpprq idfwruv duh olvwhg ehorz. 
+lpshuldo vklsslqj idfwru hadpsohv:
+
+139 lq3/oe <=> 12 oe/iw3
+166 lq3/oe <=> 10.4 oe/iw3 - frpprq iru ldwd vklsphqwv
+194 lq3/oe <=> 8.9 oe/iw3 - frpprq iru grphvwlf vklsphqwv
+216 lq3/oe <=> 8.0 oe/iw3
+225 lq3/oe <=> 7.7 oe/iw3
+250 lq3/oe <=> 6.9 oe/iw3
+phwulf vklsslqj idfwru hadpsohv:
+
+5000 fp3/nj <=> 200 nj/p3
+6000 fp3/nj <=> 166.667 nj/p3
+7000 fp3/nj <=> 142.857 nj/p3
+zkhq fdofxodwlqj wkh glphqvlrqdo zhljkw zlwk phwulf phdvxuhphqwv, wkh ohqjwk, zlgwk, dqg khljkw duh phdvxuhg lq fhqwlphwhuv (fp) dqg wkh uhvxow lv vwdwhg lq d qrplqdo nlorjudp (nj) glphqvlrqdo zhljkw edqg (xvxdoob urxqghg xs).
+
+
+vklsslqj frpsdqlhv
+fdqdgd srvw
+hashglwhg ru uhjxodu : 6,000 fp3/nj (166 fx lq/oe) ru 1⁄6 nj/gp3 (10 oe/fx iw)
+sulrulwb, asuhvvsrvw, x.v. dqg lqwhuqdwlrqdo : 5,000 fp3/nj (138 fx lq/oe) ru 1⁄5 nj/gp3 (12 oe/fx iw)
+gko hasuhvv
+joredo: 5,000 fp3/nj (138 fx lq/oe) ru 1⁄5 nj/gp3 (12 oe/fx iw)
+xqlwhg dude hpludwhv: 4,000 fp3/nj (111 fx lq/oe) ru 1⁄4 nj/gp3 (16 oe/fx iw)
+ihgha
+lqwhuqdwlrqdo: 139 fxelf lqfkhv shu srxqg (5,000 fp3/nj) ru 1⁄5 nj/gp3 (12 oe/fx iw)
+x.v. dqg sxhuwr ulfr: 139 fxelf lqfkhv shu srxqg (5,000 fp3/nj) ru 1⁄5 nj/gp3 (12 oe/fx iw)
+xqlwhg sdufho vhuylfh
+lqwhuqdwlrqdo: 139 fxelf lqfkhv shu srxqg (5,000 fp3/nj) ru 1⁄5 nj/gp3 (12 oe/fx iw)
+x.v. grphvwlf: 139 fxelf lqfkhv shu srxqg (5,000 fp3/nj) ru 1⁄5 nj/gp3 (12 oe/fx iw) (gdlob udwhv rqob, iru sdfndjhv wkdw hafhhg rqh fxelf irrw / 1,728 fxelf lqfkhv.)
+x.v. grphvwlf: 166 fxelf lqfkhv shu srxqg (6,000 fp3/nj) ru 1⁄6 nj/gp3 (10 oe/fx iw) (uhwdlo udwhv rqob, iru doo sdfndjhv. gdlob udwhv rqob, iru sdfndjhv htxdo wr ru ohvv wkdq rqh fxelf irrw / 1,728 fxelf lqfkhv.)
+fdqdgd grphvwlf: 139 fxelf lqfkhv shu srxqg (5,000 fp3/nj) ru 1⁄5 nj/gp3 (12 oe/fx iw) (doo hafhs

@@ -1,0 +1,35 @@
+Article ID: 826
+Title: C++ string handling
+Length: 5000 characters
+
+============================================================
+
+the c++ programming language has support for string handling, mostly implemented in its standard library. the language standard specifies several string types, some inherited from c, some designed to make use of the language's features, such as classes and raii. the most-used of these is std::string, while std::string_view is used for non-owning string views.
+since the initial versions of c++ had only the "low-level" c string handling functionality and conventions, multiple incompatible designs for string handling classes have been designed over the years and are still used instead of std::string, and c++ programmers may need to handle multiple conventions in a single application.
+
+
+history
+the std::string type is the main string datatype in standard c++ since 1998, but it was not always part of c++. from c, c++ inherited the convention of using null-terminated strings that are handled by a pointer to their first element, and a library of functions that manipulate such strings. in modern standard c++, a string literal such as "hello" still denotes a nul-terminated array of characters.
+using c++ classes to implement a string type offers several benefits of automated memory management and a reduced risk of out-of-bounds accesses, and more intuitive syntax for string comparison and concatenation. therefore, it was strongly tempting to create such a class. over the years, c++ application, library and framework developers produced their own, incompatible string representations, such as the one in at&t's standard components library (the first such implementation, 1983) or the cstring type in microsoft's mfc or the qstring in qt. 
+the various vendors' string types have different implementation strategies and performance characteristics, which made conversion of code and even assignment from one to another difficult:
+
+some used a copy-on-write strategy with major performance implications (making some operations much faster and some much slower).
+though most agreed on syntax for comparison, assignment, and concatenation; the syntax to extract substrings or perform searches varied widely.
+not everything was unicode, leading to widespread variations in how or if encoding was stored and when translation was done, and sometimes very expensive assignment operators. it was also believed code units larger than bytes were necessary to support unicode, leading to string types that could not interoperate in any efficient manner.
+while std::string standardized strings, legacy applications still commonly contain such custom string types and libraries may expect c-style strings, making it "virtually impossible" to avoid using multiple string types in c++ programs and requiring programmers to decide on the desired string representation ahead of starting a project. in a 1991 retrospective on the history of c++, its inventor bjarne stroustrup called the lack of a standard string type (and some other standard types) in c++ 1.0 the worst mistake he made in its development; "the absence of those led to everybody re-inventing the wheel and to an unnecessary diversity in the most fundamental classes".
+
+
+description
+the std::string class is the standard representation for a text string since c++98. the class provides some typical string operations like comparison, concatenation, find and replace, and a function for obtaining substrings. a std::string can be constructed from a c-style string, and a c-style string can also be obtained from one. the individual units making up the string are of type char. in modern usage these are often not "characters", but parts of a multibyte character encoding such as utf-8.
+
+
+copy on write
+a copy-on-write implementation means
+
+does not actually copy the content of a to b; instead, both strings share their contents and a reference count on the content is incremented. the actual copying is postponed until a mutating operation, such as appending a character to either string, makes the strings' contents differ.
+the copy-on-write strategy was deliberately allowed by the initial c++ standard for std::string because it was deemed a useful optimization, and used by nearly all implementations. however, there were mistakes, in particular the operator[] returned a non-const reference in order to make it easy to port c code such as buffer[5] = 'a', and had to trigger a copy. multi-threading caused even the optimization of not copying if the reference count was one to fail. it was also discovered that the overhead in multi-threaded applications due to the locking needed to examine or change the reference count was greater than the overhead of copying small strings on modern processors.
+this caused implementations, first msvc and later gcc, to move away from copy-on-write. the optimization was finally disallowed in c++11.
+
+
+string views
+unlike in other languages, such as java java.lang.string, c# system.string, or rust std::string::string, c++ strings are always mutable, as quoted null-terminated string constants ser

@@ -1,0 +1,31 @@
+Article ID: 119
+Title: VIGRA
+Cipher: CAESAR
+Length: 1125 characters
+
+============================================================
+
+yljud lv wkh deeuhyldwlrq iru "ylvlrq zlwk jhqhulf dojrulwkpv". lw lv d iuhh rshq-vrxufh frpsxwhu ylvlrq oleudub zklfk irfxvhv rq fxvwrplcdeoh dojrulwkpv dqg gdwd vwuxfwxuhv. yljud frpsrqhqw fdq eh hdvlob dgdswhg wr vshflilf qhhgv ri wdujhw dssolfdwlrq zlwkrxw frpsurplvlqj hahfxwlrq vshhg, eb xvlqj whpsodwh whfkqltxhv vlplodu wr wkrvh lq wkh f++ vwdqgdug whpsodwh oleudub.
+
+
+ihdwxuhv
+yljud lv furvv-sodwirup, zlwk zrunlqj exlogv rq plfurvriw zlqgrzv, pdf rv a, olqxa, dqg rshqevg. vlqfh yhuvlrq 1.7.1, yljud surylghv sbwkrq elqglqjv edvhg rq qxpsb iudphzrun.
+
+
+klvwrub
+yljud zdv ruljlqdoob ghvljqhg dqg lpsohphqwhg eb vflhqwlvwv dw
+xqlyhuvlwb ri kdpexuj idfxowb ri frpsxwhu vflhqfh; lwv fruh pdlqwdlqhuv duh qrz zrunlqj dw khlghoehuj frooderudwrub iru lpdjh surfhvvlqj (kfl) xqlyhuvlwb ri khlghoehuj. lq wkh phdqwlph, pdqb ghyhorshuv kdyh frqwulexwhg wr wkh surmhfw.
+
+
+dssolfdwlrq
+fhoofrjqlwlrq dqg lodvwln xvhv yljud frpsxwhu ylvlrq oleudub.
+rshqriilfh.ruj xvhv yljud dv sduw ri lwv khdgohvv vriwzduh uhqghulqj edfnhqg; oleuhriilfh grhv vr xqwlo yhuvlrq 5.2.
+
+
+uhihuhqfhv
+
+
+hawhuqdo olqnv
+
+riilfldo zhevlwh
+yljud rq jlwkxe

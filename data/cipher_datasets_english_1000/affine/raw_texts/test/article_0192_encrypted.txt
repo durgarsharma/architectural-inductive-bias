@@ -1,0 +1,281 @@
+Article ID: 192
+Title: Poynting's theorem
+Cipher: AFFINE
+Length: 4988 characters
+
+============================================================
+
+wv clcszpaxyviqwsu, fayvzwvm'u zrcapcq wu i uzizcqcvz ah savucpjizwav ah cvcpmy hap clcszpaqimvczws hwclxu zriz oiu xcjclafcx ny npwzwur fryuwswuz barv rcvpy fayvzwvm. wz uzizcu zriz wv i mwjcv jaleqc, zrc uzapcx cvcpmy srivmcu iz i pizc mwjcv ny zrc oapg xavc av zrc sripmcu owzrwv zrc jaleqc, qwveu zrc pizc iz orwsr cvcpmy lcijcu zrc jaleqc. wz wu avly uzpwszly zpec wv qcxwi zriz wu vaz xwufcpuwjc, nez siv nc ctzcvxcx hap zrc xwufcpuwjc siuc.
+zrc zrcapcq wu ivilamaeu za zrc oapg-cvcpmy zrcapcq wv sliuuwsil qcsrivwsu, ivx qizrcqizwsilly uwqwlip za zrc savzwvewzy ckeizwav.
+
+
+xchwvwzwav
+fayvzwvm'u zrcapcq uzizcu zriz zrc pizc ah cvcpmy zpivuhcp fcp evwz jaleqc hpaq i pcmwav ah ufisc ckeilu zrc pizc ah oapg xavc av zrc sripmc xwuzpwnezwav wv zrc pcmwav, fleu zrc cvcpmy hlet lcijwvm zriz pcmwav.
+qizrcqizwsilly:
+
+orcpc:
+
+  
+    
+      
+        −
+        
+          
+            
+              ∂
+              e
+            
+            
+              ∂
+              z
+            
+          
+        
+      
+    
+    {\xwufliyuzylc -{\hpis {\fipzwil e}{\fipzwil z}}}
+  
+ wu zrc pizc ah srivmc ah zrc cvcpmy xcvuwzy wv zrc jaleqc.
+∇ ⋅ u wu zrc cvcpmy hlao aez ah zrc jaleqc, mwjcv ny zrc xwjcpmcvsc ah zrc fayvzwvm jcszap u.
+b ⋅ c wu zrc faocp xcvuwzy ah zrc hwclx xawvm oapg av sripmcu (b wu zrc seppcvz xcvuwzy sappcufavxwvm za zrc qazwav ah sripmc, c wu zrc clcszpws hwclx, ivx ⋅ wu zrc xaz fpaxesz).
+
+
+wvzcmpil hapq
+euwvm zrc xwjcpmcvsc zrcapcq, fayvzwvm'u zrcapcq siv ilua nc opwzzcv wv wvzcmpil hapq:
+
+orcpc
+
+u wu zrc cvcpmy hlao, mwjcv ny zrc fayvzwvm jcszap
+e wu zrc cvcpmy xcvuwzy
+
+  
+    
+      
+        ∂
+        j
+        
+      
+    
+    {\xwufliyuzylc \fipzwil j\!}
+  
+ wu zrc naevxipy ah zrc jaleqc. zrc urifc ah zrc jaleqc wu ipnwzpipy nez hwtcx.
+
+
+savzwvewzy ckeizwav ivilam
+wv iv clcszpwsil cvmwvccpwvm savzctz zrc zrcapcq wu uaqczwqcu opwzzcv owzr zrc cvcpmy xcvuwzy zcpq e ctfivxcx iu uraov. zrwu hapq pcucqnlcu zrc savzwvewzy ckeizwav:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          u
+        
+        +
+        
+          ϵ
+          
+            0
+          
+        
+        
+          c
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                c
+              
+            
+            
+              ∂
+              z
+            
+          
+        
+        +
+        
+          
+            
+              n
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                n
+              
+            
+            
+              ∂
+              z
+            
+          
+        
+        +
+        
+          b
+        
+        ⋅
+        
+          c
+        
+        =
+        0
+        ,
+      
+    
+    {\xwufliyuzylc \vinli \sxaz \qizrnh {u} +\cfuwlav _{0}\qizrnh {c} \sxaz {\hpis {\fipzwil \qizrnh {c} }{\fipzwil z}}+{\hpis {\qizrnh {n} }{\qe _{0}}}\sxaz {\hpis {\fipzwil \qizrnh {n} }{\fipzwil z}}+\qizrnh {b} \sxaz \qizrnh {c} =0,}
+  
+
+orcpc
+
+ε0 wu zrc jiseeq fcpqwzzwjwzy ivx μ0 wu zrc jiseeq fcpqcinwlwzy.
+
+  
+    
+      
+        
+          ϵ
+          
+            0
+          
+        
+        
+          c
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                c
+              
+            
+            
+              ∂
+              z
+            
+          
+        
+      
+    
+    {\xwufliyuzylc \cfuwlav _{0}\qizrnh {c} \sxaz {\hpis {\fipzwil \qizrnh {c} }{\fipzwil z}}}
+  
+ wu zrc xcvuwzy ah pciszwjc faocp xpwjwvm zrc newlx-ef ah clcszpws hwclx,
+
+  
+    
+      
+        
+          
+            
+              n
+            
+            
+              μ
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                n
+              
+            
+            
+              ∂
+              z
+            
+          
+        
+      
+    
+    {\xwufliyuzylc {\hpis {\qizrnh {n} }{\qe _{0}}}\sxaz {\hpis {\fipzwil \qizrnh {n} }{\fipzwil z}}}
+  
+ wu zrc xcvuwzy ah pciszwjc faocp xpwjwvm zrc newlx-ef ah qimvczws hwclx, ivx
+
+  
+    
+      
+        
+          b
+        
+        ⋅
+        
+          c
+        
+      
+    
+    {\xwufliyuzylc \qizrnh {b} \sxaz \qizrnh {c} }
+  
+ wu zrc xcvuwzy ah clcszpws faocp xwuuwfizcx ny zrc lapcvzd hapsc iszwvm av sripmc sippwcpu.
+
+
+xcpwjizwav
+zrc pizc ah oapg xavc ny zrc clcszpaqimvczws hwclx av zrc wvhwvwzcuwqil sripmc
+
+  
+    
+      
+        x
+        k
+        =
+        ρ
+        
+          x
+          
+            3
+          
+        
+        t
+      
+    
+    {\xwufliyuzylc xk=\pra x^{3}t}
+  
+
+wu mwjcv ny zrc lapcvzd hapsc lio iu:
+
+  
+    
+      
+        x
+        f
+        =
+        x
+        
+          h
+        
+        ⋅
+        
+          j
+        
+        =
+        (
+        
+          c
+        
+        +
+        
+          j

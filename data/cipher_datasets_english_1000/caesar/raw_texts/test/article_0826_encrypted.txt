@@ -1,0 +1,36 @@
+Article ID: 826
+Title: C++ string handling
+Cipher: CAESAR
+Length: 5000 characters
+
+============================================================
+
+wkh f++ surjudpplqj odqjxdjh kdv vxssruw iru vwulqj kdqgolqj, prvwob lpsohphqwhg lq lwv vwdqgdug oleudub. wkh odqjxdjh vwdqgdug vshflilhv vhyhudo vwulqj wbshv, vrph lqkhulwhg iurp f, vrph ghvljqhg wr pdnh xvh ri wkh odqjxdjh'v ihdwxuhv, vxfk dv fodvvhv dqg udll. wkh prvw-xvhg ri wkhvh lv vwg::vwulqj, zkloh vwg::vwulqj_ylhz lv xvhg iru qrq-rzqlqj vwulqj ylhzv.
+vlqfh wkh lqlwldo yhuvlrqv ri f++ kdg rqob wkh "orz-ohyho" f vwulqj kdqgolqj ixqfwlrqdolwb dqg frqyhqwlrqv, pxowlsoh lqfrpsdwleoh ghvljqv iru vwulqj kdqgolqj fodvvhv kdyh ehhq ghvljqhg ryhu wkh bhduv dqg duh vwloo xvhg lqvwhdg ri vwg::vwulqj, dqg f++ surjudpphuv pdb qhhg wr kdqgoh pxowlsoh frqyhqwlrqv lq d vlqjoh dssolfdwlrq.
+
+
+klvwrub
+wkh vwg::vwulqj wbsh lv wkh pdlq vwulqj gdwdwbsh lq vwdqgdug f++ vlqfh 1998, exw lw zdv qrw dozdbv sduw ri f++. iurp f, f++ lqkhulwhg wkh frqyhqwlrq ri xvlqj qxoo-whuplqdwhg vwulqjv wkdw duh kdqgohg eb d srlqwhu wr wkhlu iluvw hohphqw, dqg d oleudub ri ixqfwlrqv wkdw pdqlsxodwh vxfk vwulqjv. lq prghuq vwdqgdug f++, d vwulqj olwhudo vxfk dv "khoor" vwloo ghqrwhv d qxo-whuplqdwhg duudb ri fkdudfwhuv.
+xvlqj f++ fodvvhv wr lpsohphqw d vwulqj wbsh riihuv vhyhudo ehqhilwv ri dxwrpdwhg phprub pdqdjhphqw dqg d uhgxfhg ulvn ri rxw-ri-erxqgv dffhvvhv, dqg pruh lqwxlwlyh vbqwda iru vwulqj frpsdulvrq dqg frqfdwhqdwlrq. wkhuhiruh, lw zdv vwurqjob whpswlqj wr fuhdwh vxfk d fodvv. ryhu wkh bhduv, f++ dssolfdwlrq, oleudub dqg iudphzrun ghyhorshuv surgxfhg wkhlu rzq, lqfrpsdwleoh vwulqj uhsuhvhqwdwlrqv, vxfk dv wkh rqh lq dw&w'v vwdqgdug frpsrqhqwv oleudub (wkh iluvw vxfk lpsohphqwdwlrq, 1983) ru wkh fvwulqj wbsh lq plfurvriw'v pif ru wkh tvwulqj lq tw. 
+wkh ydulrxv yhqgruv' vwulqj wbshv kdyh gliihuhqw lpsohphqwdwlrq vwudwhjlhv dqg shuirupdqfh fkdudfwhulvwlfv, zklfk pdgh frqyhuvlrq ri frgh dqg hyhq dvvljqphqw iurp rqh wr dqrwkhu gliilfxow:
+
+vrph xvhg d frsb-rq-zulwh vwudwhjb zlwk pdmru shuirupdqfh lpsolfdwlrqv (pdnlqj vrph rshudwlrqv pxfk idvwhu dqg vrph pxfk vorzhu).
+wkrxjk prvw djuhhg rq vbqwda iru frpsdulvrq, dvvljqphqw, dqg frqfdwhqdwlrq; wkh vbqwda wr hawudfw vxevwulqjv ru shuirup vhdufkhv ydulhg zlghob.
+qrw hyhubwklqj zdv xqlfrgh, ohdglqj wr zlghvsuhdg yduldwlrqv lq krz ru li hqfrglqj zdv vwruhg dqg zkhq wudqvodwlrq zdv grqh, dqg vrphwlphv yhub hashqvlyh dvvljqphqw rshudwruv. lw zdv dovr eholhyhg frgh xqlwv odujhu wkdq ebwhv zhuh qhfhvvdub wr vxssruw xqlfrgh, ohdglqj wr vwulqj wbshv wkdw frxog qrw lqwhurshudwh lq dqb hiilflhqw pdqqhu.
+zkloh vwg::vwulqj vwdqgduglchg vwulqjv, ohjdfb dssolfdwlrqv vwloo frpprqob frqwdlq vxfk fxvwrp vwulqj wbshv dqg oleudulhv pdb hashfw f-vwboh vwulqjv, pdnlqj lw "yluwxdoob lpsrvvleoh" wr dyrlg xvlqj pxowlsoh vwulqj wbshv lq f++ surjudpv dqg uhtxlulqj surjudpphuv wr ghflgh rq wkh ghvluhg vwulqj uhsuhvhqwdwlrq dkhdg ri vwduwlqj d surmhfw. lq d 1991 uhwurvshfwlyh rq wkh klvwrub ri f++, lwv lqyhqwru emduqh vwurxvwuxs fdoohg wkh odfn ri d vwdqgdug vwulqj wbsh (dqg vrph rwkhu vwdqgdug wbshv) lq f++ 1.0 wkh zruvw plvwdnh kh pdgh lq lwv ghyhorsphqw; "wkh devhqfh ri wkrvh ohg wr hyhubergb uh-lqyhqwlqj wkh zkhho dqg wr dq xqqhfhvvdub glyhuvlwb lq wkh prvw ixqgdphqwdo fodvvhv".
+
+
+ghvfulswlrq
+wkh vwg::vwulqj fodvv lv wkh vwdqgdug uhsuhvhqwdwlrq iru d whaw vwulqj vlqfh f++98. wkh fodvv surylghv vrph wbslfdo vwulqj rshudwlrqv olnh frpsdulvrq, frqfdwhqdwlrq, ilqg dqg uhsodfh, dqg d ixqfwlrq iru rewdlqlqj vxevwulqjv. d vwg::vwulqj fdq eh frqvwuxfwhg iurp d f-vwboh vwulqj, dqg d f-vwboh vwulqj fdq dovr eh rewdlqhg iurp rqh. wkh lqglylgxdo xqlwv pdnlqj xs wkh vwulqj duh ri wbsh fkdu. lq prghuq xvdjh wkhvh duh riwhq qrw "fkdudfwhuv", exw sduwv ri d pxowlebwh fkdudfwhu hqfrglqj vxfk dv xwi-8.
+
+
+frsb rq zulwh
+d frsb-rq-zulwh lpsohphqwdwlrq phdqv
+
+grhv qrw dfwxdoob frsb wkh frqwhqw ri d wr e; lqvwhdg, erwk vwulqjv vkduh wkhlu frqwhqwv dqg d uhihuhqfh frxqw rq wkh frqwhqw lv lqfuhphqwhg. wkh dfwxdo frsblqj lv srvwsrqhg xqwlo d pxwdwlqj rshudwlrq, vxfk dv dsshqglqj d fkdudfwhu wr hlwkhu vwulqj, pdnhv wkh vwulqjv' frqwhqwv gliihu.
+wkh frsb-rq-zulwh vwudwhjb zdv gholehudwhob doorzhg eb wkh lqlwldo f++ vwdqgdug iru vwg::vwulqj ehfdxvh lw zdv ghhphg d xvhixo rswlplcdwlrq, dqg xvhg eb qhduob doo lpsohphqwdwlrqv. krzhyhu, wkhuh zhuh plvwdnhv, lq sduwlfxodu wkh rshudwru[] uhwxuqhg d qrq-frqvw uhihuhqfh lq rughu wr pdnh lw hdvb wr sruw f frgh vxfk dv exiihu[5] = 'd', dqg kdg wr wuljjhu d frsb. pxowl-wkuhdglqj fdxvhg hyhq wkh rswlplcdwlrq ri qrw frsblqj li wkh uhihuhqfh frxqw zdv rqh wr idlo. lw zdv dovr glvfryhuhg wkdw wkh ryhukhdg lq pxowl-wkuhdghg dssolfdwlrqv gxh wr wkh orfnlqj qhhghg wr hadplqh ru fkdqjh wkh uhihuhqfh frxqw zdv juhdwhu wkdq wkh ryhukhdg ri frsblqj vpdoo vwulqjv rq prghuq surfhvvruv.
+wklv fdxvhg lpsohphqwdwlrqv, iluvw pvyf dqg odwhu jff, wr pryh dzdb iurp frsb-rq-zulwh. wkh rswlplcdwlrq zdv ilqdoob glvdoorzhg lq f++11.
+
+
+vwulqj ylhzv
+xqolnh lq rwkhu odqjxdjhv, vxfk dv mdyd mdyd.odqj.vwulqj, f# vbvwhp.vwulqj, ru uxvw vwg::vwulqj::vwulqj, f++ vwulqjv duh dozdbv pxwdeoh, dv txrwhg qxoo-whuplqdwhg vwulqj frqvwdqwv vhu
