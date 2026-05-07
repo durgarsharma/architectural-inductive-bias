@@ -1,0 +1,28 @@
+Title: IBM 6640
+
+The IBM 6640 printer was one of the world's first office ink jet printers. It was originally announced as the 46/40 but later renamed as 6640, as part of the Office System/6 word processing range in 1976.
+IBM claimed the 6640 combined quality printing with a very versatile and efficient automatic cut sheet-paper and envelope handling mechanic. It featured automatic selection of 10-pitch, 12-pitch or proportional spacing with up to five resident fonts.
+
+
+Development and manufacturing
+The Office System/6 was developed by IBM Office Products Division in Austin Texas by a development group led by Fred May. The group was formed to concentrate on media-related office systems, rather than typewriters, copiers or supplies. It was manufactured by IBM Lexington.
+
+
+Operation
+Documents to be printed were first prepared on either on magnetic cards by a Magnetic Card Selectric typewriter, or an Office System/6 console. Magnetic card stacks were loaded via a reader attached to the left side of the printer and the device could also communicate via BSC or SDLC protocols.  The printer for an Office System/6 model 6/440 and 6/450 was an IBM 6640 without a Magnetic Card reader, being instead hard-wired to the 6/440 or 6/450 console for direct printing. In the picture of the IBM Office System/6 a 6640 without magnetic card reader is shown on the right.  The System/6 Mag card reader is located on the right hand side of the desk (directly to the right of the chair).
+
+The printer itself had a large envelope drawer that could hold 500 envelopes, and two 600 sheet paper drawers, each of which could handle a stack of paper up to approx. three inches thick,  and up to 17 inches by 17 inches.  Optional font cards were available, and installed on the planar located on the right side of the printer.  Black ink was sprayed out of a single nozzle, broken into drops, and each drop was deflected by electromagnetic fields to form individual letters or symbols.  Any drops not required to generate a letter were fed back into the ink system via the "gutter" for re-use.  For example, a drop used for printing a letter was immediately followed by several "guard drops" that were deliberately deflected down into the gutter so as to avoid slip streaming.  This technology was based on a 1963 invention by R. G. Sweet of Stanford University, who patented this novel continuous stream inkjet printing system and then licensed it to several companies.  A division of A. B. Dick called Videograph Operations created a product called the Model 9600 Videojet based on this technology in 1969, which they claimed was the world's first continuous inkjet printer.  It was used for labelling products such as beverage cans.The IBM 6640 formed droplets at the rate of 117,000 per second and printed 92 characters per second (CPS), which was slow compared to contemporary inkjet printers (that could operate up to 1375 CPS).  However the IBM 6640 used a dot structure of 24 x 40 (960 dots) to produce each character, where other products at that time used dot structures as low as 5 x 7 (35 dots) to produce a character.  This was only possible due to IBM's use of microelectronics.  The print head would print a single line from left to right and then while the head was returning to the left side the paper would advance one line.    Print speed was still fast compared to typing standards at that time and the printer could print a letter and an addressed envelope and stack them together for convenient stuffing later. By using a magnetic card feed slot that could hold up to 200 control and document  magnetic cards, IBM claimed it could run attended for several hours.
+
+
+Models
+There were two models:
+
+6640-001  Announced in June 1976, this model could print at up to 92 characters per second.  It was withdrawn from marketing on November 1, 1982
+6640-002  Announced in 1979, this model could print at up to 184 characters per second. It was withdrawn from marketing on November 1, 1982
+
+
+Replacement product
+There was no replacement product.  Both IBM and Diconix introduced a printer based on continuous inkjet technology but both products failed due to their cost and complexity.  They also could not compete with daisywheel printers in terms of reliability.
+
+
+References
