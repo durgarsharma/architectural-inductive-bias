@@ -1,0 +1,961 @@
+Title: Brillouin's theorem
+
+In quantum chemistry, Brillouin's theorem, proposed by the French physicist Léon Brillouin in 1934, is a fundamental theorem that simplifies theoretical calculations of electronic structure. It states that within the common Hartree–Fock approximation, the electronic ground state does not directly mix or interact with electronic states where only a single electron has been promoted to a higher energy level (a "singly excited" state). The Hartree–Fock method is a foundational approach for approximating the wavefunction and energy of a quantum many-body system, such as the electrons in an atom or molecule.
+The main consequence of the theorem arises when improving upon the Hartree-Fock approximation, a process known as including electronic correlation. Methods like configuration interaction (CI) build a more accurate wavefunction by combining the ground state with various excited states. Brillouin's theorem implies that when performing a CI calculation, all contributions from singly excited states will be zero. Therefore, to improve the Hartree-Fock energy, one only needs to consider states where two or more electrons have been excited, which significantly reduces the computational complexity. Mathematically, the theorem states that the matrix element of the Hamiltonian 
+  
+    
+      
+        
+          
+            
+              H
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {H}}}
+  
+ between the ground state Hartree–Fock wavefunction 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            0
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\psi _{0}\rangle }
+  
+ and a singly excited determinant 
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            a
+          
+          
+            r
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\psi _{a}^{r}\rangle }
+  
+  (i.e. one where an occupied orbital a is replaced by a virtual orbital r) is zero:
+  
+    
+      
+        ⟨
+        
+          ψ
+          
+            0
+          
+        
+        
+          |
+        
+        
+          
+            
+              H
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          ψ
+          
+            a
+          
+          
+            r
+          
+        
+        ⟩
+        =
+        0
+      
+    
+    {\displaystyle \langle \psi _{0}|{\hat {H}}|\psi _{a}^{r}\rangle =0}
+  
+This theorem is important in constructing a configuration interaction method, among other applications.
+Another interpretation of the theorem is that the ground electronic states solved by one-particle methods (such as HF or DFT) already imply configuration interaction of the ground-state configuration with the singly excited ones. That renders their further inclusion into the CI expansion redundant.
+
+
+Proof
+The electronic Hamiltonian of the system can be divided into two parts. One consists of one-electron operators, describing the kinetic energy of the electron and the Coulomb interaction (that is, electrostatic attraction) with the nucleus. The other is the two-electron operators, describing the Coulomb interaction (electrostatic repulsion) between electrons.
+
+One-electron operator
+
+  
+    
+      
+        h
+        (
+        1
+        )
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∇
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          ∑
+          
+            α
+          
+        
+        
+          
+            
+              Z
+              
+                α
+              
+            
+            
+              r
+              
+                1
+                α
+              
+            
+          
+        
+      
+    
+    {\displaystyle h(1)=-{\frac {1}{2}}\nabla _{1}^{2}-\sum _{\alpha }{\frac {Z_{\alpha }}{r_{1\alpha }}}}
+  
+
+Two-electron operator
+
+  
+    
+      
+        
+          ∑
+          
+            j
+          
+        
+        
+          |
+        
+        
+          r
+          
+            1
+          
+        
+        −
+        
+          r
+          
+            j
+          
+        
+        
+          
+            |
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \sum _{j}|r_{1}-r_{j}|^{-1}}
+  
+
+In methods of wavefunction-based quantum chemistry which include the electron correlation into the model, the wavefunction is expressed as a sum of series consisting of different Slater determinants (i.e., a linear combination of such determinants). In the simplest case of configuration interaction (as well as in other single-reference multielectron-basis set methods, like MPn, etc.), all the determinants contain the same one-electron functions, or orbitals, and differ just by occupation of these orbitals by electrons. The source of these orbitals is the converged Hartree–Fock calculation, which gives the so-called reference determinant 
+  
+    
+      
+        
+          |
+          
+            ψ
+            
+              0
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\psi _{0}\right\rangle }
+  
+ with all the electrons occupying energetically lowest states among the available.
+All other determinants are then made by formally "exciting" the reference determinant (one or more electrons are removed from one-electron states occupied in 
+  
+    
+      
+        
+          |
+          
+            ψ
+            
+              0
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\psi _{0}\right\rangle }
+  
+ and put into states unoccupied in 
+  
+    
+      
+        
+          |
+          
+            ψ
+            
+              0
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\psi _{0}\right\rangle }
+  
+). As the orbitals remain the same, we can simply transition from the many-electron state basis (
+  
+    
+      
+        
+          |
+          
+            ψ
+            
+              0
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\psi _{0}\right\rangle }
+  
+, 
+  
+    
+      
+        
+          |
+          
+            ψ
+            
+              a
+            
+            
+              r
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\psi _{a}^{r}\right\rangle }
+  
+, 
+  
+    
+      
+        
+          |
+          
+            ψ
+            
+              a
+              b
+            
+            
+              r
+              s
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\psi _{ab}^{rs}\right\rangle }
+  
+, ...) to the one-electron state basis (which was used for Hartree–Fock: 
+  
+    
+      
+        
+          |
+          a
+          ⟩
+        
+      
+    
+    {\displaystyle \left|a\right\rangle }
+  
+, 
+  
+    
+      
+        
+          |
+          b
+          ⟩
+        
+      
+    
+    {\displaystyle \left|b\right\rangle }
+  
+, 
+  
+    
+      
+        
+          |
+          r
+          ⟩
+        
+      
+    
+    {\displaystyle \left|r\right\rangle }
+  
+, 
+  
+    
+      
+        
+          |
+          s
+          ⟩
+        
+      
+    
+    {\displaystyle \left|s\right\rangle }
+  
+, ...), greatly improving the efficiency of calculations. For this transition, we apply the Slater–Condon rules and evaluate
+  
+    
+      
+        ⟨
+        
+          ψ
+          
+            0
+          
+        
+        
+          |
+        
+        
+          
+            
+              H
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          ψ
+          
+            a
+          
+          
+            r
+          
+        
+        ⟩
+        =
+        ⟨
+        a
+        
+          |
+        
+        h
+        
+          |
+        
+        r
+        ⟩
+        +
+        
+          ∑
+          
+            b
+          
+        
+        ⟨
+        a
+        b
+        
+          |
+        
+        
+          |
+        
+        r
+        b
+        ⟩
+        =
+        ⟨
+        a
+        
+          |
+        
+        h
+        
+          |
+        
+        r
+        ⟩
+        +
+        
+          ∑
+          
+            b
+          
+        
+        
+          (
+          
+            ⟨
+            a
+            b
+            
+              |
+            
+            r
+            b
+            ⟩
+            −
+            ⟨
+            a
+            b
+            
+              |
+            
+            b
+            r
+            ⟩
+          
+          )
+        
+        =
+        ⟨
+        a
+        
+          |
+        
+        h
+        
+          |
+        
+        r
+        ⟩
+        +
+        
+          ∑
+          
+            b
+          
+        
+        
+          (
+          
+            ⟨
+            a
+            
+              |
+            
+            2
+            
+              
+                
+                  
+                    J
+                    ^
+                  
+                
+              
+              
+                b
+              
+            
+            −
+            
+              
+                
+                  
+                    K
+                    ^
+                  
+                
+              
+              
+                b
+              
+            
+            
+              |
+            
+            r
+            ⟩
+          
+          )
+        
+      
+    
+    {\displaystyle \langle \psi _{0}|{\hat {H}}|\psi _{a}^{r}\rangle =\langle a|h|r\rangle +\sum _{b}\langle ab||rb\rangle =\langle a|h|r\rangle +\sum _{b}\left(\langle ab|rb\rangle -\langle ab|br\rangle \right)=\langle a|h|r\rangle +\sum _{b}\left(\langle a|2{\hat {J}}_{b}-{\hat {K}}_{b}|r\rangle \right)}
+  
+which we recognize is simply an off-diagonal element of the Fock matrix 
+  
+    
+      
+        ⟨
+        
+          χ
+          
+            a
+          
+        
+        
+          |
+        
+        
+          
+            
+              F
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          χ
+          
+            r
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \chi _{a}|{\hat {F}}|\chi _{r}\rangle }
+  
+. But the reference wave function was obtained by the Hartree–Fock calculation, or the SCF procedure, the whole point of which was to diagonalize the Fock matrix. Hence for an optimized wavefunction this off-diagonal element must be zero.
+This can be made evident also if we multiply both sides of a Hartree–Fock equation
+
+  
+    
+      
+        
+          
+            
+              F
+              ^
+            
+          
+        
+        
+          χ
+          
+            r
+          
+        
+        =
+        
+          ε
+          
+            r
+          
+        
+        
+          χ
+          
+            r
+          
+        
+      
+    
+    {\displaystyle {\hat {F}}\chi _{r}=\varepsilon _{r}\chi _{r}}
+  
+by 
+  
+    
+      
+        
+          χ
+          
+            a
+          
+          
+            ∗
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \chi _{a}^{\ast }({\vec {r}})}
+  
+ and integrate over the electronic coordinate:
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          χ
+          
+            a
+          
+          
+            ∗
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        
+          
+            
+              F
+              ^
+            
+          
+        
+        
+          χ
+          
+            r
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        
+          d
+          
+            3
+          
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        
+          ε
+          
+            r
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          χ
+          
+            a
+          
+          
+            ∗
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        
+          χ
+          
+            r
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        
+          d
+          
+            3
+          
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }\chi _{a}^{\ast }({\vec {r}}){\hat {F}}\chi _{r}({\vec {r}})d^{3}{\vec {r}}=\varepsilon _{r}\int _{-\infty }^{\infty }\chi _{a}^{\ast }({\vec {r}})\chi _{r}({\vec {r}})d^{3}{\vec {r}}.}
+  
+As the Fock matrix has already been diagonalized, the states 
+  
+    
+      
+        
+          χ
+          
+            r
+          
+          
+            ∗
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \chi _{r}^{\ast }({\vec {r}})}
+  
+ and 
+  
+    
+      
+        
+          χ
+          
+            a
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \chi _{a}({\vec {r}})}
+  
+ are the eigenstates of the Fock operator, and as such are orthogonal; thus their overlap is zero. It makes all the right-hand side of the equation zero:
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          χ
+          
+            a
+          
+          
+            ∗
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        
+          
+            
+              F
+              ^
+            
+          
+        
+        
+          χ
+          
+            r
+          
+        
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        
+          d
+          
+            3
+          
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        ⟨
+        
+          ψ
+          
+            0
+          
+        
+        
+          |
+        
+        
+          
+            
+              H
+              ^
+            
+          
+        
+        
+          |
+        
+        
+          ψ
+          
+            a
+          
+          
+            r
+          
+        
+        ⟩
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }\chi _{a}^{\ast }({\vec {r}}){\hat {F}}\chi _{r}({\vec {r}})d^{3}{\vec {r}}=\langle \psi _{0}|{\hat {H}}|\psi _{a}^{r}\rangle =0,}
+  
+which proves the Brillouin's theorem.
+The theorem have also been proven directly from the variational principle (by Mayer) and is essentially equivalent to the Hartree–Fock equations in general.
+
+
+References
+
+
+Further reading
+Cramer, Christopher J. (2002). Essentials of Computational Chemistry. Chichester: John Wiley & Sons, Ltd. pp. 207–211. ISBN 978-0-471-48552-0.
+Szabo, Attila; Neil S. Ostlund (1996). Modern Quantum Chemistry. Mineola, New York: Dover Publications, Inc. pp. 350–353. ISBN 978-0-486-69186-2.

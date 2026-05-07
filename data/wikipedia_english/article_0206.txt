@@ -1,0 +1,49 @@
+Title: CAMS 46
+
+The CAMS 46 was a flying boat trainer aircraft built in France in the mid-1920s, essentially an updated version of the CAMS 30 that had flown in 1922. While retaining that aircraft's basic form, CAMS offered the French Navy two new versions with aerodynamic refinements over the earlier aircraft: the CAMS 46 E primary trainer, and the CAMS 46 ET intermediate trainer. Only the latter was selected for production and was built in quantity to supply one escadrille at the Naval training station at Hourtin.
+
+
+Variants
+CAMS 42 ET.2
+(Jane's 1928 has this aircraft designated CAMS 42 ET.2, probably the CAMS 46 mis-identified) Flying boat trainer powered by a 110 kW (150 hp)/ 130 kW (180 hp) Hispano-Suiza 8 V-8 engine.
+CAMS 46 E
+A primary trainer flying boat derived from the CAMS 30, powered by a 110 kW (150 hp) Hispano-Suiza 8Ab V-8 engine.
+CAMS 46 ET
+The intermediate trainer version of the CAMS 46, powered by a 130 kW (180 hp) Hispano-Suiza 8Ab V-8 engine.
+
+
+Operators
+ France
+French Navy
+
+
+Specifications (46 ET)
+
+Data from Jane's all the World's Aircraft 1928 Aviafrance, CAMS 46 ETGeneral characteristics
+Crew: 2
+Length: 9.07 m (29 ft 9 in)
+Wingspan: 12 m (39 ft 4 in)
+Height: 2.97 m (9 ft 9 in)
+Wing area: 37 m2 (400 sq ft)
+Empty weight: 978 kg (2,156 lb)
+Gross weight: 1,350 kg (2,976 lb)
+Powerplant: 1 × Hispano-Suiza 8Ab V-8 water-cooled piston engine, 130 kW (180 hp)
+Propellers: 2-bladed fixed pitch propeller
+Performance
+
+Maximum speed: 157 km/h (98 mph, 85 kn) 
+Minimum speed 72 km/h (45 mph; 39 kn)
+Alighting speed: 67 km/h (42 mph; 36 kn)
+Range: 450 km (280 mi, 240 nmi)
+Service ceiling: 3,500 m (11,500 ft)
+Time to altitude: 2,000 m (6,600 ft) in 16 minutes 45 seconds
+Wing loading: 36.48 kg/m2 (7.47 lb/sq ft)
+Power/mass: 0.0505 hp/lb (0.0830 kW/kg)
+
+
+References
+
+
+Further reading
+Taylor, Michael J. H. (1989). Jane's Encyclopedia of Aviation. London: Studio Editions. p. 226.
+World Aircraft Information Files. London: Bright Star Publishing. pp. File 891 Sheet 02.

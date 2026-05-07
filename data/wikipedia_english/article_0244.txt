@@ -1,0 +1,12 @@
+Title: Kayvan Najarian
+
+Kayvan Najarian is an Iranian-American scientist, who is a professor in the Department of Computational Medicine and Bioinformatics, Department of Emergency Medicine, and Department of Electrical Engineering and Computer Science at the University of Michigan in Ann Arbor. He is the director of Biomedical and Clinical Informatics (BCIL) University of Michigan in Ann Arbor. Additionally, he is an associate director of Michigan Institute for Data Sciences (MIDAS). He is also serving as an associate director of the MCIRCC's (Michigan Center for Integrative Research in Critical Care). Kayvan Najarian has over 200 peer-reviewed journal and conference papers, as well as several US and international patents. He is a senior member of the Institute of Electrical and Electronics Engineers, is a reviewer, referee or member of dozens more committees, journals and councils. He received his B.Sc. in electrical engineering from Sharif University of Technology, his M.Sc. in biomedical engineering from Amirkabir University of Technology, and his Ph.D. in electrical and computer engineering at University of British Columbia.
+Kayvan Najarian's research projects have been funded by agencies such as NSF, NIH, and DoD. He is the recipient of several national and international awards, including MHSRS 2016 Outstanding Research Accomplishment/Team/Academic. 
+
+
+Books
+K. Najarian and R. Splinter, Biomedical Signal and Image Processing, The CRC Press, ISBN 978-0-8493-2099-6, 2005.
+K. Najarian, C. Eichelberger, S. Najairian, and S. Gharibnia, Systems Biology and Bioinformatics: A Computational Approach, The CRC Press, ISBN 978-1-4200-4650-2, 2009.
+
+
+References

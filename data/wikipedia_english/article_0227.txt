@@ -1,0 +1,17 @@
+Title: 179 (number)
+
+179 (one hundred [and] seventy-nine) is the natural number following 178 and preceding 180.
+
+
+In mathematics
+179 is part of the Cunningham chain of prime numbers 89, 179, 359, 719, 1439, 2879, in which each successive number is two times the previous number, plus one. Among Cunningham chains of this length, this one has the smallest numbers. Because 179 is neither the start nor the end of this chain, it is both a safe prime and a Sophie Germain prime. It is also a super-prime number, because it is the 41st smallest prime and 41 is also prime. Since 971 (the digits of 179 reversed) is prime, 179 is an emirp.
+
+
+See also
+All pages with titles containing 179
+
+
+References
+
+
+External links
