@@ -1,82 +1,150 @@
-# Horses for Courses: Classical Ciphers as a Testbed for Architectural Inductive Bias Evaluation
+# When Attention Fails to Count: A Mechanistic Study of Transformers on Periodic Pattern Tasks
+---
 
-> https://durgarsharma.github.io/architectural-inductive-bias/
+## Overview
 
-## Abstract
-This study systematically explores the potential of machine learning models to decrypt text without prior knowledge of the cipher key or explicit rules. Focusing on the feasibility of ZeroShot generalization, the research compares four dominant neural network architectures: MLP, Character CNN, LSTM, and Transformer. The project is executed across four phases, commencing with a 1,000 article English corpus and extending to Hindi, Greek, and constructed languages (testing systematic variations in morphology, syntax, and phonology). The MLP was trained on five ciphers and evaluated on a heldout sixth cipher in Phase 1, establishing the architectural baseline. Experimental results from the MLP show low to moderate accuracy (50%–65%) with negative generalization gaps, conclusively proving that position independent networks lack the representational capacity for robust decryption. In contrast, the subsequent phases demonstrate that LSTMs, with their explicit sequential memory, achieve near perfect decryption on position dependent ciphers like Vigenère, while the Transformer surprisingly fails due to over generalization. The research culminates by challenging the best performing models with modern block ciphers (AES/DES), serving as a negative control. The expected universal failure validates that neural network success on classical ciphers relies solely on exploitable statistical patternsnot true cryptographic deduction. These findings provide a definitive architectural hierarchy and establish the fundamental boundaries of pattern based learning across diverse linguistic structures.
+This paper presents a mechanistic investigation of a specific and reproducible Transformer failure: the inability to track periodic positional structure. Using Vigenère cipher decryption as a controlled diagnostic — where success requires computing `position mod key_length` at every step — we assemble a chain of five experiments that rule out alternative explanations and converge on a precise mechanistic account.
 
+**The core finding:** Transformers fail on Vigenère (9.88% word accuracy) while BiLSTMs succeed near-perfectly (99.91%), not because of poor hyperparameters, wrong positional encodings, or an unusual key length — but because the attention mechanism cannot form the modular positional structure that cycle tracking requires. Models trained under this constraint fall back on character frequency analysis, a qualitatively wrong strategy that degrades predictably as key length grows.
 
+---
 
-## Result 1: Recurrent Memory Solves Sequential Ciphers Universally
+## Key Results
 
-- LSTM dominance on Vigenère: 99.91% (English), 98.13% (Hindi), 99.56% (Greek) word accuracy
-- Script-invariant performance: Standard deviation ≤ 0.13% across all solvable ciphers
-- Proof of architectural necessity: Vigenère accuracy jumps from 8.81% (MLP) → 99.91% (LSTM)
-- High stability: Near-zero variance (0.00-0.12% Std Dev) confirms reliable sequential memory
+### 1. The Failure Is Large and Robust to Configuration
+- BiLSTM achieves **99.91%** word accuracy on Vigenère; Transformer achieves **9.88%**
+- **24 hyperparameter configurations** (layers 2–8, d_model 128–512, sinusoidal and learned PE) all yield ~39% character accuracy — a 60pp gap from BiLSTM
+- Transformer and MLP track each other within 0.2pp at every configuration, showing global attention offers no advantage over a position-agnostic baseline
 
-## Result 2: Transformers Catastrophically Fail on Simple Sequences
+### 2. Oracle Positional Encoding Does Not Fix the Failure
+- Five PE variants tested: sinusoidal, NoPE, learned, RoPE, and a custom **oracle modular encoding** that directly provides `sin/cos(2π·(t mod K)/K)` as input features
+- Oracle PE reaches **59.57%** — still 40pp below BiLSTM
+- Causal (left-to-right) attention alone: **+0.67pp** — no effect
+- Causal + RoPE: **57.24%** — best Transformer condition, still 42.66pp below BiLSTM
+- The bottleneck is the attention mechanism itself, not the positional signal available to it
 
-- Vigenère collapse: 9.88% (English), 13.47% (Greek), 39.23% (Hindi) — performs identically to context-agnostic MLP
-- CNN superiority: Character CNN achieves 93.06% vs Transformer's 9.88% on same task
-- Extreme instability: High variance on simple ciphers (e.g., Caesar min 19.42% despite 99.93% average)
-- Global attention mismatch: Cannot focus on local periodic patterns (i mod 6), over-attends entire sequence
+### 3. The Failure Scales With Cycle Complexity
 
-## Result 3: Linguistic Complexity Exposes Fundamental Limits
+| Key Length K | BiLSTM | Transformer | CNN | MLP | Gap (pp) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 2 | 99.95 | 73.30 | 99.08 | 73.10 | 26.7 |
+| 3 | 99.91 | 63.40 | 98.11 | 63.35 | 36.5 |
+| 6 | 99.89 | 39.22 | 94.04 | 39.14 | 60.7 |
+| 9 | 99.82 | 42.27 | 89.58 | 42.11 | 57.5 |
+| 12 | 99.75 | 34.06 | 85.26 | 33.86 | 65.7 |
+| 18 | 99.75 | 29.25 | 77.26 | 29.27 | 70.5 |
 
-- Morphological collapse: LSTM drops from 99.91% → 4.43% on Vigenère with agglutinative words (10-20 chars)
-- Universal failure: All architectures achieve 0-5% word accuracy despite 91% character accuracy
-- Phonological volatility: Variable output classes (PHON-10→50) reduce LSTM to 13.10% on Vigenère
-- Architecture inversion: CNN (36.10%) outperforms LSTM (13.10%) under classification instability
+### 4. Linear Probing Identifies the Mechanism
 
-## Result 4: Negative Controls Prove Pattern Dependency
+| K | Chance | BiLSTM task | BiLSTM probe | TF task | TF probe | Probe gap |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 2 | 50.0% | 99.95% | 99.89% | 73.28% | 72.32% | 27.6pp |
+| 3 | 33.3% | 99.91% | 99.88% | 63.39% | 62.32% | 37.6pp |
+| 6 | 16.7% | 99.84% | 99.82% | 39.20% | 37.28% | 62.5pp |
+| 9 | 11.1% | 99.79% | 99.82% | 42.27% | 26.28% | 73.5pp |
+| 12 | 8.3% | 99.64% | 99.53% | 34.04% | 20.96% | 78.6pp |
+| 18 | 5.6% | 99.57% | 99.39% | 29.29% | 13.96% | 85.4pp |
 
-- AES/DES universal failure: 0.00% word accuracy across all four architectures (MLP, LSTM, CNN, Transformer)
-- Character-level noise: ~22-23% character accuracy (above 3.7% random baseline) but zero meaningful decryption
-- Architectural irrelevance: LSTM's recurrent memory provides no advantage on modern secure ciphers
-- Definitive boundary: Gap between Vigenère success (99.91%) and AES failure (0.00%) confirms neural cryptanalysis requires exploitable statistical patterns
+**The diagnostic finding:** At K≥9, Transformer probe accuracy falls *below* task accuracy, the model cannot be using cycle phase as its primary feature. It is doing character frequency analysis, not cycle tracking.
 
-## Highlights
+---
 
-- We evaluate four architectures on 26,000 encrypted articles, revealing LSTM achieves 99.91% on Vigenère while Transformers fail at 9.88%—performing identically to context-agnostic MLPs despite global attention.
-- We demonstrate script-invariant sequential learning with LSTM maintaining 98-100% accuracy (≤0.13% variance), but morphological complexity causes universal collapse to 0-5% despite 91% character accuracy.
-- We expose classification instability inverting architectural hierarchy: variable output classes reduce LSTM to 13.10% while CNN achieves 36.10%, showing recurrent memory fails under volatile classification spaces.
-- We validate pattern dependency through negative controls: AES/DES yield 0.00% word accuracy across all architectures, proving the Vigenère success depends entirely on exploitable statistical patterns absent in secure ciphers.
+## Experiments
+
+| S.No. | Experiment | Key Finding |
+|:---|:---|:---|
+| 1 | Attention visualisation + linear probe at K=6 | BiLSTM probe: 99.9%; Transformer probe: 37.1% |
+| 2 | Hyperparameter grid search (24 configs) | All configs ~39.4%; scaling does not help |
+| 3 | Positional encoding ablations (5 variants) | Oracle PE reaches 59.6%; bottleneck is attention |
+| 4 | Key length variation (K=2–18) | Gap grows 26.7pp → 70.5pp monotonically |
+| 5 | Linear probing across all key lengths | Probe falls below task accuracy at K≥9 |
+| 6 | Causal masking ablation | +0.67pp alone; causal+RoPE +18pp; gap remains |
+
+---
+
+## Repository Structure
+
+```
+├── data/
+│   └── cipher_datasets_english_1000/
+│       ├── vigenere/
+│       │   ├── train.json          # 700 plaintext-ciphertext pairs
+│       │   ├── val.json            # 150 pairs
+│       │   └── test.json           # 150 pairs
+│       ├── caesar/
+│       ├── atbash/
+│       ├── affine/
+│       ├── substitution_fixed/
+│       └── substitution_random/
+│
+├── notebooks/
+│   ├── priority1_attention_viz.ipynb   # Attention heatmaps + linear probe
+│   ├── priority2_hparam_search.ipynb   # 24-config grid search
+│   ├── priority3_pe_ablation.ipynb     # 5 PE variants including oracle
+│   ├── priority4_key_length.ipynb      # K=2,3,6,9,12,18 experiments
+│   ├── priority5_probing.ipynb         # Linear probing across key lengths
+│   └── causal_masking_ablation.ipynb   # Causal attention experiments
+│
+├── figures/
+│   ├── fig2_ideal_vs_actual_vs_subfixed.pdf
+│   ├── fig_p3_pe_comparison.pdf
+│   ├── fig_p4_key_length.pdf
+│   └── fig_p5_probing_condensed.pdf
+│
+└── paper/
+    └── keyless_cipher_mech_interpretability.pdf
+```
+
+---
 
 ## Dataset
-We construct a multilingual corpus of 26,000 encrypted articles spanning natural languages (English, Hindi, Greek) and synthetic constructed languages testing morphological, syntactic, and phonological complexity. Articles are sourced from Wikipedia and systematically encrypted across all cipher types.
 
-| Language | Alphabet Size | Articles | Characters | Source |
-| :--- | :--- | :--- | :--- | :--- |
-| English | 38 | 1,000 | 2,542,530 | Wikipedia API |
-| Hindi | 46+ | 1,000 | 1,903,287 | Wikipedia API |
-| Greek | 24 | 1,000 | 2,520,499 | Wikipedia API |
-| Constructed (Morphology) | 26 | 250×5 levels | Variable | English base, rewritten |
-| Constructed (Syntax) | 26 | 250×5 orders | Variable | English base, reordered |
-| Constructed (Phonology) | 10-50 | 250×8 levels | Variable | English base, remapped |
+The Vigenère diagnostic suite uses **1,000 English Wikipedia articles** encrypted with configurable keywords. Each split (700/150/150 train/val/test) is provided as JSON with the following structure:
 
-Each cipher dataset uses 70% training (700 articles), 15% validation (150 articles), 15% test (150 articles).
+```json
+{
+  "id": 263,
+  "title": "List of alumni of Merton College, Oxford",
+  "plaintext": "see also former students...",
+  "ciphertext": "umt hpjq ndyqvt...",
+  "length": 5000
+}
+```
 
-## Ciphers
+For key length experiments, the same articles are re-encrypted using:
 
-| Cipher | Type | Key Structure | Decryption Challenge |
-| :--- | :--- | :--- | :--- |
-| Caesar | Monoalphabetic | Single shift offset (e.g., shift=3) | Identify fixed integer offset across corpus |
-| Atbash | Monoalphabetic | Alphabet reversal (A↔Z, B↔Y) | Learn mirrored 1:1 mapping rule |
-| Affine | Monoalphabetic | Two-key linear: E(x)=(ax+b) mod 26 | Identify multiplication factor *a* and shift *b* |
-| Vigenère | Polyalphabetic | Repeating keyword (e.g., "CIPHER") | Track periodic key pattern requiring sequential memory |
-| Substitution Fixed | Monoalphabetic | Custom 26-character map (constant) | Learn complete arbitrary substitution table |
-| Substitution Random | Monoalphabetic | Different random key per article | Generalize across 1,000 unique random mappings |
-| AES | Block cipher | 128/256-bit key, pseudorandom output | Negative control: no exploitable patterns |
-| DES | Block cipher | 64-bit blocks, 16-round Feistel | Negative control: statistical randomness |
+| K | Keyword |
+|:---:|:---:|
+| 2 | AB |
+| 3 | CAT |
+| 6 | CIPHER |
+| 9 | SECRETKEY |
+| 12 | CRYPTOGRAPHY |
+| 18 | SECRETCRYPTOGRAPHY |
+
+---
 
 ## Models
 
-| Model | Description | 
-| :--- | :--- |
-| MLP | Context agnostic feedforward classifier (character level frequency matching, no sequential modeling) | 
-| LSTM | Recurrent neural network with memory cells (long-term sequential dependency tracking for periodic patterns) |
-| Character CNN | Convolutional architecture with multi-kernel filters (local n-gram pattern detection, window sizes 3-7) |
-| Transformer | Global self-attention mechanism (parallel position-aware processing, no explicit recurrence) |
+| Model | Architecture | Role |
+|:---|:---|:---|
+| BiLSTM | 2-layer bidirectional, 256 hidden units/direction | Primary reference: solves Vigenère via sequential counting |
+| Transformer | 4 layers, 8 heads, d_model=256, sinusoidal PE | Primary subject: fails to form modular positional structure |
+| Char-CNN | Parallel convolutions, kernel sizes {3,5,7}, 256 filters | Local pattern baseline: degrades as K exceeds receptive field |
+| MLP | 3 FC layers (512, 256, 128), character-independent | Frequency analysis lower bound |
 
+---
 
+## Ciphers
 
+| Cipher | Type | Task requirement |
+|:---|:---|:---|
+| Caesar | Monoalphabetic | Fixed shift | no positional reasoning needed |
+| Atbash | Monoalphabetic | Alphabet reversal | no positional reasoning needed |
+| Affine | Monoalphabetic | Linear map | no positional reasoning needed |
+| Vigenère | Polyalphabetic | Track `t mod K` | requires cycle phase encoding |
+| Substitution (Fixed) | Monoalphabetic | Arbitrary fixed map | no positional reasoning needed |
+| Substitution (Random) | Random per article | Negative control | no learnable structure |
+| AES-256 / DES | Modern block cipher | Negative control | cryptographically secure |
+
+Monoalphabetic ciphers serve as **positive controls**, all architectures solve them, confirming the Vigenère divergence is specific to periodicity.
