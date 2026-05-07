@@ -1,0 +1,182 @@
+Title: Ideal (order theory)
+
+In mathematical order theory, an ideal is a special subset of a partially ordered set (poset). Although this term historically was derived from the notion of a ring ideal of abstract algebra, it has subsequently been generalized to a different notion. Ideals are of great importance for many constructions in order and lattice theory.
+
+
+Definitions
+A subset I of a partially ordered set 
+  
+    
+      
+        (
+        P
+        ,
+        ≤
+        )
+      
+    
+    {\displaystyle (P,\leq )}
+  
+ is an ideal, if the following conditions hold:
+
+I is  non-empty,
+for every x in I and y in P, y ≤ x implies that y is in I  (I is a lower set),
+for every x, y in I, there is some element z in I, such that x ≤ z and y ≤ z  (I is a directed set).
+While this is the most general way to define an ideal for arbitrary posets, it was originally defined for lattices only. In this case, the following equivalent definition can be given:
+a subset I of a lattice 
+  
+    
+      
+        (
+        P
+        ,
+        ≤
+        )
+      
+    
+    {\displaystyle (P,\leq )}
+  
+ is an ideal if and only if it is a lower set that is closed under finite joins (suprema); that is, it is nonempty and for all x, y in I, the element 
+  
+    
+      
+        x
+        ∨
+        y
+      
+    
+    {\displaystyle x\vee y}
+  
+ of P is also in I.
+A weaker notion of order ideal is defined to be a subset of a poset P that satisfies the above conditions 1 and 2. In other words, an order ideal is simply a lower set. Similarly, an ideal can also be defined as a "directed lower set".
+The dual notion of an ideal, i.e., the concept obtained by reversing all ≤ and exchanging 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \vee }
+  
+ with 
+  
+    
+      
+        ∧
+        ,
+      
+    
+    {\displaystyle \wedge ,}
+  
+ is a filter.
+Frink ideals, pseudoideals and Doyle pseudoideals are different generalizations of the notion of a lattice ideal.
+An ideal or filter is said to be proper if it is not equal to the whole set P.
+The smallest ideal that contains a given element p is a principal ideal and p is said to be a principal element of the ideal in this situation. The principal ideal 
+  
+    
+      
+        ↓
+        p
+      
+    
+    {\displaystyle \downarrow p}
+  
+ for a principal p is thus given by ↓ p = {x ∈ P | x ≤ p}.
+
+
+Terminology confusion
+The above definitions of "ideal" and "order ideal" are the standard ones, but there is some confusion in terminology. Sometimes the words and definitions such as "ideal", "order ideal", "Frink ideal", or "partial order ideal" mean one another.
+
+
+Prime ideals
+An important special case of an ideal is constituted by those ideals whose set-theoretic complements are filters, i.e. ideals in the inverse order. Such ideals are called prime ideals. Also note that, since we require ideals and filters to be non-empty, every prime ideal is necessarily proper. For lattices, prime ideals can be characterized as follows:
+A subset I of a lattice 
+  
+    
+      
+        (
+        P
+        ,
+        ≤
+        )
+      
+    
+    {\displaystyle (P,\leq )}
+  
+ is a prime ideal, if and only if
+
+I is a proper ideal of P, and
+for all elements x and y of P, 
+  
+    
+      
+        x
+        ∧
+        y
+      
+    
+    {\displaystyle x\wedge y}
+  
+ in I implies that x ∈ I or y ∈ I.
+It is easily checked that this is indeed equivalent to stating that 
+  
+    
+      
+        P
+        ∖
+        I
+      
+    
+    {\displaystyle P\setminus I}
+  
+ is a filter (which is then also prime, in the dual sense).
+For a complete lattice the further notion of a completely prime ideal is meaningful.
+It is defined to be a proper ideal I with the additional property that, whenever the meet (infimum) of some arbitrary set A is in I, some element of A is also in I.
+So this is just a specific prime ideal that extends the above conditions to infinite meets.
+The existence of prime ideals is in general not obvious, and often a satisfactory amount of prime ideals cannot be derived within ZF (Zermelo–Fraenkel set theory without the axiom of choice).
+This issue is discussed in various prime ideal theorems, which are necessary for many applications that require prime ideals.
+
+
+Maximal ideals
+An ideal I is a maximal ideal if it is proper and there is no proper ideal J that is a strict superset of I. Likewise, a filter F is maximal if it is proper and there is no proper filter that is a strict superset.
+When a poset is a distributive lattice, maximal ideals and filters are necessarily prime, while the converse of this statement is false in general.
+Maximal filters are sometimes called ultrafilters, but this terminology is often reserved for Boolean algebras, where a maximal filter (ideal) is a filter (ideal) that contains exactly one of the elements {a, ¬a}, for each element a of the Boolean algebra. In Boolean algebras, the terms prime ideal and maximal ideal coincide, as do the terms prime filter and maximal filter.
+There is another interesting notion of maximality of ideals: Consider an ideal I and a filter F such that I is disjoint from F. We are interested in an ideal M that is maximal among all ideals that contain I and are disjoint from F. In the case of distributive lattices such an M is always a prime ideal. A proof of this statement follows.
+
+However, in general it is not clear whether there exists any ideal M that is maximal in this sense. Yet, if we assume the axiom of choice in our set theory, then the existence of M for every disjoint filter–ideal-pair can be shown. In the special case that the considered order is a Boolean algebra, this theorem is called the Boolean prime ideal theorem. It is strictly weaker than the axiom of choice and it turns out that nothing more is needed for many order-theoretic applications of ideals.
+
+
+Applications
+The construction of ideals and filters is an important tool in many applications of order theory.
+
+In Stone's representation theorem for Boolean algebras, the maximal ideals (or, equivalently via the negation map, ultrafilters) are used to obtain the set of points of a topological space, whose clopen sets are isomorphic to the original Boolean algebra.
+Order theory knows many completion procedures to turn posets into posets with additional completeness properties. For example, the ideal completion of a given partial order P is the set of all ideals of P ordered by subset inclusion. This construction yields the free dcpo generated by P. An ideal is principal if and only if it is compact in the ideal completion, so the original poset can be recovered as the sub-poset consisting of compact elements. Furthermore, every algebraic dcpo can be reconstructed as the ideal completion of its set of compact elements.
+
+
+History
+Ideals were introduced by Marshall H. Stone first for  Boolean algebras, where the name was derived from the ring ideals of abstract algebra. He adopted this terminology because, using the isomorphism of the categories of  Boolean algebras and of Boolean rings, the two notions do indeed coincide.
+Generalization to any posets was done by Frink.
+
+
+See also
+Filter (mathematics) – Special subset of a partially ordered set
+Ideal (ring theory) – Submodule of a mathematical ring
+Ideal on a set – Non-empty family of sets that is closed under finite unions and subsets
+Semigroup ideal
+Boolean prime ideal theorem – Ideals in a Boolean algebra can be extended to prime ideals
+
+
+Notes
+
+
+References
+Burris, Stanley N.; Sankappanavar, Hanamantagouda P. (1981). A Course in Universal Algebra. Springer-Verlag. ISBN 3-540-90578-2.
+Davey, Brian A.; Priestley, Hilary Ann (2002). Introduction to Lattices and Order (2nd ed.). Cambridge University Press. ISBN 0-521-78451-4.
+Taylor, Paul (1999), Practical foundations of mathematics, Cambridge Studies in Advanced Mathematics, vol. 59, Cambridge University Press, Cambridge, ISBN 0-521-63107-6, MR 1694820
+Frenchman, Zack; Hart, James (2020), An Introduction to Order Theory, AMS
+
+
+About history
+Stone, M. H. (1934), "Boolean Algebras and Their Application to Topology", Proc. Natl. Acad. Sci. U.S.A., 20 (3): 197–202, Bibcode:1934PNAS...20..197S, doi:10.1073/pnas.20.3.197, PMC 1076376, PMID 16587875
+Stone, M. H. (1935), "Subsumption of the Theory of Boolean Algebras under the Theory of Rings", Proc. Natl. Acad. Sci. U.S.A., 21 (2): 103–105, Bibcode:1935PNAS...21..103S, doi:10.1073/pnas.21.2.103, PMC 1076539, PMID 16587931
+Frink, Orrin (1954), "Ideals In Partially Ordered Sets", Am. Math. Mon., 61 (4): 223–234, doi:10.1080/00029890.1954.11988449

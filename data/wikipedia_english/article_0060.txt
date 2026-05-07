@@ -1,0 +1,226 @@
+Title: List of FV series military vehicles
+
+The following is a partial listing of FV ("fighting vehicle") numbers as used by the British Army. Some vehicles do not have FV numbers (e.g. the AS-90).
+
+
+0–999
+
+FV100: Series of vehicles based on heavy chassis
+FV101: Heavy assault tank
+FV102: Self-propelled gun, heavy anti-tank gun mounting
+FV100: Series of vehicles based on CVR(T)
+FV101: Scorpion armoured reconnaissance vehicle
+FV102: Striker five Swingfire missile launcher
+FV103: Spartan armoured personnel carrier
+FV104: Samaritan armoured ambulance
+FV105: Sultan armoured command vehicle
+FV106: Samson armoured recovery vehicle
+FV107: Scimitar armoured reconnaissance vehicle
+FV108: Streaker CVR(T) high mobility carrier with a number of variants, such as cargo carrier, fire fighter, refueller, Blowpipe/Milan carrier.
+FV109: Workhorse - replacement for FV432
+FV120: Spartan with Milan compact turret
+FV180: Combat Engineering Tractor
+FV200: Series of vehicles based on Universal Tank chassis
+FV201: Universal Tank (A45) 17 pdr (later 20 pdr) gun
+FV202: AVRE(T); with 6.5 inch BL gun
+FV203: AVRE(L)
+FV204: Universal tank, flail
+FV205: Self-propelled medium anti-tank gun
+FV207: Self-propelled heavy artillery gun with 6" gun
+FV209: Bridgelayer
+FV209: Armoured recovery vehicle
+FV210: Tractor, Heavy Artillery
+FV211: Tractor, Medium Artillery
+FV212: Assault Personnel Carrier
+FV213: BARV
+FV214: Tank, Heavy No. 1, 120 mm Gun, Conqueror
+FV215: Tank, Heavy No. 2, 183 mm Gun or Heavy Anti-Tank Gun, SP
+FV216: Tank, Heavy, Royal Engineers, Flail
+FV217: Self-propelled 120 mm Medium Anti-Tank No. 1
+FV219: Conqueror Armoured Recovery Vehicle Mk. 1
+FV221: Tank, Medium Gun, Caernarvon
+FV222: Conqueror Armoured Recovery Vehicle Mk. 2
+FV223: Bridgelayer, ARK
+FV300: Series of vehicles based on light chassis
+FV301: 21 ton light tank with 77 mm gun
+FV302: GPO/CPO command vehicle
+FV303: 20 pdr Self Propelled Gun
+FV304: 25 pdr Self Propelled Gun
+FV305: 5.5 inch Self Propelled Gun
+FV306: Light armoured recovery vehicle
+FV307: Radar vehicle
+FV308: Field artillery tractor
+FV309: RA section vehicle
+FV310: Armoured personnel carrier
+FV311: Armoured load carrier
+FV400: Series of vehicles based on carrier chassis
+FV401: Carrier, Cambridge Mk. 1 also known as Carrier, Universal, No. 4
+FV402: Observation post carrier
+FV403: Light anti-tank artillery tractor
+FV404: Charging vehicle
+FV405: General purpose vehicle
+FV406: Command vehicle
+FV407: Tentacle, ASSU (Air Support Signals Unit)
+FV408: Armoured Ambulance
+FV409: GPO/CPO vehicle
+FV421: 120 mm lightweight tank destroyer Badger based on FV400
+FV420: Tracked Load Carrier, 5 ton.
+FV421: Cargo carrier
+FV422: Personnel Carrier
+FV423: Command vehicle
+FV424: Carrier, Royal Engineers
+FV425: Carrier, REME
+FV426: Carrier Tracked, Launcher, Orange William
+FV430: Series of vehicles based on carrier chassis
+FV431: Armoured cargo carrier
+FV432: Armoured personnel carrier
+FV433: 105mm, Field Artillery, Self-Propelled, Abbot - with 105 mm SP gun
+FV434: Armoured Carrier, Maintenance, Full-tracked also known as Armoured Repair Vehicle
+FV435: Wavell communications vehicle
+FV436: Trial version of FV432 variant fitted with Green Archer radar, did not enter service.  Number subsequently used for brigade and division HQ staff vehicles.
+FV437: Pathfinder recovery vehicle with snorkel gear
+FV438: Swingfire anti-tank missile carrier
+FV439: Royal Signals variant
+FV510: Warrior Mechanised Combat Vehicle (MCV)
+FV511: Warrior Infantry Command Vehicle
+FV512: Warrior Repair Vehicle
+FV513: Warrior Recovery Vehicle
+FV514: Warrior Observation Post Vehicle
+FV515: Warrior Battery Command Vehicle
+FV600: Series of vehicles based on Alvis 6x6 wheeled chassis
+FV601: Saladin
+FV602: Saladin command vehicle
+FV603: Saracen
+FV604: Saracen Armoured Command Vehicle
+FV605: Saracen Ambulance
+FV610: Saracen RA CP (high roof)
+FV620: Truck, High Mobility Load Carrier, 5-Ton, 6 x 6, Stalwart Mk. 1
+FV622: Truck, High Mobility Load Carrier, 5-Ton, 6 x 6, Stalwart Mk. 2
+FV623: Truck, High Mobility Load Carrier, 5-Ton, 6 x 6, Stalwart Mk. 2, Limber
+FV624: Truck, High Mobility Load Carrier, 5-Ton, 6 x 6, Stalwart Mk. 2, REME Fitters
+FV651: Truck, Fire Crash, Foam, GP, Mk. 6, Salamander
+FV652: Truck, Fire Crash, Foam, Mk. 6A, Salamander
+FV700:  Series of vehicles based on Daimler Ferret 4x4 scout car
+FV701: Scout Car Liaison, Ferret Mk. 1/1
+FV702: Orange William test vehicle
+FV703: Scout Car Reconnaissance/GW, Ferret Mk. 2/6
+FV704: Scout Car Liaison Ferret Mk. 1/2
+FV711: Scout Car Reconnaissance, Ferret Mk. 4 (Big-wheeled)
+FV712: Scout Car Reconnaissance/GW, Ferret Mk. 5 (Big-wheeled)
+FV720: Series of vehicles based on CVR(W)
+FV721: Combat Vehicle Reconnaissance (Wheeled), Fox Mk 1/2
+FV722: Reconnaissance Vehicle (Wheeled), Vixen Mk1
+
+
+1000–9999
+
+FV1103: Leyland Martian Medium Artillery Tractor, 10-ton, 6 × 6 Leyland
+FV1119:  Tractor 10-ton Heavy 6 × 6 Leyland Recovery
+FV1601:  Truck Cargo 1-ton 4 × 4 GS, Humber
+FV1609: Humber Pig prototype
+FV1611:  Truck 1 Ton, Armoured 4 × 4 Humber Pig
+FV1612:  Humber Pig FFW/FFR
+FV1613:  Humber Pig Armoured Ambulance
+FV1620: Humber Hornet Truck 1 Ton, Air-portable Launcher, 4 × 4 Hornet (Malkara launcher)
+FV1801A: Truck, 1/4ton, CT, 4 × 4 Austin, Mk.1. (Austin Champ)
+FV1802:  Truck, Utility, CT, 4 × 4, Austin (prototypes only)
+FV2721a: Trailer - Centurion AVRE
+FV3011: Semi-trailer, 50 Ton - used with Thornycroft Antar tractor unit
+FV3601:  Trailer Transporter 50-ton
+FV3621:  Trailer Low-loader 20-ton
+FV3801: Gun Tractor Centurion components
+FV3802: 25 pdr SP Artillery Field Equipments Centurion components
+FV3803: Command Post Vehicle Centurion components
+FV3804: Ammunition Vehicle Centurion components
+FV3805: 5.5 inch SP guns Prototype only
+FV3806: 7.2 inch SP Gun Centurion components
+FV3900: Series of vehicles based on Churchill Mk. 7
+FV3901: Linked ARK
+FV3902: Flail vehicle also known as Toad
+FV3903: Churchill AVRE
+FV3904: Armoured personnel carrier
+FV4000: Series of vehicles based on Centurion tank
+FV4001: Mine clearer
+FV4002: Centurion Bridgelayer
+FV4003: Centurion AVRE
+FV4004: Conway SPG based on a Centurion Mark III hull with a larger calibre 120 mm L1 gun in a turret made from rolled plate. To be an interim design until Conqueror tank entered service. One built before the project was cancelled in 1951.
+FV4005: Heavy Anti-Tank, SP, No. 1 Centaur
+FV4006: Centurion ARV Mk. 2
+FV4007: Centurion Mk. 7, 8/1, 9/1, 9/2, 12
+FV4008: Centurion Mk. 7 DD
+FV4009: Medium tank
+FV4010: Heavy Tank Destroyer - with Malkara missiles
+FV4011: Centurion Mk. 5, 5/1
+FV4012: Centurion Mk. 7/1
+FV4013: Centurion Mk. 3 ARV
+FV4014: Centurion Mk. 8
+FV4015: Centurion Mk. 9
+FV4016: Centurion Bridgelayer, ARK
+FV4017: Centurion Mk. 10
+FV4018: Centurion BARV
+FV4019: Centurion Mk. 5 Bulldozer
+FV4030: Shir series Designed for Iran. Challenger predecessors
+FV4030/2: Shir 1 120 mm MBT Challenger predecessor. Renamed Khalid for supply to Jordan
+FV4030/3: Shir 2
+FV4030/4: Challenger 1
+FV4034: Challenger 2
+FV4101: Tank, Medium gun, Charioteer
+FV4201:  Chieftain MBT
+FV4202: "40 ton Centurion" experimental vehicle
+FV4203: Chieftain AVRE
+FV4204: Chieftain ARRV
+FV4205: Chieftain AVLB
+FV4207: Chieftain AEV (G)
+FV4211: Experimental (Aluminium) Chieftain
+FV4333: Stormer APC
+FV4401: Contentious - one-man tank with two 120 mm recoilless rifles
+FV4501: Armoured mine clearer
+FV4601: MBT-80 (3 experimental vehicles).
+
+
+9999 +
+FV11002:  Tractor 10-ton, 6 x 6 GS, AEC Militant Mk 2
+FV11003:  Truck Crane Bridging 6 x 6, AEC Militant
+FV11005:  Truck End-tipper 6 x 6, AEC Militant
+FV11009:  Truck, Fuel Tanker 2,500 gallon 6 x 6, AEC Militant
+FV11018:  Truck Cargo 10-ton 6 x 6 GS, AEC Militant Mk 1
+FV11010:  Tractor 10-ton 6 x 6 GS, AEC Militant
+FV11014:  Truck 10-ton 6 x 6 GS, AEC Excavator
+FV11021:  BV202E Articulated Sno-Cat
+FV11044:  Tractor 10-ton 6 x 6 Heavy Recovery, AEC
+FV11047:  Truck Cargo 10-ton 6 x 6 GS, AEC Militant Mk 3
+FV11061:  Armoured Command Vehicle, Heavy, AEC 10 ton 6 x 6
+FV11301:  Tractor 10-ton 6 x 6 GS, Scammell Recovery
+FV12002:  Tractor 30-ton 6 x 4 GS, Thornycroft Antar Mk 2
+FV12003:  Tractor 30-ton 6 x 4 GS, Thornycroft Antar (ballast body)
+FV12004:  Tractor 30-ton 6 x 4 GS, Thornycroft Antar Mk 3
+FV12101:  Tractor 20-ton 6 x 6 GS, Scammell
+FV12105:  Tractor 20-ton 6 x 6 GS, Scammell Mk 2
+FV13111:  Truck End-tipper 4-ton 4 x 4, Bedford
+FV13112:  Truck Cargo 4-ton 4 x 4 GS, Bedford
+FV13113:  Truck Mobile Workshop 4-ton 4 x 4, Bedford
+FV13142:  Truck Cargo 4-ton 4 x 4 Airportable, Bedford
+FV13165:  Truck Mobile Dental Clinic 4-ton 4 x 4, Bedford
+FV13201:  Truck 3-ton 4 x 4 GS, Commer
+FV13219:  Truck End-tipper 3-ton 4 x 4, Commer
+FV13206:  Truck Mobile Workshop 3-ton 4 x 4, Commer
+FV16001:  Truck Cargo 1-ton 4 x 4 GS, Austin
+FV16003:  Truck 1-ton 4 x 4 Wireless, Austin
+FV16008:  Truck 1-ton 4 x 4 200 Water-tanker, Austin
+FV16100:  Truck 1-ton 4 x 4, (series, Morris)
+FV18005:  Truck 3/4-ton 4 x 4 Ambulance Land Rover Series I
+FV18008:  Truck 3/4-ton 4 x 4 Ambulance Land Rover Series I
+FV18032:  Truck 3/4-ton 4 x 4 Line-laying
+FV18044:  Truck 3/4-ton 4 x 4 Ambulance Land Rover Series II
+FV18061:  Truck 3/4-ton 4 x 4 L.W.B GS (General Service)
+FV18062:  Truck 3/4-ton 4 x 4 L.W.B FFR (Fitted for Radio)
+FV18067:  Truck 3/4-ton 4 x 4 Ambulance 2/4 Stretcher
+FV23225:  Truck Light Recovery 4-ton 4 x 4, Bedford
+FV30011:  Semi-trailer, 50-ton, Tank Transporter
+
+
+Notes and references
+Notes
+
+Bibliography
+Norman, Michael, AFV Profile No. 38 Conqueror Heavy Gun Tank Profile Publications.
