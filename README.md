@@ -1,11 +1,11 @@
-# When Attention Fails to Count: A Mechanistic Study of Transformers on Periodic Pattern Tasks
+# Attention Cannot Track Cycles: Mechanistic Evidence from Vigen\`{e}re Cipher Decryption
 ---
 
 ## Overview
 
-This paper presents a mechanistic investigation of a specific and reproducible Transformer failure: the inability to track periodic positional structure. Using Vigenère cipher decryption as a controlled diagnostic — where success requires computing `position mod key_length` at every step — we assemble a chain of five experiments that rule out alternative explanations and converge on a precise mechanistic account.
+This paper presents a mechanistic investigation of a specific and reproducible Transformer failure, the inability to track periodic positional structure. Using Vigenère cipher decryption as a controlled diagnostic, where success requires computing `position mod key_length` at every step, we assemble a chain of five experiments that rule out alternative explanations and converge on a precise mechanistic account.
 
-**The core finding:** Transformers fail on Vigenère (9.88% word accuracy) while BiLSTMs succeed near-perfectly (99.91%), not because of poor hyperparameters, wrong positional encodings, or an unusual key length — but because the attention mechanism cannot form the modular positional structure that cycle tracking requires. Models trained under this constraint fall back on character frequency analysis, a qualitatively wrong strategy that degrades predictably as key length grows.
+**The core finding:** Transformers fail on Vigenère (9.88% word accuracy) while BiLSTMs succeed near perfectly (99.91%), not because of poor hyperparameters, wrong positional encodings, or an unusual key length, but because the attention mechanism cannot form the modular positional structure that cycle tracking requires. Models trained under this constraint fall back on character frequency analysis, a qualitatively wrong strategy that degrades predictably as key length grows.
 
 ---
 
@@ -13,14 +13,14 @@ This paper presents a mechanistic investigation of a specific and reproducible T
 
 ### 1. The Failure Is Large and Robust to Configuration
 - BiLSTM achieves **99.91%** word accuracy on Vigenère; Transformer achieves **9.88%**
-- **24 hyperparameter configurations** (layers 2–8, d_model 128–512, sinusoidal and learned PE) all yield ~39% character accuracy — a 60pp gap from BiLSTM
-- Transformer and MLP track each other within 0.2pp at every configuration, showing global attention offers no advantage over a position-agnostic baseline
+- **24 hyperparameter configurations** (layers 2–8, d_model 128–512, sinusoidal and learned PE) all yield ~39% character accuracy, a 60pp gap from BiLSTM
+- Transformer and MLP track each other within 0.2pp at every configuration, showing global attention offers no advantage over a position agnostic baseline
 
 ### 2. Oracle Positional Encoding Does Not Fix the Failure
 - Five PE variants tested: sinusoidal, NoPE, learned, RoPE, and a custom **oracle modular encoding** that directly provides `sin/cos(2π·(t mod K)/K)` as input features
-- Oracle PE reaches **59.57%** — still 40pp below BiLSTM
-- Causal (left-to-right) attention alone: **+0.67pp** — no effect
-- Causal + RoPE: **57.24%** — best Transformer condition, still 42.66pp below BiLSTM
+- Oracle PE reaches **59.57%**, still 40pp below BiLSTM
+- Causal (left-to-right) attention alone: **+0.67pp**, no effect
+- Causal + RoPE: **57.24%**, best Transformer condition, still 42.66pp below BiLSTM
 - The bottleneck is the attention mechanism itself, not the positional signal available to it
 
 ### 3. The Failure Scales With Cycle Complexity
@@ -62,56 +62,11 @@ This paper presents a mechanistic investigation of a specific and reproducible T
 
 ---
 
-## Repository Structure
-
-```
-├── data/
-│   └── cipher_datasets_english_1000/
-│       ├── vigenere/
-│       │   ├── train.json          # 700 plaintext-ciphertext pairs
-│       │   ├── val.json            # 150 pairs
-│       │   └── test.json           # 150 pairs
-│       ├── caesar/
-│       ├── atbash/
-│       ├── affine/
-│       ├── substitution_fixed/
-│       └── substitution_random/
-│
-├── notebooks/
-│   ├── priority1_attention_viz.ipynb   # Attention heatmaps + linear probe
-│   ├── priority2_hparam_search.ipynb   # 24-config grid search
-│   ├── priority3_pe_ablation.ipynb     # 5 PE variants including oracle
-│   ├── priority4_key_length.ipynb      # K=2,3,6,9,12,18 experiments
-│   ├── priority5_probing.ipynb         # Linear probing across key lengths
-│   └── causal_masking_ablation.ipynb   # Causal attention experiments
-│
-├── figures/
-│   ├── fig2_ideal_vs_actual_vs_subfixed.pdf
-│   ├── fig_p3_pe_comparison.pdf
-│   ├── fig_p4_key_length.pdf
-│   └── fig_p5_probing_condensed.pdf
-│
-└── paper/
-    └── keyless_cipher_mech_interpretability.pdf
-```
-
----
-
 ## Dataset
 
-The Vigenère diagnostic suite uses **1,000 English Wikipedia articles** encrypted with configurable keywords. Each split (700/150/150 train/val/test) is provided as JSON with the following structure:
+The Vigenère diagnostic suite uses **1,000 English Wikipedia articles** encrypted with configurable keywords with keyword CIPHER (K = 6), using a 70/15/15 train/validation/test split (700/150/150 articles). All text is lowercased and tokenised at the character level using 38 tokens: 26 lowercase letters, 10 digits, and two special tokens <PAD> and <UNK>. Sequences are truncated or padded to 512 characters.
 
-```json
-{
-  "id": 263,
-  "title": "List of alumni of Merton College, Oxford",
-  "plaintext": "see also former students...",
-  "ciphertext": "umt hpjq ndyqvt...",
-  "length": 5000
-}
-```
-
-For key length experiments, the same articles are re-encrypted using:
+For key length experiments, the same articles are encrypted again using:
 
 | K | Keyword |
 |:---:|:---:|
