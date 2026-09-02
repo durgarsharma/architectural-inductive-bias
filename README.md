@@ -1,11 +1,11 @@
-# Attention Cannot Track Cycles: Mechanistic Evidence from Vigenere Cipher Decryption
+# Probing What Attention Learns on Periodic Tasks: Evidence from Vigenère Cipher Decryption
 ---
 
 ## Overview
 
 This paper presents a mechanistic investigation of a specific and reproducible Transformer failure, the inability to track periodic positional structure. Using Vigenère cipher decryption as a controlled diagnostic, where success requires computing `position mod key_length` at every step, we assemble a chain of five experiments that rule out alternative explanations and converge on a precise mechanistic account.
 
-**The core finding:** Transformers fail on Vigenère (9.88% word accuracy) while BiLSTMs succeed near perfectly (99.91%), not because of poor hyperparameters, wrong positional encodings, or an unusual key length, but because the attention mechanism cannot form the modular positional structure that cycle tracking requires. Models trained under this constraint fall back on character frequency analysis, a qualitatively wrong strategy that degrades predictably as key length grows.
+**The core finding:** Transformers fail on Vigenère (9.88% word accuracy) while BiLSTMs succeed near-perfectly (99.91%), not because of poor hyperparameters or wrong positional encodings, even an oracle encoding providing `t mod K` directly raises accuracy to only 59.6%. Linear probing shows BiLSTM hidden states encode cycle phase with >99% accuracy across all key lengths, while Transformer probe accuracy falls near chance and below task accuracy at longer key lengths, suggesting the Transformer falls back on character frequency patterns rather than cycle tracking, a strategy that degrades predictably as key length grows and ciphertext distributions become more uniform.
 
 ---
 
